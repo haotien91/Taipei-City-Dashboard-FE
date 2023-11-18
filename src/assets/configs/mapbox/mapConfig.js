@@ -358,4 +358,16 @@ export const maplayerCommonLayout = {
 			60,
 		],
 	},
+	"symbol-kindergarten_pos": {
+		"icon-image": "playtime",
+	},
+	"symbol-childcare_pos": {
+		"icon-image": "cradle",
+	},
+	"symbol-play_pos": {
+		"icon-image": "play",
+	},
+	"symbol-Social-childcare-center_pos": {
+		"icon-image": "teacher",
+	},
 };
