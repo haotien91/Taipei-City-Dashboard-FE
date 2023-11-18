@@ -1,11 +1,6 @@
 {
 	"data": [
-<<<<<<< HEAD
 		{"_comment1": "我的儀表板",
-=======
-		{
-			"_comment1": "這坨是我的寶貝儀表板",
->>>>>>> 9207ad9 (2 graphs on map for childcares)
 			"name": "大測試",
 			"index": "tttttttt",
 			"components": ["2001", "2002", "441"],
