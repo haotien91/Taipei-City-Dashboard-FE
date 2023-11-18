@@ -35,9 +35,13 @@ import MapLegend from "./components/charts/MapLegend.vue";
 import MetroChart from "./components/charts/MetroChart.vue";
 import HeatmapChart from "./components/charts/HeatmapChart.vue";
 import PolarAreaChart from "./components/charts/PolarAreaChart.vue";
+<<<<<<< HEAD
 import PolarAreaChart2 from "./components/charts/PolarAreaChart2.vue";
 
 
+=======
+import LineColumnChart from "./components/charts/LineColumnChart.vue";
+>>>>>>> d8f92d4 (flood graph)
 const app = createApp(App);
 
 // Add Core Packages: Vue-Router, Pinia, Apexcharts
@@ -60,5 +64,9 @@ app.component("MapLegend", MapLegend);
 app.component("MetroChart", MetroChart);
 app.component("HeatmapChart", HeatmapChart);
 app.component("PolarAreaChart", PolarAreaChart);
+<<<<<<< HEAD
 app.component("PolarAreaChart2", PolarAreaChart2);
+=======
+app.component("LineColumnChart", LineColumnChart);
+>>>>>>> d8f92d4 (flood graph)
 app.mount("#app");

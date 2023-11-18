@@ -11,6 +11,11 @@ export const chartTypes = {
 	GuageChart: "量表圖",
 	RadarChart: "雷達圖",
 	HeatmapChart: "熱力圖",
+<<<<<<< HEAD
 	PolarAreaChart: "發放件數",
 	PolarAreaChart2: "發放金額"
+=======
+	PolarAreaChart: "極座標圓餅圖",
+	LineColumnChart: "長條折線混合圖"
+>>>>>>> d8f92d4 (flood graph)
 };
