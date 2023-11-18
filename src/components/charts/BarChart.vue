@@ -17,7 +17,7 @@ const chartOptions = ref({
 	},
 	colors: props.chart_config.color,
 	dataLabels: {
-		offsetX: 20,
+		offsetX: 40,
 		textAnchor: 'start',
 	},
 	grid: {
