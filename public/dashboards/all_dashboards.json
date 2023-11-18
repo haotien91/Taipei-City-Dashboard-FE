@@ -49,6 +49,12 @@
 			"icon": "bug_report"
 		},
 		{
+			"name": "祝你好孕",
+			"index": "goodluck",
+			"components": ["441"],
+			"icon": "favorite"
+		},
+		{
 			"name": "收藏組件",
 			"index": "favorites",
 			"components": ["108", "22", "79", "60", "107"],
