@@ -4202,7 +4202,7 @@
 			"history_data": true,
 			"chart_config": {
 				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
-				"color": ["#E6DF44", "#F4633C", "#D63940"],
+				"color": ["#FF8F59", "#D94600", "#642100"],
 				"unit": "人"
 			},
 			"name": "幼年、壯年及老年歷年人口數",
@@ -4210,8 +4210,8 @@
 			"time_from": "2023-11-18T00:00:00+08:00",
 			"time_to": null,
 			"short_desc": "",
-			"long_desc": "展示目前老年人口、壯年人口及幼年人口的比例，並顯示每一年的扶養比、扶幼比及扶老比，這些資訊基於臺北市資料大平台研究提供，更新頻率不定期。",
-			"use_case": "透過將每一年的扶養比、扶幼比及扶老比協助您了解目前壯年人口的扶養負擔趨勢。這有助於規劃老年及育兒的相關福利政策",
+			"long_desc": "展示歷年老年人口、壯年人口及幼年人口的比例。",
+			"use_case": "透過將每一年的人口變動協助您了解目前幼年、壯年及老年人口的增減趨勢。",
 			"tags": [],
 			"links": [
 				"https://data.taipei/"
@@ -4225,16 +4225,16 @@
 			"history_data": true,
 			"chart_config": {
 				"types": ["TimelineSeparateChart"],
-				"color": ["#E6DF44", "#F4633C", "#D63940"],
+				"color": ["#D9B300", "#5B4B00", "#AE57A4"],
 				"unit": "人"
 			},
-			"name": "幼年、壯年及老年歷年人口數",
+			"name": "扶幼比、扶老比及幼年人口和老年人口數歷年比值變化",
 			"source": "資訊局",
 			"time_from": "2023-11-18T00:00:00+08:00",
 			"time_to": null,
 			"short_desc": "",
-			"long_desc": "展示目前老年人口、壯年人口及幼年人口的比例，並顯示每一年的扶養比、扶幼比及扶老比，這些資訊基於臺北市資料大平台研究提供，更新頻率不定期。",
-			"use_case": "透過將每一年的扶養比、扶幼比及扶老比協助您了解目前壯年人口的扶養負擔趨勢。這有助於規劃老年及育兒的相關福利政策",
+			"long_desc": "展示歷年的扶幼比、扶老比及幼年人口及老年人口的比值變化。",
+			"use_case": "透過將每一年的扶幼比及扶老比協助您了解目前壯年人口的扶養負擔趨勢。這有助於規劃老年及育兒的相關福利政策",
 			"tags": [],
 			"links": [
 				"https://data.taipei/"
@@ -4252,8 +4252,8 @@
 							"interpolate",
 							["linear"],
 							["get", "populationRatio"],
-							0.1643, "#ECF5FF", 
-							0.2943, "#2894FF" 
+							0.1643, "#FFFFCC", 
+							0.2943, "#800026" 
 						],
 						"fill-opacity": 0.75
 					},
@@ -4276,7 +4276,12 @@
 				}
 			],
 			"chart_config": {
-				"color": ["#408080"],
+				"color": ["#FFFFCC",
+				"#e7d198",
+				"#d1a26c",
+				"#b9734a",
+				"#9f4333",
+				"#800026"],
 				"types": ["BarChart"],
 				"unit": "",
 				"map_filter": [
@@ -4303,10 +4308,10 @@
 			"time_to": null,
 			"update_freq": null,
 			"update_freq_unit": null,
-			"name": "各行政區的幼年和老年人口比",
-			"short_desc": "顯示全市各行政區的行道樹數量和分布位置",
-			"long_desc": "顯示全市各行政區的行道樹數量和分布位置，資料來源為台北市工務局開放資料，不定期更新。",
-			"use_case": "台北市行道樹的數量與分布位置資料，將幫助我們掌握行道樹的疏密情況，並進一步比較其與其他指標的相關性。",
+			"name": "各行政區的幼年和老年人口比值",
+			"short_desc": "顯示全市各行政區的幼年和老年人口比值",
+			"long_desc": "顯示全市各行政區的幼年和老年人口比值。",
+			"use_case": "透過各行政區的幼年和老年人口比值，能協助了解目前較需要育兒資源的行政區。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=64c8a3a0-3b9a-4f49-a13a-fb1eb2ffa4b1"
 			],
