@@ -4191,50 +4191,14 @@
 		"441": {
 			"id": 441,
 			"index": "newborn_and_elderly",
-			"map_config": [
-				{
-					"index": "youbike_demand",
-					"type": "fill",
-					"paint": {
-						"fill-color": [
-							"match",
-							["get", "category"],
-							"極低",
-							"#FFFFCC",
-							"低",
-							"#e7d198",
-							"中低",
-							"#d1a26c",
-							"中",
-							"#b9734a",
-							"高",
-							"#800026",
-							"#800026"
-						],
-						"fill-opacity": 0.8
-					},
-					"property": [
-						{
-							"key": "category",
-							"name": "總體需求"
-						}
-					],
-					"title": "潛在需求"
-				}
-			],
+			"map_config":null,
+			"history_data": true,
 			"chart_config": {
-				"categories": [
-					"57年",
-					"58年",
-					"59年",
-					"60年",
-					"61年"
-				],
 				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
 				"color": ["#E6DF44", "#F4633C", "#D63940"],
 				"unit": "人"
 			},
-			"name": "新生兒與高齡族群的資源爭奪",
+			"name": "幼年、壯年及老年歷年人口數",
 			"source": "資訊局",
 			"time_from": "2023-11-18T00:00:00+08:00",
 			"time_to": null,
