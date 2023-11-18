@@ -4269,8 +4269,8 @@
 				}
 			],
 			"chart_config": {
-				"color": ["#2894FF"],
-				"types": ["ColumnChart"],
+				"color": ["#408080"],
+				"types": ["BarChart"],
 				"unit": "",
 				"map_filter": [
 					"dist",
