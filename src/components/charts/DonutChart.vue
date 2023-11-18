@@ -72,7 +72,7 @@ const chartOptions = ref({
 	stroke: {
 		colors: ['#282a2c'],
 		show: true,
-		width: 3,
+		width: 5,
 	},
 	tooltip: {
 		followCursor: false,

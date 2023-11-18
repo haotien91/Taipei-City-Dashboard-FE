@@ -1,9 +1,9 @@
 {
 	"data": [
-		{"_comment1": "這坨是我的寶貝儀表板",
+		{"_comment1": "我的儀表板",
 			"name": "大測試",
 			"index": "tttttttt",
-			"components": ["2001","2002"],
+			"components": ["2001","2002","2003"],
 			"icon": "favorites"
 		},
 		{
