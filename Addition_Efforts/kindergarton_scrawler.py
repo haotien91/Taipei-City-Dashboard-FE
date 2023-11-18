@@ -2,8 +2,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
 import csv
-
+import time
 
 def clean_data(address):
     # 如果地址包含 "號"，则只保留 "號" 之前的部分
@@ -26,21 +27,34 @@ try:
     # 打开网页
     driver.get(url)
 
-    # 查找并点击页面上的某个元素，例如通过元素的 XPath 定位
-    element_xpath = "/html/body/form/div[5]/div[2]/div/div[1]/div[2]/div[1]/div/div[1]/div[2]/a[1]"
+    # # 查找并点击页面上的某个元素，例如通过元素的 XPath 定位
+    # element_xpath = "/html/body/form/div[6]/div[3]"
+    # element = driver.find_element(By.XPATH ,element_xpath)
+    # element.click()
+
+    element = driver.find_element(By.XPATH, "/html/body/form/div[6]/div[3]")
+    actions = ActionChains(driver)
+    actions.move_to_element(element).click().perform()
+
+    # element_xpath = driver.find_element(By.XPATH, "/html/body/form/div[6]/div[3]")
+    # driver.execute_script("arguments[0].click();", element_xpath)
+    time.sleep(2)
+
+
+    element_xpath = "/html/body/form/div[5]/div[3]/div/div[1]/div[2]/div[1]/div/div[1]/div[2]/a[1]"
     element = driver.find_element(By.XPATH ,element_xpath)
     element.click()
 
-    element_xpath = "/html/body/form/div[5]/div[2]/div/div[1]/div[2]/div[2]/div/div[1]/div[2]/a[1]"
+    element_xpath = "/html/body/form/div[5]/div[3]/div/div[1]/div[2]/div[2]/div/div[1]/div[2]/a[1]"
     element = driver.find_element(By.XPATH ,element_xpath)
     element.click()
 
-    element_xpath = "/html/body/form/div[5]/div[2]/div/div[1]/div[2]/div[3]/div/div[1]/div[2]/a[1]"
+    element_xpath = "/html/body/form/div[5]/div[3]/div/div[1]/div[2]/div[3]/div/div[1]/div[2]/a[1]"
     element = driver.find_element(By.XPATH ,element_xpath)
     element.click()
 
 
-    element_xpath = "/html/body/form/div[5]/div[2]/div/div[2]/div[1]"
+    element_xpath = "/html/body/form/div[5]/div[3]/div/div[2]/div[1]"
     element = driver.find_element(By.XPATH ,element_xpath)
     element.click()
 
