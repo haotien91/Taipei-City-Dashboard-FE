@@ -1,30 +1,5 @@
 {
 	"data": {
-		"2003": {
-			"id": 2003,
-			"index": "support_con",
-			"map_config": null,
-			"chart_config": {
-				"color": ["#9c7a3e", "#b7e28e", "#7febd0", "#8ce8ff","#00563F"],
-				"types": ["BarChart"],
-				"unit": "元",
-				"categories": [
-					"件數"
-				]
-			},
-			"name": "綜合資料",
-			"source": "都發局/消防局",
-			"time_from": "2023-06-02T00:00:00+08:00",
-			"time_to": null,
-			"update_freq": null,
-			"update_freq_unit": null,
-			"short_desc": "顯示當前全市建築屋齡分佈情況",
-			"long_desc": "顯示當前全市建築屋齡分佈情況，資料來源為台北市都發局及消防局，不定期更新。",
-			"use_case": "屋齡的計算基準是以建物使用執照生效年份起算，這可以作為了解台北市建築屋齡分佈情況的參考依據。",
-			"links": null,
-			"tags": [],
-			"contributors": ["tuic"]
-		},
 		"2002": {
 			"id": 2002,
 			"index": "hospi",
@@ -38,7 +13,7 @@
 					"#33C552",
 					"#800026"
 				],
-				"types": ["DonutChart", "BarChart","RadarChart"],
+				"types": ["DonutChart", "BarChart", "RadarChart"],
 				"unit": "元"
 			},
 			"name": "津貼與補助發放金額",
@@ -51,7 +26,9 @@
 			"long_desc": "顯示111年的未滿2歲幼兒育兒津貼、生育獎勵金、勞動部國民年金生育給付、勞保生育給付、育嬰留職停薪津貼",
 			"use_case": "透過各項津貼與補助發放金額去研究是否存在有申請數過低、申請困難或成果不負預期的補助項目，或是有哪方面的補助和津貼是多數人需要的，可以在該方面增添預算。",
 			"links": null,
-			"tags": ["https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2021102214/33122000082527211000.pdf"],
+			"tags": [
+				"https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2021102214/33122000082527211000.pdf"
+			],
 			"contributors": ["tuic"]
 		},
 		"2001": {
@@ -67,7 +44,7 @@
 					"#949449",
 					"#AD5A5A"
 				],
-				"types": ["PolarAreaChart","PolarAreaChart2"],
+				"types": ["PolarAreaChart", "PolarAreaChart2"],
 				"unit": "件",
 				"categories": [
 					"未滿2歲幼兒育兒津貼",
@@ -76,7 +53,7 @@
 					"勞保生育給付",
 					"育嬰留職停薪津貼"
 				]
-			},	
+			},
 			"name": "津貼補助件數與總金額",
 			"source": "",
 			"time_from": "2022-01-00T00:00:00+08:00",
@@ -4281,7 +4258,7 @@
 		"442": {
 			"id": 442,
 			"index": "newborn_and_elderly",
-			"map_config":null,
+			"map_config": null,
 			"history_data": true,
 			"chart_config": {
 				"types": ["TimelineSeparateChart"],
@@ -4296,9 +4273,7 @@
 			"long_desc": "展示歷年的扶幼比、扶老比及幼年人口及老年人口的比值變化。",
 			"use_case": "透過將每一年的扶幼比及扶老比協助您了解目前壯年人口的扶養負擔趨勢。這有助於規劃老年及育兒的相關福利政策",
 			"tags": [],
-			"links": [
-				"https://data.taipei/"
-			],
+			"links": ["https://data.taipei/"],
 			"contributors": ["tuic"]
 		},
 		"443": {
@@ -4312,8 +4287,10 @@
 							"interpolate",
 							["linear"],
 							["get", "populationRatio"],
-							0.1643, "#FFFFCC", 
-							0.2943, "#800026" 
+							0.1643,
+							"#FFFFCC",
+							0.2943,
+							"#800026"
 						],
 						"fill-opacity": 0.75
 					},
@@ -4336,12 +4313,14 @@
 				}
 			],
 			"chart_config": {
-				"color": ["#FFFFCC",
-				"#e7d198",
-				"#d1a26c",
-				"#b9734a",
-				"#9f4333",
-				"#800026"],
+				"color": [
+					"#FFFFCC",
+					"#e7d198",
+					"#d1a26c",
+					"#b9734a",
+					"#9f4333",
+					"#800026"
+				],
 				"types": ["BarChart"],
 				"unit": "",
 				"map_filter": [
@@ -4376,6 +4355,107 @@
 				"https://data.taipei/dataset/detail?id=64c8a3a0-3b9a-4f49-a13a-fb1eb2ffa4b1"
 			],
 			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"3500": {
+			"id": 3500,
+			"index": "children_welfare",
+			"map_config": [
+				{
+					"index": "childcare_pos",
+					"property": [
+						{
+							"key": "Name",
+							"name": "名稱"
+						},
+						{
+							"key": "Address",
+							"name": "地址"
+						}
+					],
+					"type": "symbol",
+					"title": "托嬰中心",
+					"size": null,
+					"icon": "childcare_pos"
+				},
+				{
+					"index": "kindergarten_pos",
+					"property": [
+						{
+							"key": "Name",
+							"name": "名稱"
+						},
+						{
+							"key": "Address",
+							"name": "地址"
+						}
+					],
+					"icon": "kindergarten_pos",
+					"title": "托兒所",
+					"size": null,
+					"type": "symbol"
+				},
+				{
+					"index": "district_requirement",
+					"paint": {
+						"fill-color": [
+							"interpolate",
+							["linear"],
+							["get", "Requirement"],
+							0.1643,
+							"#ECF5FF",
+							0.2943,
+							"#2894FF"
+						],
+						"fill-opacity": 0.75
+					},
+					"property": [
+						{
+							"key": "FULL",
+							"name": "里名"
+						},
+						{
+							"key": "total_score",
+							"name": "托育收容人數"
+						},
+						{
+							"key": "child_sum",
+							"name": "6歲前兒童數"
+						},
+						{
+							"key": "Requirement",
+							"name": "每新生兒可使用收容名額"
+						}
+					],
+					"type": "fill",
+					"title": "每新生兒可使用收容名額"
+				}
+			],
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": "#d76c29",
+					"name": "托嬰中心",
+					"value": null,
+					"icon": "cradle"
+				},
+				{
+					"type": "symbol",
+					"color": "#d76c29",
+					"name": "托兒所",
+					"value": null,
+					"icon": "playtime"
+				}
+			],
+			"name": "育嬰機構分布",
+			"source": "祝您好孕",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
 			"contributors": ["tuic"]
 		}
 	}
