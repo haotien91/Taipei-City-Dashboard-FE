@@ -3,7 +3,7 @@
 		{"_comment1": "這坨是我的寶貝儀表板",
 			"name": "大測試",
 			"index": "tttttttt",
-			"components": ["2001","2002","2003"],
+			"components": ["2001","2002"],
 			"icon": "favorites"
 		},
 		{
@@ -17,6 +17,12 @@
 			"index": "testing",
 			"components": ["117", "118", "61", "74"],
 			"icon": "bug_report"
+		},
+		{
+			"name": "扶養比",
+			"index": "goodluck",
+			"components": ["441", "442", "443"],
+			"icon": "favorite"
 		},
 		{
 			"name": "收藏組件",
