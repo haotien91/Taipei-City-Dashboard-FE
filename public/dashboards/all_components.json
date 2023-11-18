@@ -1,39 +1,5 @@
 {
 	"data": {
-		"2003": {
-			"id": 2003,
-			"index": "support_con",
-			"map_config": null,
-			"chart_config": {
-<<<<<<< HEAD
-				"color": ["#9c7a3e", "#b7e28e", "#7febd0", "#8ce8ff","#00563F"],
-				"types": ["BarChart"],
-=======
-				"color": [
-					"#9c7a3e",
-					"#b7e28e",
-					"#7febd0",
-					"#8ce8ff",
-					"#00563F"
-				],
-				"types": ["Polar_Area"],
->>>>>>> 9207ad9 (2 graphs on map for childcares)
-				"unit": "元",
-				"categories": ["件數"]
-			},
-			"name": "綜合資料",
-			"source": "都發局/消防局",
-			"time_from": "2023-06-02T00:00:00+08:00",
-			"time_to": null,
-			"update_freq": null,
-			"update_freq_unit": null,
-			"short_desc": "顯示當前全市建築屋齡分佈情況",
-			"long_desc": "顯示當前全市建築屋齡分佈情況，資料來源為台北市都發局及消防局，不定期更新。",
-			"use_case": "屋齡的計算基準是以建物使用執照生效年份起算，這可以作為了解台北市建築屋齡分佈情況的參考依據。",
-			"links": null,
-			"tags": [],
-			"contributors": ["tuic"]
-		},
 		"2002": {
 			"id": 2002,
 			"index": "hospi",
@@ -78,7 +44,6 @@
 					"#949449",
 					"#AD5A5A"
 				],
-<<<<<<< HEAD
 				"types": ["PolarAreaChart","BarChart"],
 				"unit": "件",
 				"categories": [
@@ -89,11 +54,6 @@
 					"育嬰留職停薪津貼"
 				]
 			},	
-=======
-				"types": ["DonutChart", "BarChart", "RadarChart"],
-				"unit": "件"
-			},
->>>>>>> 9207ad9 (2 graphs on map for childcares)
 			"name": "津貼與補助發放件數",
 			"source": "津貼與補助發放件數",
 			"time_from": "2022-01-00T00:00:00+08:00",
@@ -4229,8 +4189,8 @@
 			"links": ["https://data.taipei/"],
 			"contributors": ["tuic"]
 		},
-		"442": {
-			"id": 442,
+		"3500": {
+			"id": 3500,
 			"index": "children_welfare",
 			"map_config": [
 				{
