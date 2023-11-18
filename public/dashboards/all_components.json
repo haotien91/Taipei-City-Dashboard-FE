@@ -4357,107 +4357,6 @@
 			"tags": [],
 			"contributors": ["tuic"]
 		},
-<<<<<<< HEAD
-		"3500": {
-			"id": 3500,
-			"index": "children_welfare",
-			"map_config": [
-				{
-					"index": "childcare_pos",
-					"property": [
-						{
-							"key": "Name",
-							"name": "名稱"
-						},
-						{
-							"key": "Address",
-							"name": "地址"
-						}
-					],
-					"type": "symbol",
-					"title": "托嬰中心",
-					"size": null,
-					"icon": "childcare_pos"
-				},
-				{
-					"index": "kindergarten_pos",
-					"property": [
-						{
-							"key": "Name",
-							"name": "名稱"
-						},
-						{
-							"key": "Address",
-							"name": "地址"
-						}
-					],
-					"icon": "kindergarten_pos",
-					"title": "托兒所",
-					"size": null,
-					"type": "symbol"
-				},
-				{
-					"index": "district_requirement",
-					"paint": {
-						"fill-color": [
-							"interpolate",
-							["linear"],
-							["get", "Requirement"],
-							0.1643,
-							"#ECF5FF",
-							0.2943,
-							"#2894FF"
-						],
-						"fill-opacity": 0.75
-					},
-					"property": [
-						{
-							"key": "FULL",
-							"name": "里名"
-						},
-						{
-							"key": "total_score",
-							"name": "托育收容人數"
-						},
-						{
-							"key": "child_sum",
-							"name": "6歲前兒童數"
-						},
-						{
-							"key": "Requirement",
-							"name": "每新生兒可使用收容名額"
-						}
-					],
-					"type": "fill",
-					"title": "每新生兒可使用收容名額"
-				}
-			],
-			"chart_config": {
-				"types": ["MapLegend"]
-			},
-			"chart_data": [
-				{
-					"type": "symbol",
-					"color": "#d76c29",
-					"name": "托嬰中心",
-					"value": null,
-					"icon": "cradle"
-				},
-				{
-					"type": "symbol",
-					"color": "#d76c29",
-					"name": "托兒所",
-					"value": null,
-					"icon": "playtime"
-				}
-			],
-			"name": "育嬰機構分布",
-			"source": "祝您好孕",
-			"time_from": null,
-			"time_to": null,
-			"update_freq": null,
-			"update_freq_unit": null,
-=======
 		"444": {
 			"id": 444,
 			"index": "pay",
@@ -4478,7 +4377,6 @@
 			"use_case": "屋齡的計算基準是以建物使用執照生效年份起算，這可以作為了解台北市建築屋齡分佈情況的參考依據。",
 			"links": null,
 			"tags": [],
->>>>>>> d8f92d4 (flood graph)
 			"contributors": ["tuic"]
 		}
 	}
