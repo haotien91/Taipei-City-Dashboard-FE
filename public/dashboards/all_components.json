@@ -4175,7 +4175,7 @@
 			"history_data": true,
 			"chart_config": {
 				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
-				"color": ["#FF8F59", "#D94600", "#7B7B7B"],
+				"color": ["#FF8F59", "#D94600", "#642100"],
 				"unit": "人"
 			},
 			"name": "幼年、壯年及老年歷年人口數",
@@ -4189,72 +4189,6 @@
 			"links": ["https://data.taipei/"],
 			"contributors": ["tuic"]
 		},
-		"3500": {
-			"id": 3500,
-			"index": "children_welfare",
-			"map_config": [
-				{
-					"index": "childcare_pos",
-					"property": [
-						{
-							"key": "Name",
-							"name": "名稱"
-						},
-						{
-							"key": "Address",
-							"name": "地址"
-						}
-					],
-					"type": "symbol",
-					"title": "托嬰中心",
-					"size": null,
-					"icon": "childcare_pos"
-				},
-				{
-					"index": "kindergarten_pos",
-					"property": [
-						{
-							"key": "Name",
-							"name": "名稱"
-						},
-						{
-							"key": "Address",
-							"name": "地址"
-						}
-					],
-					"icon": "kindergarten_pos",
-					"title": "托兒所",
-					"size": null,
-					"type": "symbol"
-				}
-			],
-			"chart_config": {
-				"types": ["MapLegend"]
-			},
-			"chart_data": [
-				{
-					"type": "symbol",
-					"color": "#d76c29",
-					"name": "托嬰中心",
-					"value": null,
-					"icon": "cradle"
-				},
-				{
-					"type": "symbol",
-					"color": "#d76c29",
-					"name": "托兒所",
-					"value": null,
-					"icon": "playtime"
-				}
-			],
-			"name": "育嬰機構分布",
-			"source": "祝您好孕",
-			"time_from": null,
-			"time_to": null,
-			"update_freq": null,
-			"update_freq_unit": null,
-			"contributors": ["tuic"]
-		},
 		"442": {
 			"id": 442,
 			"index": "newborn_and_elderly",
@@ -4262,7 +4196,7 @@
 			"history_data": true,
 			"chart_config": {
 				"types": ["TimelineSeparateChart"],
-				"color": ["#D9B300", "#ADADAD", "#AE57A4"],
+				"color": ["#D9B300", "#5B4B00", "#AE57A4"],
 				"unit": "人"
 			},
 			"name": "扶幼比、扶老比及幼年人口和老年人口數歷年比值變化",
@@ -4357,26 +4291,105 @@
 			"tags": [],
 			"contributors": ["tuic"]
 		},
-		"444": {
-			"id": 444,
-			"index": "pay",
-			"map_config": null,
+		"3500": {
+			"id": 3500,
+			"index": "children_welfare",
+			"map_config": [
+				{
+					"index": "childcare_pos",
+					"property": [
+						{
+							"key": "Name",
+							"name": "名稱"
+						},
+						{
+							"key": "Address",
+							"name": "地址"
+						}
+					],
+					"type": "symbol",
+					"title": "托嬰中心",
+					"size": null,
+					"icon": "childcare_pos"
+				},
+				{
+					"index": "kindergarten_pos",
+					"property": [
+						{
+							"key": "Name",
+							"name": "名稱"
+						},
+						{
+							"key": "Address",
+							"name": "地址"
+						}
+					],
+					"icon": "kindergarten_pos",
+					"title": "托兒所",
+					"size": null,
+					"type": "symbol"
+				},
+				{
+					"index": "district_requirement",
+					"paint": {
+						"fill-color": [
+							"interpolate",
+							["linear"],
+							["get", "Requirement"],
+							0.1643,
+							"#ECF5FF",
+							0.2943,
+							"#2894FF"
+						],
+						"fill-opacity": 0.75
+					},
+					"property": [
+						{
+							"key": "FULL",
+							"name": "里名"
+						},
+						{
+							"key": "total_score",
+							"name": "托育收容人數"
+						},
+						{
+							"key": "child_sum",
+							"name": "6歲前兒童數"
+						},
+						{
+							"key": "Requirement",
+							"name": "收容名額/兒童"
+						}
+					],
+					"type": "fill",
+					"title": "每新生兒可使用收容名額"
+				}
+			],
 			"chart_config": {
-				"color": ["#9c7a3e", "#b7e28e", "#7febd0", "#8ce8ff","#00563F"],
-				"types": ["LineColumnChart"],
-				"unit": "萬元"
+				"types": ["MapLegend"]
 			},
-			"name": "育兒支出及各年齡收入中位數關係圖",
-			"source": "社會局",
-			"time_from": "2021",
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": "#d76c29",
+					"name": "托嬰中心",
+					"value": null,
+					"icon": "cradle"
+				},
+				{
+					"type": "symbol",
+					"color": "#d76c29",
+					"name": "托兒所",
+					"value": null,
+					"icon": "playtime"
+				}
+			],
+			"name": "育嬰機構分布",
+			"source": "祝您好孕",
+			"time_from": null,
 			"time_to": null,
 			"update_freq": null,
 			"update_freq_unit": null,
-			"short_desc": "顯示當前全市建築屋齡分佈情況",
-			"long_desc": "顯示當前全市建築屋齡分佈情況，資料來源為台北市都發局及消防局，不定期更新。",
-			"use_case": "屋齡的計算基準是以建物使用執照生效年份起算，這可以作為了解台北市建築屋齡分佈情況的參考依據。",
-			"links": null,
-			"tags": [],
 			"contributors": ["tuic"]
 		}
 	}
