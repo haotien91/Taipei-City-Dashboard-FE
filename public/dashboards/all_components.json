@@ -1,5 +1,30 @@
 {
 	"data": {
+		"2003": {
+			"id": 2003,
+			"index": "support_con",
+			"map_config": null,
+			"chart_config": {
+				"color": ["#9c7a3e", "#b7e28e", "#7febd0", "#8ce8ff","#00563F"],
+				"types": ["BarChart"],
+				"unit": "元",
+				"categories": [
+					"件數"
+				]
+			},
+			"name": "綜合資料",
+			"source": "都發局/消防局",
+			"time_from": "2023-06-02T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示當前全市建築屋齡分佈情況",
+			"long_desc": "顯示當前全市建築屋齡分佈情況，資料來源為台北市都發局及消防局，不定期更新。",
+			"use_case": "屋齡的計算基準是以建物使用執照生效年份起算，這可以作為了解台北市建築屋齡分佈情況的參考依據。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
+		},
 		"2002": {
 			"id": 2002,
 			"index": "hospi",
@@ -13,7 +38,7 @@
 					"#33C552",
 					"#800026"
 				],
-				"types": ["DonutChart", "BarChart", "RadarChart"],
+				"types": ["DonutChart", "BarChart","RadarChart"],
 				"unit": "元"
 			},
 			"name": "津貼與補助發放金額",
@@ -26,9 +51,7 @@
 			"long_desc": "顯示111年的未滿2歲幼兒育兒津貼、生育獎勵金、勞動部國民年金生育給付、勞保生育給付、育嬰留職停薪津貼",
 			"use_case": "透過各項津貼與補助發放金額去研究是否存在有申請數過低、申請困難或成果不負預期的補助項目，或是有哪方面的補助和津貼是多數人需要的，可以在該方面增添預算。",
 			"links": null,
-			"tags": [
-				"https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2021102214/33122000082527211000.pdf"
-			],
+			"tags": ["https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2021102214/33122000082527211000.pdf"],
 			"contributors": ["tuic"]
 		},
 		"2001": {
@@ -44,7 +67,7 @@
 					"#949449",
 					"#AD5A5A"
 				],
-				"types": ["PolarAreaChart","BarChart"],
+				"types": ["PolarAreaChart","PolarAreaChart2"],
 				"unit": "件",
 				"categories": [
 					"未滿2歲幼兒育兒津貼",
@@ -54,15 +77,15 @@
 					"育嬰留職停薪津貼"
 				]
 			},	
-			"name": "津貼與補助發放件數",
-			"source": "津貼與補助發放件數",
+			"name": "津貼補助件數與總金額",
+			"source": "",
 			"time_from": "2022-01-00T00:00:00+08:00",
 			"time_to": "2023-12-31T00:00:00+08:00",
 			"update_freq": 1,
 			"update_freq_unit": "day",
-			"short_desc": "顯示各項津貼與補助發放件數",
-			"long_desc": "顯示近一週從週一起臺北市陳情系統所接收到的陳情案件，資料來源為臺北市陳情系統內部資料，每天更新，並提供一年內每個月的陳情案件總數資料。",
-			"use_case": "透過陳情案件的統計資訊，我們可以追蹤近一週內台北市各行政區收到的陳情案件，也可了解一年內每個月的陳情案件總數變化。",
+			"short_desc": "顯示各項津貼與補助發放件數與總發放金額",
+			"long_desc": "顯示111年的未滿2歲幼兒育兒津貼、生育獎勵金、勞動部國民年金生育給付、勞保生育給付、育嬰留職停薪津貼",
+			"use_case": "透過各項津貼與補助發放金額去研究是否存在有申請數過低、申請困難或成果不負預期的補助項目，或是有哪方面的補助和津貼是多數人需要的，可以在該方面增添預算。",
 			"links": null,
 			"tags": [],
 			"contributors": ["tuic"]

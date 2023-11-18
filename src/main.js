@@ -35,6 +35,9 @@ import MapLegend from "./components/charts/MapLegend.vue";
 import MetroChart from "./components/charts/MetroChart.vue";
 import HeatmapChart from "./components/charts/HeatmapChart.vue";
 import PolarAreaChart from "./components/charts/PolarAreaChart.vue";
+import PolarAreaChart2 from "./components/charts/PolarAreaChart2.vue";
+
+
 const app = createApp(App);
 
 // Add Core Packages: Vue-Router, Pinia, Apexcharts
@@ -57,4 +60,5 @@ app.component("MapLegend", MapLegend);
 app.component("MetroChart", MetroChart);
 app.component("HeatmapChart", HeatmapChart);
 app.component("PolarAreaChart", PolarAreaChart);
+app.component("PolarAreaChart2", PolarAreaChart2);
 app.mount("#app");

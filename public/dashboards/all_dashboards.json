@@ -3,7 +3,11 @@
 		{"_comment1": "我的儀表板",
 			"name": "大測試",
 			"index": "tttttttt",
+<<<<<<< HEAD
 			"components": ["2001", "2002", "441"],
+=======
+			"components": ["2001"],
+>>>>>>> 9e6da3d (hi)
 			"icon": "favorites"
 		},
 		{
