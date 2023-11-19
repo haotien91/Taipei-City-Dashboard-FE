@@ -2,8 +2,38 @@
 	"data": {
 		"2002": {
 			"id": 2002,
-			"index": "hospi",
-			"map_config": null,
+			"index": "Breastfeeding Room",
+			"map_config": [
+				{
+					"index": "breastfeeding_rooms",
+					"paint": {
+						"circle-stroke-color": "#8bc34a",
+						"circle-stroke-width": 1.5
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "機構名稱"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						},
+						{
+							"key": "phone",
+							"name": "電話"
+						},
+						{
+							"key": "hours",
+							"name": "營業時間"
+						}
+					],
+					"type": "circle",
+					"size": null,
+					"title": "哺乳室"
+				}
+				
+			],
 			"history_data": false,
 			"chart_config": {
 				"color": [
@@ -13,22 +43,20 @@
 					"#33C552",
 					"#800026"
 				],
-				"types": ["DonutChart", "BarChart", "RadarChart"],
+				"types": ["DonutChart", "BarChart","RadarChart"],
 				"unit": "元"
 			},
-			"name": "津貼與補助發放金額",
-			"source": "津貼與補助發放金額",
-			"time_from": "2022-05-28T00:00:00+08:00",
-			"time_to": "2023-06-01T00:00:00+08:00",
+			"name": "北市各區哺乳室數量",
+			"source": "哺乳室",
+			"time_from": "",
+			"time_to": "",
 			"update_freq": 1,
 			"update_freq_unit": "day",
-			"short_desc": "顯示各項津貼與補助發放金額",
-			"long_desc": "顯示111年的未滿2歲幼兒育兒津貼、生育獎勵金、勞動部國民年金生育給付、勞保生育給付、育嬰留職停薪津貼",
-			"use_case": "透過各項津貼與補助發放金額去研究是否存在有申請數過低、申請困難或成果不負預期的補助項目，或是有哪方面的補助和津貼是多數人需要的，可以在該方面增添預算。",
+			"short_desc": "顯示北市分區內哺乳室數量",
+			"long_desc": "根據哺乳式數量分布和以地圖呈現的密度感，可以給使用者感受到明顯的分布狀況",
+			"use_case": "根據ARC地區圖可以感受到密度分布，可得知明顯高密顧區域。",
 			"links": null,
-			"tags": [
-				"https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2021102214/33122000082527211000.pdf"
-			],
+			"tags": ["https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2021102214/33122000082527211000.pdf"],
 			"contributors": ["tuic"]
 		},
 		"2001": {

@@ -5,7 +5,7 @@
 			"name": "大測試",
 			"index": "tttttttt",
 
-			"components": ["2001"],
+			"components": ["2001","2002","9"],
 
 			"icon": "favorites"
 		},
