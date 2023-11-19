@@ -4296,50 +4296,16 @@
 			"index": "children_welfare",
 			"map_config": [
 				{
-					"index": "childcare_pos",
-					"property": [
-						{
-							"key": "Name",
-							"name": "名稱"
-						},
-						{
-							"key": "Address",
-							"name": "地址"
-						}
-					],
-					"type": "symbol",
-					"title": "托嬰中心",
-					"size": null,
-					"icon": "childcare_pos"
-				},
-				{
-					"index": "kindergarten_pos",
-					"property": [
-						{
-							"key": "Name",
-							"name": "名稱"
-						},
-						{
-							"key": "Address",
-							"name": "地址"
-						}
-					],
-					"icon": "kindergarten_pos",
-					"title": "托兒所",
-					"size": null,
-					"type": "symbol"
-				},
-				{
 					"index": "district_requirement",
 					"paint": {
 						"fill-color": [
 							"interpolate",
 							["linear"],
 							["get", "Requirement"],
-							0.1643,
+							0.0468,
 							"#ECF5FF",
-							0.2943,
-							"#2894FF"
+							0.3594,
+							"#E87A90"
 						],
 						"fill-opacity": 0.75
 					},
@@ -4362,13 +4328,62 @@
 						}
 					],
 					"type": "fill",
-					"title": "每新生兒可使用收容名額"
+					"title": "收容名額/兒童"
+				},
+				{
+					"index": "childcare_pos",
+					"property": [
+						{
+							"key": "class",
+							"name": "類別"
+						},
+						{
+							"key": "Name",
+							"name": "名稱"
+						},
+						{
+							"key": "Address",
+							"name": "地址"
+						}
+					],
+					"type": "symbol",
+					"title": "托嬰中心",
+					"size": "small",
+					"icon": "childcare_pos"
+				},
+				{
+					"index": "kindergarten_pos",
+					"property": [
+						{
+							"key": "class",
+							"name": "類別"
+						},
+						{
+							"key": "Name",
+							"name": "名稱"
+						},
+						{
+							"key": "Address",
+							"name": "地址"
+						}
+					],
+					"icon": "kindergarten_pos",
+					"title": "托兒所",
+					"size": "small",
+					"type": "symbol"
 				}
 			],
 			"chart_config": {
-				"types": ["MapLegend"]
+				"types": ["MapLegend"],
+				"unit": "間",
+				"map_filter": ["class", ["托嬰中心", "托兒所"]]
 			},
 			"chart_data": [
+				{
+					"color": "#c87a74",
+					"type": "fill",
+					"name": "收容名額/兒童"
+				},
 				{
 					"type": "symbol",
 					"color": "#d76c29",
@@ -4384,12 +4399,33 @@
 					"icon": "playtime"
 				}
 			],
-			"name": "育嬰機構分布",
+			"name": "每里托育負荷",
 			"source": "祝您好孕",
 			"time_from": null,
 			"time_to": null,
 			"update_freq": null,
 			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"3503": {
+			"id": 3503,
+			"index": "fertilizing rate",
+			"map_config": null,
+			"history_data": false,
+			"chart_config": {
+				"types": ["BarPercentChart"],
+				"color": ["#4dd97a", "#0a85f4"],
+				"unit": "千分比"
+			},
+			"name": "育齡婦女生育率",
+			"source": "data.taipei",
+			"short_desc": "顯示不同十年婦女育齡生育率",
+			"long_desc": "顯示不同十年婦女育齡生育率，資料來源為台北市資料大平台",
+			"use_case": "藉由這些圖表數據，我們可以觀察產婦是否存在逐漸提高年齡的現象，從而制定政策因應。",
+			"links": [
+				"https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=2866f305-218a-4d35-91e1-506860e99c13"
+			],
+			"tags": [],
 			"contributors": ["tuic"]
 		}
 	}
