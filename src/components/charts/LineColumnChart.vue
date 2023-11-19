@@ -8,34 +8,46 @@ const mapStore = useMapStore();
 
 
 const chartOptions = ref({
+	tooltip: {
+        theme: 'dark', // 使用浅色主题，或者 'dark' 用于深色主题
+        style: {
+            fontSize: '12px',
+            fontFamily: 'Helvetica, Arial, sans-serif',
+            colors: ['#000000'], // 设置工具提示文字为黑色
+        },
+        x: {
+            show: true,
+            format: 'dd MMM',
+            formatter: undefined,
+        },
+    },
             chart: {
               height: 350,
               type: 'line',
+			  toolbar: {
+				show: false
+			},
             },
+			grid: {
+				show: false,
+			},
+			legend: {
+				show: false,
+			},
             stroke: {
-              width: [0, 4]
+              width: [0, 4],
             },
-            title: {
-              text: 'Traffic Sources'
-            },
-            dataLabels: {
-              enabled: true,
-              enabledOnSeries: [1]
-            },
-            labels: ['01 Jan 2001', '02 Jan 2001', '03 Jan 2001', '04 Jan 2001', '05 Jan 2001', '06 Jan 2001', '07 Jan 2001', '08 Jan 2001', '09 Jan 2001', '10 Jan 2001', '11 Jan 2001', '12 Jan 2001'],
+            labels: ['25以下', '25~29', '30~39', '40~49', '50~64', '65以上'],
             xaxis: {
-              type: 'datetime'
+				title: {
+                text: "年齡",
+              },
             },
             yaxis: [{
               title: {
-                text: 'Website Blog',
+                text: "萬元",
               },
             
-            }, {
-              opposite: true,
-              title: {
-                text: 'Social Media'
-              }
             }]
 });
 </script>

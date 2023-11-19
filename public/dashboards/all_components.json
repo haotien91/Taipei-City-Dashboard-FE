@@ -4203,7 +4203,7 @@
 			"history_data": true,
 			"chart_config": {
 				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
-				"color": ["#FF8F59", "#D94600", "#642100"],
+				"color": ["#FF8F59", "#D94600", "#7B7B7B"],
 				"unit": "人"
 			},
 			"name": "幼年、壯年及老年歷年人口數",
@@ -4224,7 +4224,7 @@
 			"history_data": true,
 			"chart_config": {
 				"types": ["TimelineSeparateChart"],
-				"color": ["#D9B300", "#5B4B00", "#AE57A4"],
+				"color": ["#D9B300", "#ADADAD", "#AE57A4"],
 				"unit": "人"
 			},
 			"name": "扶幼比、扶老比及幼年人口和老年人口數歷年比值變化",
@@ -4418,6 +4418,27 @@
 			"time_to": null,
 			"update_freq": null,
 			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"444": {
+			"id": 444,
+			"index": "pay",
+			"map_config": null,
+			"chart_config": {
+				"types": ["LineColumnChart"],
+				"unit": "萬元"
+			},
+			"name": "育兒支出及各年齡收入中位數關係圖",
+			"source": "社會局",
+			"time_from": "2021",
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示當前全市建築屋齡分佈情況",
+			"long_desc": "顯示當前全市建築屋齡分佈情況，資料來源為台北市都發局及消防局，不定期更新。",
+			"use_case": "屋齡的計算基準是以建物使用執照生效年份起算，這可以作為了解台北市建築屋齡分佈情況的參考依據。",
+			"links": null,
+			"tags": [],
 			"contributors": ["tuic"]
 		}
 	}

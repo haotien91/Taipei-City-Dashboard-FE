@@ -4,9 +4,7 @@
 			"_comment1": "我的儀表板",
 			"name": "大測試",
 			"index": "tttttttt",
-
 			"components": ["2001","2002"],
-
 			"icon": "favorites"
 		},
 		{
@@ -25,6 +23,12 @@
 			"name": "扶養比",
 			"index": "goodluck",
 			"components": ["441", "442", "443"],
+			"icon": "favorite"
+		},
+		{
+			"name": "育嬰支出",
+			"index": "pay",
+			"components": ["444"],
 			"icon": "favorite"
 		},
 		{
