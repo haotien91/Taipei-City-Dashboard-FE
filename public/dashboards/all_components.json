@@ -37,12 +37,12 @@
 			"history_data": false,
 			"chart_config": {
 				"color": [
-					"#C5E1A5",
-					"#04432C",
-					"#00ff00",
-					"#33C552",
-					"#800026"
-				],
+					"#00867A",
+					"#19D6C4",
+					"#66E3D7",
+					"#B3F1EB",
+					"#FFFFFF"
+				  ],
 				"types": ["DonutChart", "BarChart","RadarChart"],
 				"unit": "元"
 			},
