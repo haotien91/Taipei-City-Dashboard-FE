@@ -1,6 +1,6 @@
 <script setup>
-import { computed, defineProps, ref } from "vue";
-import { useMapStore } from "../../store/mapStore";
+import { defineProps, ref } from "vue";
+// import { useMapStore } from "../../store/mapStore";
 
 const props = defineProps([
 	"chart_config",
@@ -8,7 +8,7 @@ const props = defineProps([
 	"series",
 	"map_config",
 ]);
-const mapStore = useMapStore();
+// const mapStore = useMapStore();
 
 const chartOptions = ref({
 	tooltip: {
