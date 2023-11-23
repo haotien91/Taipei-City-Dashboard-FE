@@ -12,5 +12,6 @@ export const chartTypes = {
 	RadarChart: "雷達圖",
 	HeatmapChart: "熱力圖",
 	PolarAreaChart: "發放件數",
-	PolarAreaChart2: "發放金額"
+	PolarAreaChart2: "發放金額",
+	LineColumnChart: "長條折線混合圖",
 };

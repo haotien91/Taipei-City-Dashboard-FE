@@ -4,9 +4,7 @@
 			"_comment1": "我的儀表板",
 			"name": "大測試",
 			"index": "tttttttt",
-
-			"components": ["2001"],
-
+			"components": ["2001", "2002"],
 			"icon": "favorites"
 		},
 		{
@@ -22,9 +20,24 @@
 			"icon": "bug_report"
 		},
 		{
-			"name": "扶養比",
+			"name": "成功好孕",
 			"index": "goodluck",
-			"components": ["441", "442", "443"],
+			"components": [
+				"441",
+				"442",
+				"443",
+				"2001",
+				"2002",
+				"3503",
+				"3500",
+				"444"
+			],
+			"icon": "favorite"
+		},
+		{
+			"name": "育嬰支出",
+			"index": "pay",
+			"components": ["444"],
 			"icon": "favorite"
 		},
 		{

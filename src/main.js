@@ -36,7 +36,7 @@ import MetroChart from "./components/charts/MetroChart.vue";
 import HeatmapChart from "./components/charts/HeatmapChart.vue";
 import PolarAreaChart from "./components/charts/PolarAreaChart.vue";
 import PolarAreaChart2 from "./components/charts/PolarAreaChart2.vue";
-
+import LineColumnChart from "./components/charts/LineColumnChart.vue";
 
 const app = createApp(App);
 
@@ -61,4 +61,6 @@ app.component("MetroChart", MetroChart);
 app.component("HeatmapChart", HeatmapChart);
 app.component("PolarAreaChart", PolarAreaChart);
 app.component("PolarAreaChart2", PolarAreaChart2);
+app.component("LineColumnChart", LineColumnChart);
+
 app.mount("#app");
