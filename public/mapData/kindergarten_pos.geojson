@@ -1,0 +1,8601 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "中央研究院附設臺北市私立幼兒園",
+				"Address": "115臺北市南港區中研里20鄰研究院路2段12巷75號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61315001622455, 25.047670009102518]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "內政部移民署職場互助教保服務中心（委託社團法人臺北市飛亞特全人福利服務文教發展協會辦理）",
+				"Address": "100臺北市中正區廣州街15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50812996621625, 25.035809993294905]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "內政部營建署職場互助教保服務中心（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+				"Address": "105臺北市松山區八德路二段342號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5444299772123, 25.04757001299764]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "內政部警政署保安警察第一總隊職場互助教保服務中心（委託社團法人臺北市教保托育協會辦理）",
+				"Address": "112臺北市北投區立農街二段301號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51685996983053, 25.11888999264636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "世平興業股份有限公司附設臺北市私立員工子女幼兒園",
+				"Address": "115臺北市南港區西新里8鄰成功路一段70、72、74號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59268388590237, 25.056462518009884]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "北部台灣基督長老教會艋舺教會附設臺北市私立愛心幼兒園",
+				"Address": "108臺北市萬華區福音里2鄰貴陽街二段94號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50332001107898, 25.03966998543575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "台電公司輸變電工程處職場互助教保服務中心（委託社團法人台灣公共托育協會辦理）",
+				"Address": "100臺北市中正區牯嶺街73號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51757000084854, 25.02868998564253]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "交通部臺灣鐵路管理局臺北車站職場互助教保服務中心（委託社團法人臺灣兒童教育發展協會辦理）",
+				"Address": "100臺北市中正區黎民裡3鄰北平西路3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51570742398565, 25.04752190810375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "有限責任臺北市立五常國民中學員生消費合作社附設臺北市私立員工子女幼兒園",
+				"Address": "104臺北市中山區下埤里3鄰復興北路430巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54308996235164, 25.063479996781552]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "有限責任臺北市立金華國民中學員生消費合作社附設臺北市私立員工子女幼兒園",
+				"Address": "106臺北市大安區福住里1鄰新生南路二段32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53312002380056, 25.031190013993154]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "行政院環境保護署職場互助教保服務中心（委託社團法人金字塔幼兒教育研究學會辦理）",
+				"Address": "100臺北市中正區建國里2鄰中華路一段83號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50769997458332, 25.03849999748101]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "私立再興高級中學附設臺北市幼兒園",
+				"Address": "116臺北市文山區明義里4鄰木柵路二段1-6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5588099703001, 24.988860019943147]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "育達學校財團法人臺北市私立普林思頓高級中等學校附設臺北市私立點點幼兒園",
+				"Address": "105臺北市松山區復勢里10鄰南京東路四段120巷31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55525000838344, 25.050130013865484]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "法務部附設臺北市私立員工子女幼兒園",
+				"Address": "100臺北市中正區建國里4鄰重慶南路1段136巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51222997415448, 25.03623001046303]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "恕德學校財團法人附設臺北市私立恕德幼兒園",
+				"Address": "114臺北市內湖區西湖里1鄰內湖路一段353號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56911996266297, 25.082330016923294]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財政部員工子女非營利幼兒園（委託社團法人嬰幼兒教育與家庭發展協會辦理）",
+				"Address": "116臺北市文山區景仁里2鄰羅斯福路六段142巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53971279071654, 24.996641628032837]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財政部財政資訊中心職場互助教保服務中心(委託社團法人新竹市教保人員協會辦理)",
+				"Address": "110臺北市信義區新仁里1鄰忠孝東路4段547號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56214999107743, 25.041489989981756]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財政部臺北國稅局職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
+				"Address": "108臺北市萬華區福興里1鄰中華路一段2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5091900255108, 25.047839994098922]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財政部關務署員工子女非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+				"Address": "103臺北市大同區玉泉里6鄰塔城街13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510600029263, 25.05120998018012]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人中國文化大學附設臺北市私立文化幼兒園",
+				"Address": "106臺北市大安區龍生里16鄰瑞安街256巷18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5388099949522, 25.027229983837913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人中華文化社會福利事業基金會台北兒童福利中心附設臺北市私立實驗幼兒園",
+				"Address": "110臺北市信義區富台里14鄰虎林街120巷270號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57087999469178, 25.042199979090228]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人中華民國郵政職工福利委員會附設臺北市私立員工子女幼兒園",
+				"Address": "106臺北市大安區錦泰里4鄰愛國東路210巷9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52394997026954, 25.03101001262246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人中華基督教衛理公會附設臺北市私立城中衛理幼兒園",
+				"Address": "100臺北市中正區新營里6鄰寧波東街9巷6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51971995901306, 25.032689997475913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人中華基督教衛理公會附設臺北市私立衛理幼兒園",
+				"Address": "106臺北市大安區民輝里2鄰新生南路一段113號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53306000937386, 25.039690018184345]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人天主教會台北教區附設臺北市私立三德幼兒園",
+				"Address": "110臺北市信義區六合里5鄰松仁路228巷15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5678299877643, 25.02487999155413]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人天主教會台北教區附設臺北市私立育仁幼兒園",
+				"Address": "108臺北市萬華區雙園里8鄰興寧街70號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4995599731335, 25.032229998629646]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人天主教會台北教區附設臺北市私立信光幼兒園",
+				"Address": "106臺北市大安區法治里9鄰通化街178號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55328000968007, 25.027480016009633]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人天主教會台北教區附設臺北市私立聖心幼兒園",
+				"Address": "103臺北市大同區雙連里27鄰民生西路245號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51485996391386, 25.057190007091123]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人天主教會台北教區附設臺北市私立達義幼兒園",
+				"Address": "112臺北市北投區榮光里12鄰致遠一路2段40巷11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51471001166607, 25.112140004109662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人天主教會台北教區附設臺北市私立曉星幼兒園",
+				"Address": "106臺北市大安區光信里27鄰延吉街254號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55639003103431, 25.034440013130407]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人天主教會臺北教區附設臺北市私立若石幼兒園",
+				"Address": "116臺北市文山區萬盛里3鄰羅斯福路五段51號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53916999769359, 25.006930020175375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人王氏太原堂附設臺北市私立太原幼兒園",
+				"Address": "103臺北市大同區鄰江里20鄰迪化街二段243巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51268997300076, 25.07171001987146]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人台北市中國基督教靈糧世界佈道會台北靈糧堂附設臺北市私立靈糧幼兒園",
+				"Address": "116臺北市文山區興昌里20鄰萬美街2段80號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56086001617876, 25.005319982303917]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人台北市中華基督教青年會附設臺北市私立文山幼兒園",
+				"Address": "116臺北市文山區試院里14鄰和興路2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54626997259737, 24.985769989428007]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人台北市中華基督教青年會附設臺北市私立永吉幼兒園",
+				"Address": "110臺北市信義區永吉里1鄰永吉路500號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57993001936933, 25.04516000628712]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人台北市中華基督教景美浸信會附設臺北市私立聖愛幼兒園",
+				"Address": "116臺北市文山區景美里14鄰育英街63號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53870002438254, 24.992219989650053]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人台北市私立強恕高級中學附設臺北市私立幼兒園",
+				"Address": "100臺北市中正區板溪里14鄰汀州路二段143號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52016998339451, 25.024860000715066]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人台北市基督教浸信會懷恩堂附設臺北市私立懷恩幼兒園",
+				"Address": "106臺北市大安區大學里4鄰新生南路3段90號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5331900126921, 25.01778001665035]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人台北市華亞之聲社中華基督教便以利教會附設臺北市私立華聲幼兒園",
+				"Address": "116臺北市文山區萬興里11鄰指南路2段11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5731899633879, 24.988279992243406]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人台灣聖公會附設臺北市私立聖約翰幼兒園",
+				"Address": "106臺北市大安區龍淵里1鄰復興南路二段280號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54326003116705, 25.024319996602983]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人林迺翁文教基金會附設臺北市私立天鵝堡幼兒園",
+				"Address": "111臺北市士林區臨溪里8鄰至善路2段280之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55160999929143, 25.1008499996275]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人信誼基金會附設臺北市私立實驗幼兒園",
+				"Address": "100臺北市中正區龍福里21鄰重慶南路二段75號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51428999449791, 25.03239998362605]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人國光慈善事業基金會附設臺北市私立三軍幼兒園",
+				"Address": "115臺北市南港區東明里5鄰南港路二段146號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60048998966835, 25.05384001184899]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人陳德星堂附設臺北市私立德星幼兒園",
+				"Address": "103臺北市大同區星明里7鄰寧夏路27號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51583997603313, 25.055530013076748]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人福智文教基金會附設臺北市私立妙行幼兒園",
+				"Address": "105臺北市松山區東勢里1鄰南京東路4段133巷5弄23號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55596003940138, 25.05212000340788]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人福智文教基金會附設臺北市私立妙慧幼兒園",
+				"Address": "105臺北市松山區東勢里1鄰南京東路4段133巷5弄25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55607998443583, 25.05210998703359]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺北市私立立人國際國民中小學附設臺北市私立幼兒園",
+				"Address": "106臺北市大安區通安里20鄰安和路二段99號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5518900386765, 25.029800001080048]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺北市私立立德幼兒園",
+				"Address": "105臺北市松山區東光里26鄰南京東路5段123巷8弄47號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56297996712988, 25.053539981624823]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺北市私立金甌女子高級中學附設臺北市私立幼兒園",
+				"Address": "106臺北市大安區光明里9鄰杭州南路二段1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52423998411945, 25.034930019190043]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺北市私立復興實驗高級中學附設臺北市私立幼兒園",
+				"Address": "106臺北市大安區敦安里19鄰敦化南路一段262號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54843996351048, 25.039330015442957]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺北市私立蒙特梭利幼兒園",
+				"Address": "106臺北市大安區民輝里14鄰新生南路1段103巷27號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53530996364321, 25.040799991712348]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺灣大學校園建設基金會附設臺北市私立幼兒園",
+				"Address": "106臺北市大安區學府里17鄰基隆路四段144巷59弄12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53896003101903, 25.0139999878658]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺灣省臺南市天主教鮑思高慈幼會附設臺北市私立思高幼兒園",
+				"Address": "105臺北市松山區民有里2鄰民生東路三段125號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54736003910534, 25.058040015892146]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺灣基督長老教會雙連教會附設臺北市私立雙連幼兒園",
+				"Address": "112臺北市北投區立賢里4鄰承德路7段221號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5052900097823, 25.11509001493225]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "財團法人臺灣聖公會附設臺北市私立牧愛堂幼兒園",
+				"Address": "111臺北市士林區後港里16鄰中正路509號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51754996809996, 25.091399990530405]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國立中正紀念堂管理處職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
+				"Address": "100臺北市中正區中山南路21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52193001542332, 25.034729985070754]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國立政治大學附設實驗國民小學附設幼兒園",
+				"Address": "116臺北市文山區萬興里7鄰指南路二段64號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57651003523569, 24.987409992603304]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國立臺北教育大學附設實驗國民小學附設幼兒園",
+				"Address": "106臺北市大安區龍淵里25鄰和平東路二段94號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54088996422519, 25.025000020407603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國立臺灣大學醫學院附設醫院附設臺北市私立員工子女幼兒園",
+				"Address": "100臺北市中正區黎明里4鄰常德街1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51702282359885, 25.04110996816835]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國防部軍備局光華營區職場互助教保服務中心（委託財團法人三之三生命教育基金會辦理）",
+				"Address": "115臺北市南港區昆陽街165號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59323281709253, 25.048034997346395]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國防部軍備局健安新城職場互助教保中心(委託社團法人新竹市教保人員協會辦理)",
+				"Address": "105臺北市松山區健康路225巷6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56248996107024, 25.054630006223277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國防部軍備局慈光五村職場互助教保服務中心(委託社團法人臺北市教保托育協會辦理)",
+				"Address": "112臺北市北投區文林北路12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51931000012871, 25.10436997986602]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國防部軍備局萬隆營區職場互助教保服務中心（委託財團法人三之三生命教育基金會辦理）",
+				"Address": "116臺北市文山區羅斯福路5段236巷3弄22號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53845996667559, 25.00096998410345]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國防部陸軍司令部精勤員工子女非營利幼兒園（委託社團法人臺灣兒童教育發展協會辦理）",
+				"Address": "116臺北市文山區萬和里11鄰汀洲路四段255、257、261、263號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53640888609165, 25.001885093924432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國防部陸軍司令部精勤職場互助教保服務中心（委託財團法人海棠文教基金會辦理）",
+				"Address": "108臺北市萬華區日祥里17鄰青年路152巷34號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50095002795615, 25.020369982822032]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國防醫學院附設臺北市私立愛德幼兒園",
+				"Address": "100臺北市中正區富水里11鄰汀州路3段24巷5弄12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52754999768342, 25.015980002943422]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "國家科學及技術委員會職場互助教保服務中心（委託社團法人台灣公共托育協會辦理）",
+				"Address": "106臺北市大安區龍淵里5鄰和平東路2段106號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54196997244935, 25.024860000715066]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "康軒文教事業股份有限公司附設臺北市私立員工子女幼兒園",
+				"Address": "114臺北市內湖區瑞陽里8鄰文德路66巷99號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58233000970552, 25.075820002274497]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "教育部忠孝大樓職場互助教保服務中心(委託社團法人台北市教保人員協會辦理)",
+				"Address": "100臺北市中正區幸福里7鄰忠孝東路1段172號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52630997892766, 25.043880005853197]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "教育部徐州大樓職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
+				"Address": "100臺北市中正區東門里2鄰徐州路48-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52508999292047, 25.040189998708755]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "新民學校財團法人臺北市私立新民國民小學附設臺北市私立幼兒園",
+				"Address": "106臺北市大安區龍坡里22鄰辛亥路一段113號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53185997229622, 25.02238000511302]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "遊戲橘子數位科技股份有限公司附設臺北市私立員工子女幼橘園幼兒園",
+				"Address": "114臺北市內湖區港墘里20鄰港墘路221巷33號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57491001373853, 25.073320015833403]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "實踐大學附設臺北市私立幼兒園",
+				"Address": "104臺北市中山區大直里35鄰大直街70號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54622999091924, 25.083580010143848]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市?公非營利幼兒園（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+				"Address": "110臺北市信義區中行里16鄰福德街221巷15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58532000220629, 25.03705998651546]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市三民亦禮非營利幼兒園（委託財團法人中華民國唐氏症基金會辦理）",
+				"Address": "114臺北市內湖區湖興里13鄰民權東路六段45號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5862700071122, 25.06915999346839]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市三玉非營利幼兒園（委託社團法人台北市幼兒園協會辦理）",
+				"Address": "111臺北市士林區三玉里14鄰忠誠路二段53巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53237001110443, 25.111419998626886]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區士東國民小學附設幼兒園",
+				"Address": "111臺北市士林區天祿里15鄰中山北路6段392號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52680995945207, 25.11296998016209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區士林國民小學附設幼兒園",
+				"Address": "111臺北市士林區福德里4鄰大東路165號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52506996017183, 25.09282001065688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區文昌國民小學附設幼兒園",
+				"Address": "111臺北市士林區德華里10鄰文林路615巷20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52091002162587, 25.09960998087172]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區平等國民小學附設幼兒園",
+				"Address": "111臺北市士林區平等里2鄰平菁街101號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57630995920687, 25.12906998169099]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區百齡國民小學附設幼兒園",
+				"Address": "111臺北市士林區福中里7鄰福港街205號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51782003302026, 25.086190009064126]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區社子國民小學附設幼兒園",
+				"Address": "111臺北市士林區永倫里1鄰延平北路六段308號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50293997558902, 25.089800010942767]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區芝山國民小學附設幼兒園",
+				"Address": "111臺北市士林區芝山里22鄰德行東路285號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53643003736454, 25.110380013990394]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區雨農國民小學附設幼兒園",
+				"Address": "111臺北市士林區名山里7鄰忠義街1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52993003909006, 25.10529001946807]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區雨聲國民小學附設幼兒園",
+				"Address": "111臺北市士林區岩山里5鄰至誠路一段62巷70號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5355415412804, 25.103666647494236]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區富安國民小學附設幼兒園",
+				"Address": "111臺北市士林區富洲里5鄰延平北路八段135號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4824299614329, 25.105850014419218]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區陽明山國民小學附設幼兒園",
+				"Address": "111臺北市士林區新安里5鄰仰德大道三段61號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55292000693873, 25.119820006713184]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區溪山國民小學附設幼兒園",
+				"Address": "111臺北市士林區溪山里6鄰至善路三段199號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57961997277084, 25.119789999499815]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區葫蘆國民小學附設幼兒園",
+				"Address": "111臺北市士林區葫蘆里15鄰環河北路3段95號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50703000906253, 25.083749995140238]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區福林國民小學附設幼兒園",
+				"Address": "111臺北市士林區福志里13鄰福志路75號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52968998138311, 25.09868000871441]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區劍潭國民小學附設幼兒園",
+				"Address": "111臺北市士林區明勝里5鄰通河街16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52296995815027, 25.07994000105184]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區雙溪國民小學附設幼兒園",
+				"Address": "111臺北市士林區翠山里6鄰中社路二段66號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56382000146613, 25.106089988307133]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市士林區蘭雅國民小學附設幼兒園",
+				"Address": "111臺北市士林區蘭興里8鄰磺溪街57號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52315000143051, 25.108399998912773]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區大同國民小學附設幼兒園",
+				"Address": "103臺北市大同區蓬萊里13鄰大龍街51號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51609998266963, 25.064790004428843]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區大橋國民小學附設幼兒園",
+				"Address": "103臺北市大同區隆和里4鄰重慶北路三段2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51337997127018, 25.06428000753013]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區大龍國民小學附設幼兒園",
+				"Address": "103臺北市大同區保安里10鄰哈密街47號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51671999204751, 25.073399979189688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區太平國民小學附設幼兒園",
+				"Address": "103臺北市大同區南芳里2鄰延平北路二段239號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51143997978022, 25.0613700202952]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區日新國民小學附設幼兒園",
+				"Address": "103臺北市大同區星明里12鄰太原路151號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51648999262437, 25.054389990425847]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區永樂國民小學附設幼兒園",
+				"Address": "103臺北市大同區南芳里8鄰延平北路二段266號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51113001700077, 25.061689999448916]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區延平國民小學附設幼兒園",
+				"Address": "103臺北市大同區國慶里18鄰昌吉街97號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51239995915091, 25.066029981275108]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區蓬萊國民小學附設幼兒園",
+				"Address": "103臺北市大同區星明里7鄰寧夏路35號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51556999493187, 25.056519999660793]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大同區雙蓮國民小學附設幼兒園",
+				"Address": "103臺北市大同區民權里16鄰錦西街51號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51667003590461, 25.060110010700356]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區大安國民小學附設幼兒園",
+				"Address": "106臺北市大安區芳和里8鄰臥龍街129號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54964997505289, 25.019499983181944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區仁愛國民小學附設幼兒園",
+				"Address": "106臺北市大安區敦安里6鄰安和路一段60號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55239001920091, 25.03579000245584]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區公館國民小學附設幼兒園",
+				"Address": "106臺北市大安區學府里5鄰基隆路四段41巷68弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5428599629285, 25.012409982742938]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區古亭國民小學附設幼兒園",
+				"Address": "106臺北市大安區古風里5鄰羅斯福路三段201號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5284799698407, 25.0206700130462]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區幸安國民小學附設幼兒園",
+				"Address": "106臺北市大安區民炤里15鄰仁愛路三段22號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53494996090183, 25.03761000700183]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區建安國民小學附設幼兒園",
+				"Address": "106臺北市大安區龍雲里17鄰大安路二段99號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54615002756293, 25.029379983911937]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區新生國民小學附設幼兒園",
+				"Address": "106臺北市大安區龍安里10鄰新生南路二段36號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53345999379337, 25.030400019618867]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區銘傳國民小學附設幼兒園",
+				"Address": "106臺北市大安區學府里17鄰羅斯褔路四段21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54089520539438, 25.01624540125695]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大安區龍安國民小學附設幼兒園",
+				"Address": "106臺北市大安區龍門里10鄰新生南路三段33號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53483999033216, 25.023940003022517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市大龍峒非營利幼兒園（委託財團法人台北基督教女青年會辦理）",
+				"Address": "103臺北市大同區老師里13鄰重慶北路3段320號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51357996347991, 25.0746899959979]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區大佳國民小學附設幼兒園",
+				"Address": "104臺北市中山區大佳里6鄰濱江街107號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53595000576973, 25.07329998308481]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區大直國民小學附設幼兒園",
+				"Address": "104臺北市中山區大直里28鄰大直街2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5463200125593, 25.08156998785286]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區中山國民小學附設幼兒園",
+				"Address": "104臺北市中山區恆安里15鄰民權東路一段69號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52630997892766, 25.062909985456102]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區中正國民小學附設幼兒園",
+				"Address": "104臺北市中山區力行里27鄰龍江路62號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54025998038253, 25.050610003550815]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區五常國民小學附設幼兒園",
+				"Address": "104臺北市中山區行仁里6鄰五常街16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5422100301563, 25.064189985890025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區永安國民小學附設幼兒園",
+				"Address": "104臺北市中山區永安里32鄰明水路397巷19弄1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54981996004926, 25.078540013673972]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區吉林國民小學附設幼兒園",
+				"Address": "104臺北市中山區中原里6鄰長春路116號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5302600346181, 25.054719985953867]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區長安國民小學附設幼兒園",
+				"Address": "104臺北市中山區興亞里16鄰吉林路15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53018996190752, 25.049750020285018]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區長春國民小學附設幼兒園",
+				"Address": "104臺北市中山區中央里1鄰長春路165號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53388001096152, 25.05494001091222]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區濱江國民小學附設幼兒園",
+				"Address": "104臺北市中山區金泰里13鄰樂群2路266巷99號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56090997232167, 25.077199998813313]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中山區懷生國民小學附設幼兒園",
+				"Address": "104臺北市中山區埤頭里11鄰安東街16巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5414000030334, 25.04537001487118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中正區忠孝國民小學附設幼兒園",
+				"Address": "100臺北市中正區梅花里1鄰忠孝東路二段101號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53156995844637, 25.042910010108216]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中正區忠義國民小學附設幼兒園",
+				"Address": "100臺北市中正區忠勤里1鄰中華路二段307巷17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50623004022344, 25.02960000887029]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中正區東門國民小學附設幼兒園",
+				"Address": "100臺北市中正區東門里16鄰仁愛路一段2之4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5205950539859, 25.038756175495006]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中正區河堤國民小學附設幼兒園",
+				"Address": "100臺北市中正區河堤里2鄰汀州路二段180號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52263996262224, 25.023259979217897]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中正區南門國民小學附設幼兒園",
+				"Address": "100臺北市中正區南門里14鄰廣州街6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50909002940591, 25.03521999113039]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中正區國語實驗國民小學附設幼兒園",
+				"Address": "100臺北市中正區南門里10鄰重慶南路二段14之4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51330000791387, 25.033130005483116]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中正區螢橋國民小學附設幼兒園",
+				"Address": "100臺北市中正區螢雪里9鄰詔安街29號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51444003056474, 25.024920015141802]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中華電信大安職場互助教保服務中心（委託社團法人台灣幼兒早期教育協會辦理）",
+				"Address": "106臺北市大安區信義路四段74巷8弄4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54665998255211, 25.031939984779783]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中華電信仁愛職場互助教保服務中心（委託社團法人台灣幼兒早期教育協會辦理）",
+				"Address": "100臺北市中正區仁愛路1段42號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52380999248652, 25.038150011113913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市中華電信北投職場互助教保服務中心（委託社團法人台灣幼兒早期教育協會辦理）",
+				"Address": "112臺北市北投區光明路176號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50316000054738, 25.135560005500707]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區大湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區大湖里9鄰大湖山莊街170號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6003599863501, 25.088160007767456]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區內湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區港富里22鄰內湖路二段41號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58020997493537, 25.07908999225083]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區文湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區西康里4鄰文湖街15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56013003623121, 25.085819989948448]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區西湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區西湖里13鄰環山路一段25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56568002959978, 25.083799993192684]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區明湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區明湖里9鄰康寧路三段105號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61056998260813, 25.071090010493563]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區東湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區東湖里1鄰東湖路115號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61578998044871, 25.068539984090506]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區南湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區葫洲里25鄰康寧路三段200號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61184000857725, 25.06807998524424]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區康寧國民小學附設幼兒園",
+				"Address": "114臺北市內湖區清白里30鄰星雲街121號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59493999629979, 25.080029980782427]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區新湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區湖興里15鄰民權東路六段138號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58872003741038, 25.06881998156608]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區碧湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區內湖里6鄰金龍路100號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59109999499799, 25.08530001858496]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區潭美國民小學附設幼兒園",
+				"Address": "114臺北市內湖區週美里21鄰行善路179號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58122996873277, 25.059129998581085]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區麗山國民小學附設幼兒園",
+				"Address": "114臺北市內湖區麗山里9鄰港華街100號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57245998344035, 25.083500004878033]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市內湖區麗湖國民小學附設幼兒園",
+				"Address": "114臺北市內湖區金湖里2鄰金湖路363巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60114998072441, 25.072990020305383]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市天母非營利幼兒園（委託社團法人台北市幼兒園協會辦理）",
+				"Address": "111臺北市士林區天玉里3鄰天玉街12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52623001557134, 25.119429996758427]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市天堂愛職場互助教保服務中心",
+				"Address": "106臺北市大安區敦安里21鄰信義路四段137號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54934001227343, 25.033440010172058]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區力行國民小學附設幼兒園",
+				"Address": "116臺北市文山區樟腳里21鄰木新路三段155巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56099999396179, 24.98090999432881]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區木柵國民小學附設幼兒園",
+				"Address": "116臺北市文山區木柵里1鄰木柵路3段191號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56985002642955, 24.990000000684518]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區志清國民小學附設幼兒園",
+				"Address": "116臺北市文山區景仁里10鄰景福街21巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5383700288545, 24.999059999826855]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區辛亥國民小學附設幼兒園",
+				"Address": "116臺北市文山區興昌里7鄰辛亥路4段103號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55854996366361, 25.006280003584124]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區明道國民小學附設幼兒園",
+				"Address": "116臺北市文山區明義里18鄰木柵路2段138巷61號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56330996265791, 24.986999991809483]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區武功國民小學附設幼兒園",
+				"Address": "116臺北市文山區萬祥里1鄰興隆路一段68號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54048997980567, 25.003880013247894]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區指南國民小學附設幼兒園",
+				"Address": "116臺北市文山區指南里4鄰指南路3段38巷5之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58362995906901, 24.976969996922165]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區景美國民小學附設幼兒園",
+				"Address": "116臺北市文山區景行里4鄰景文街108號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54077001919075, 24.98944000573337]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區景興國民小學附設幼兒園",
+				"Address": "116臺北市文山區興安里21鄰景華街150巷21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54819998962256, 24.9960799817909]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區溪口國民小學附設幼兒園",
+				"Address": "116臺北市文山區景慶里5鄰景福街225號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53874998052544, 24.994070001409426]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區萬芳國民小學附設幼兒園",
+				"Address": "116臺北市文山區萬美里8鄰萬和街1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56689305653815, 25.002061158419437]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區萬福國民小學附設幼兒園",
+				"Address": "116臺北市文山區萬年里10鄰羅斯福路5段170巷32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.536740000144, 25.004820001779507]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區萬興國民小學附設幼兒園",
+				"Address": "116臺北市文山區萬興里19鄰秀明路2段114號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57662998027013, 24.990429992317416]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區興華國民小學附設幼兒園",
+				"Address": "116臺北市文山區興光里8鄰興隆路3段125巷6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55854996366361, 24.99858001014151]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區興隆國民小學附設幼兒園",
+				"Address": "116臺北市文山區興旺里1鄰福興路2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55191996207083, 25.002409995068987]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文山區興德國民小學附設幼兒園",
+				"Address": "116臺北市文山區興豐里25鄰興隆路2段235號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55081003045234, 25.00163999153378]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市文修非營利幼兒園（委託財團法人三之三生命教育基金會辦理）",
+				"Address": "116臺北市文山區萬祥里1鄰興隆路一段68號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54048997980567, 25.003880013247894]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區大屯國民小學附設幼兒園",
+				"Address": "112臺北市北投區大屯里4鄰復興三路312號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50427999044967, 25.154719988421874]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區文化國民小學附設幼兒園",
+				"Address": "112臺北市北投區文化里13鄰文化三路1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49732996779369, 25.137790010840533]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區文林國民小學附設幼兒園",
+				"Address": "112臺北市北投區建民里15鄰文林北路155號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51474001887942, 25.105930019685033]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區北投國民小學附設幼兒園",
+				"Address": "112臺北市北投區大同里7鄰中央北路一段73號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50029003690008, 25.13418998342668]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區石牌國民小學附設幼兒園",
+				"Address": "112臺北市北投區吉利里1鄰致遠二路80號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51269314677769, 25.11722074154144]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區立農國民小學附設幼兒園",
+				"Address": "112臺北市北投區立農里17鄰立農街一段250號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50530995871185, 25.119460003971795]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區明德國民小學附設幼兒園",
+				"Address": "112臺北市北投區榮華里13鄰明德路190號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52180001210507, 25.112140004109662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區桃源國民小學附設幼兒園",
+				"Address": "112臺北市北投區桃源里7鄰中央北路三段40巷45號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48451001452491, 25.13963998069039]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區清江國民小學附設幼兒園",
+				"Address": "112臺北市北投區奇岩里16鄰公館路220號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50766996736996, 25.126869983564532]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區湖山國民小學附設幼兒園",
+				"Address": "112臺北市北投區湖山里14鄰湖底路11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53549000692345, 25.14997998026665]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區逸仙國民小學附設幼兒園",
+				"Address": "112臺北市北投區中心里2鄰新民路2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50499999593245, 25.13820998609914]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區義方國民小學附設幼兒園",
+				"Address": "112臺北市北投區開明里14鄰珠海路155號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50979997660488, 25.141930000456952]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市北投區關渡國民小學附設幼兒園",
+				"Address": "112臺北市北投區一德里20鄰中央北路四段581號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46684004062172, 25.126860009099758]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市市政大樓員工子女非營利幼兒園（委託臺北市公務人員協會辦理）",
+				"Address": "110臺北市信義區西村里8鄰市府路1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56441997809543, 25.037519985361726]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市正義非營利幼兒園（委託社團法人中華婦幼發展協會辦理）",
+				"Address": "106臺北市大安區義村里15鄰忠孝東路三段216巷4弄41號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53858113144895, 25.041109586919042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市民生非營利幼兒園（委託財團法人台北市中華基督教青年會辦理）",
+				"Address": "105臺北市松山區新東里15鄰新東街30巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56756000666297, 25.059850004063847]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市永建非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
+				"Address": "116臺北市文山區華興里7鄰木柵路一段311巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55453997736544, 24.988240010565264]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市石壁潭非營利幼兒園（委託社團法人嬰幼兒教育與家庭發展協會辦理）",
+				"Address": "114臺北市內湖區石潭里17鄰新明路22號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59079003221859, 25.060939986752786]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立士林幼兒園",
+				"Address": "111臺北市士林區福華里17鄰通河街179巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51951996680327, 25.081760005597843]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立大同幼兒園",
+				"Address": "103臺北市大同區建泰里5鄰南京西路64巷9弄8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51910003345415, 25.052319995617637]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立大安幼兒園",
+				"Address": "106臺北市大安區群英里32鄰四維路198巷31弄11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54592002813979, 25.02717998578548]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立大學附設實驗國民小學附設幼兒園",
+				"Address": "100臺北市中正區建國里4鄰公園路29號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51520999219048, 25.036009985504677]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立中山幼兒園",
+				"Address": "104臺北市中山區大直里21鄰大直街25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54661002640921, 25.081849985328432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立中正幼兒園",
+				"Address": "100臺北市中正區幸市里8鄰濟南路二段46號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53089999292553, 25.04033999286608]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立內湖幼兒園",
+				"Address": "114臺北市內湖區瑞光里20鄰陽光街265巷9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58000000826081, 25.073809979983523]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立文山幼兒園",
+				"Address": "116臺北市文山區明義里19鄰興隆路四段105巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56168001776638, 24.98804001835549]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立文山特殊教育學校幼兒部",
+				"Address": "116臺北市文山區木柵里19鄰秀明路1段169號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56924996598121, 24.991499984167277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立北投幼兒園",
+				"Address": "112臺北市北投區榮華里13鄰明德路208巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52265999537087, 25.113179988746154]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立育航幼兒園",
+				"Address": "104臺北市中山區復華里18鄰長春路256號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53887000937891, 25.05458000817083]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立松山幼兒園",
+				"Address": "105臺北市松山區精忠里1鄰敦化北路199巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55153003593512, 25.05699001488135]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立信義幼兒園",
+				"Address": "110臺北市信義區西村里18鄰基隆路一段364巷20、24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55936021280434, 25.03524272079808]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立南海實驗幼兒園",
+				"Address": "108臺北市萬華區雙園里18鄰西藏路424號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49771000328366, 25.029489996391106]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立南港幼兒園",
+				"Address": "115臺北市南港區重陽里5鄰重陽路199巷28號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59900002255989, 25.057789983720426]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立南港高級中學教師會附設臺北市私立員工子女幼兒園",
+				"Address": "115臺北市南港區西新里3鄰向陽路21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59504996686945, 25.052480006149267]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立啟明學校幼兒部",
+				"Address": "111臺北市士林區三玉里10鄰忠誠路2段207巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53522002582218, 25.116540000362576]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立啟智學校幼兒部",
+				"Address": "111臺北市士林區三玉里10鄰忠誠路2段207巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53635996465403, 25.116550016736866]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立啟聰學校幼兒部",
+				"Address": "103臺北市大同區老師里13鄰重慶北路3段320號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51357996347991, 25.0746899959979]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立敦化國民中學教師會附設臺北市私立員工子女幼兒園",
+				"Address": "105臺北市松山區中正里11鄰南京東路3段300號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54678998587036, 25.05151998486906]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市立萬華幼兒園",
+				"Address": "108臺北市萬華區青山里14鄰梧州街36號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49748000386052, 25.037369991204415]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市吉中非營利幼兒園（委託財團法人台北基督教女青年會辦理）",
+				"Address": "110臺北市信義區四育里8鄰松隆路161號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57413996829376, 25.048330000158558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市吉利非營利幼兒園（委託社團法人台北市親子成長協會辦理）",
+				"Address": "112臺北市北投區立農里25鄰立農街一段366號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50838997285274, 25.119330000653548]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市向陽非營利幼兒園（委託社團法人嬰幼兒教育與家庭發展協會辦理）",
+				"Address": "115臺北市南港區西新里1鄰向陽路31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59476003683858, 25.053610012425864]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市安東非營利幼兒園（委託社團法人台北市兒童托育協會辦理）",
+				"Address": "106臺北市大安區龍陣里13鄰瑞安街75號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54093002972235, 25.028109999852305]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市西中非營利幼兒園（委託財團法人靖娟兒童安全文教基金會辦理）",
+				"Address": "114臺北市內湖區西湖里2鄰環山路一段27號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56566997131597, 25.085830006322738]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市妙善非營利幼兒園（委託財團法人福智文教基金會辦理）",
+				"Address": "114臺北市內湖區行善里18鄰行善路25巷13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.577059971903, 25.05635001466439]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市妙善非營利幼兒園（委託財團法人福智文教基金會辦理）行善分班",
+				"Address": "114臺北市內湖區行善里21鄰行善路25巷11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57613997421049, 25.05589001581812]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立一德幼兒園",
+				"Address": "112臺北市北投區榮華里16鄰明德路136巷9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52118997719197, 25.109779995451575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立人安幼兒園",
+				"Address": "106臺北市大安區住安里15鄰四維路154巷19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54705996697169, 25.03106998513968]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立十大幼兒園",
+				"Address": "111臺北市士林區三玉里6鄰天母東路92號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53605997633935, 25.117980011328115]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立三民幼兒園",
+				"Address": "105臺北市松山區東榮里9鄰民生東路五段69巷2弄37.39.41號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56011997794741, 25.05949000132246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立三愛幼兒園",
+				"Address": "106臺北市大安區大學里6鄰溫州街48巷15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53234000389108, 25.0215400126863]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立三暉幼兒園",
+				"Address": "106臺北市大安區錦華里18鄰和平東路一段91號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52570002783358, 25.027010000789076]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立三義幼兒園",
+				"Address": "116臺北市文山區木柵里27鄰木柵路三段48巷1弄16、18、20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56480369084046, 24.987981108986222]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立上愛幼兒園",
+				"Address": "106臺北市大安區大學里7鄰溫州街52巷14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5322199750376, 25.02092000330842]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立上群蒙特梭利幼兒園",
+				"Address": "106臺北市大安區義村里20鄰仁愛路3段123巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54206996855424, 25.038820018544243]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立上群蒙特梭利忠孝幼兒園",
+				"Address": "110臺北市信義區興雅里24鄰忠孝東路5段207號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57008002585269, 25.041239999719537]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立上群蒙特梭利信義幼兒園",
+				"Address": "110臺北市信義區富台里14鄰忠孝東路5段217號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57026995977867, 25.04135001219872]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立上學趣蒙特梭利幼兒園",
+				"Address": "106臺北市大安區誠安里5鄰忠孝東路3段251巷9弄 8、10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54202904208876, 25.043237722569103]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立千千幼兒園",
+				"Address": "116臺北市文山區木柵里3鄰木柵路三段85巷8弄5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56726001834835, 24.989550018212555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立大大樹幼兒園",
+				"Address": "115臺北市南港區合成里8鄰玉成街46及48號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58141001201301, 25.048319983784253]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立大方凌雲幼兒園",
+				"Address": "115臺北市南港區九如里12鄰研究院路三段2巷2、6、8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61617999040345, 25.036339981032697]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立大成幼兒園",
+				"Address": "106臺北市大安區古莊里14鄰雲和街8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5276872094384, 25.0236226641683]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立大理幼兒園",
+				"Address": "108臺北市萬華區和平里10鄰雙園街67巷3弄3、4、5、7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49436000804155, 25.03024000908725]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立大智幼兒園",
+				"Address": "104臺北市中山區永安里28鄰明水路397巷7弄24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5491899762066, 25.077879980708417]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立大華幼兒園",
+				"Address": "115臺北市南港區聯成里4鄰忠孝東路6段212巷4弄5、7及9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58721823887628, 25.04796689114318]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立大愛幼兒園",
+				"Address": "104臺北市中山區松江里11鄰松江路221巷15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53507996422007, 25.058400018633535]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立大瑪幼兒園",
+				"Address": "106臺北市大安區群賢里4鄰和平東路二段265巷44號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54395002943647, 25.027170011320692]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立子畝蒙特梭利幼兒園",
+				"Address": "110臺北市信義區松光里10鄰忠孝東路5段558號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58029999657549, 25.04210999935964]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立子愛幼兒園",
+				"Address": "116臺北市文山區順興里6鄰興隆路四段165巷3、5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56198423062325, 24.984090157642658]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小小百合蒙特梭利幼兒園",
+				"Address": "114臺北市內湖區西湖里2鄰星雲街38號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59126000552965, 25.07839999398142]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小天心幼兒園",
+				"Address": "106臺北市大安區錦泰里11鄰潮州街57號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5224399704125, 25.02957000165692]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小天心茜茜幼兒園",
+				"Address": "106臺北市大安區龍泉里7鄰泰順街26巷39號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52987002466335, 25.025059992924824]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小伊園幼兒園",
+				"Address": "104臺北市中山區中央里13鄰伊通街27之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53485698752372, 25.05305187528842]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小百合蒙特梭利幼兒園",
+				"Address": "114臺北市內湖區紫星里7鄰星雲街37號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59153996109569, 25.078879983666766]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小甜甜幼兒園",
+				"Address": "104臺北市中山區行仁里1鄰五常街51號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5394099715815, 25.06441001084839]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小荳荳幼兒園",
+				"Address": "114臺北市內湖區寶湖里13鄰民權東路六段172號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59156996830905, 25.068250012150145]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小敦園幼兒園",
+				"Address": "105臺北市松山區中華里8鄰敦化北路145巷55號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55154998486466, 25.053680001317375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小綠山森林幼兒園",
+				"Address": "114臺北市內湖區金湖里8鄰成功路五段臨37號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60698001347805, 25.075479990372187]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小慶園幼兒園",
+				"Address": "105臺北市松山區中正里27鄰慶城街16巷9-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54622999091924, 25.053660010478296]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小樹苗華頓幼兒園",
+				"Address": "108臺北市萬華區新和里4鄰青年路30巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50490997429233, 25.02610001947083]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小瓢蟲幼兒園",
+				"Address": "114臺北市內湖區紫星里7鄰星雲街35號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59149997941756, 25.078779987561873]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小親親幼兒園",
+				"Address": "105臺北市松山區東昌里12鄰民生東路4段80巷15弄3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55324002800194, 25.05632000745102]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立小騎士幼兒園",
+				"Address": "115臺北市南港區成福里30鄰成福路183號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58851996138156, 25.04086998060386]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立山秀幼兒園",
+				"Address": "104臺北市中山區成功里13鄰明水路606巷16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55222003420454, 25.081870018077026]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立山谷小百合蒙特梭利幼兒園",
+				"Address": "114臺北市內湖區明湖里17鄰康寧路三段189巷56及58號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61292999126618, 25.071550009339845]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立中山國民小學附設幼兒園",
+				"Address": "116臺北市文山區華興里28鄰木柵路1段378巷26號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55679001545383, 24.987939980341096]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立中正區清華幼兒園",
+				"Address": "100臺北市中正區建國里2鄰貴陽街一段58號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50933997775866, 25.038860000222385]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立丹佛幼兒園",
+				"Address": "112臺北市北投區永欣里11鄰石牌路二段358之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52531999234355, 25.123269998060195]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立予心屋幼兒園",
+				"Address": "106臺北市大安區光信里13鄰光復南路420巷19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55642003824767, 25.03638997908513]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立五常幼兒園",
+				"Address": "104臺北市中山區下埤里7鄰龍江路377巷24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54238998961745, 25.06469998278874]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立仁和幼兒園",
+				"Address": "106臺北市大安區誠安里5鄰忠孝東路三段251巷9弄8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54202001241129, 25.043220014797157]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立仁美幼兒園",
+				"Address": "116臺北市文山區木柵里7鄰木柵路3段85巷14弄14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56696003003373, 24.989670005156512]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立仁愛幼兒園",
+				"Address": "106臺北市大安區和安里11鄰信義路三段147巷15弄27號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54310999510022, 25.035139985864575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立內湖科見幼兒園",
+				"Address": "114臺北市內湖區金湖里15鄰成功路五段460號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60653996356137, 25.074069986620017]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立六三幼兒園",
+				"Address": "110臺北市信義區三犁里7鄰信義路5段150巷351號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57014004027945, 25.026070012257463]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立友友幼兒園",
+				"Address": "105臺北市松山區東光里11鄰南京東路五段23巷6弄9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55843999309394, 25.05220000867368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立友丞幼兒園",
+				"Address": "104臺北市中山區江山里26鄰錦州街452號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54350000505497, 25.060090019861278]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立友愛幼兒園",
+				"Address": "110臺北市信義區松光里13鄰忠孝東路5段524巷5弄23號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58030997104026, 25.04069999560747]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立及愛菁英幼兒園",
+				"Address": "106臺北市大安區古風里14鄰辛亥路一段79號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53053999018414, 25.021280006049793]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立天母蒙特梭利幼兒園",
+				"Address": "111臺北市士林區天玉里12鄰天母西路95巷21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52512000013382, 25.119989991709588]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立天喜幼兒園",
+				"Address": "105臺北市松山區新益里1鄰民權東路五段102號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56770995891083, 25.063260013732716]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立天琪幼兒園",
+				"Address": "110臺北市信義區泰和里28鄰吳興街600巷83弄16、18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57167667955841, 25.019117349282098]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立天華幼兒園",
+				"Address": "112臺北市北投區清江里1鄰清江路25巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50220999564146, 25.131540002828245]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立太和蒙特梭利幼兒園",
+				"Address": "111臺北市士林區蘭雅里15鄰中山北路六段290巷7弄7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52685002494923, 25.11025998513692]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立太和騰幼兒園",
+				"Address": "111臺北市士林區社新里15鄰延平北路6段227號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50510996650212, 25.089290014044053]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立心美蒙特梭利幼兒園",
+				"Address": "112臺北市北投區永明里12鄰東華街二段92號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51352003287224, 25.117930013275668]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立心惠幼兒園",
+				"Address": "114臺北市內湖區港富里7鄰麗山街62巷18弄2、4、6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57902008784198, 25.08144285205363]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立心愛幼兒園",
+				"Address": "111臺北市士林區天母里1鄰中山北路七段190巷104號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53706002120725, 25.125869980606197]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立心聲幼兒園",
+				"Address": "106臺北市大安區龍坡里5鄰新生南路三段22巷14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53355998989827, 25.02403999912741]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立心藝術幼兒園",
+				"Address": "106臺北市大安區永康里2鄰永康街14巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52909000475381, 25.031229995671296]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立文山仁和幼兒園",
+				"Address": "116臺北市文山區樟文里1鄰忠順街一段10巷11.13.15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55797999424766, 24.983760009046534]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立文山懷恩幼兒園",
+				"Address": "116臺北市文山區興旺里22鄰福興路63巷4弄26、28號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54923141150293, 25.004534305460744]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立文心幼兒園",
+				"Address": "114臺北市內湖區紫星里19鄰星雲街68巷8、10、12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59207003265249, 25.078319988715606]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立日晴幼兒園",
+				"Address": "111臺北市士林區福中里10鄰福港街158號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51780997473645, 25.087420011445616]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立比利馬幼兒園",
+				"Address": "116臺北市文山區試院里26鄰木柵路一段87號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54717002136033, 24.987069980700994]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立水晶幼兒園",
+				"Address": "103臺北市大同區南芳里10鄰延平北路二段272巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5107499815108, 25.062069993029382]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立丘山幼兒園",
+				"Address": "106臺北市大安區民輝里16鄰忠孝東路三段10巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53339000490189, 25.04104000750978]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立加楓國際蒙特梭利幼兒園",
+				"Address": "104臺北市中山區中吉里19鄰松江路188巷9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53223003332141, 25.05684002072404]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立功文成長幼兒園",
+				"Address": "103臺北市大同區重慶里12鄰大同區哈密街59巷83號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51582002710359, 25.075959980057533]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立功文雪泥幼兒園",
+				"Address": "103臺北市大同區重慶里12鄰哈密街59巷79、81號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51579452029114, 25.075896127276973]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立北投青青幼兒園",
+				"Address": "112臺北市北投區長安里19鄰溫泉路73巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50572997588, 25.135799979388622]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立卡朵蒙特梭利幼兒園",
+				"Address": "106臺北市大安區群賢里17鄰四維路192巷12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5471799958251, 25.02720999299885]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立卡兒堡大直幼兒園",
+				"Address": "104臺北市中山區金泰里14鄰堤頂大道2段342、344號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56358759733112, 25.079169753887644]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立卡兒堡幼兒園",
+				"Address": "105臺北市松山區敦化里26鄰八德路三段12巷57弄39.41號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55223998313409, 25.045379989335956]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立卡兒堡國際幼兒園",
+				"Address": "111臺北市士林區天母里5鄰中山北路七段224號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53338003043706, 25.12692999799127]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立卡爾維德幼兒園",
+				"Address": "114臺北市內湖區葫洲里5鄰康寧路三段16巷35號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60768996067702, 25.07186998849356]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立卡爾維德蒙特梭利幼兒園",
+				"Address": "114臺北市內湖區東湖里17鄰東湖路113巷50號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61597999819367, 25.070689984164517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立卡爾蒙特梭利幼兒園",
+				"Address": "114臺北市內湖區東湖里17鄰東湖路113巷50之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61597999819367, 25.070689984164517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立卡蕾兒幼兒園",
+				"Address": "112臺北市北投區文化里3鄰文化三路14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49787001381532, 25.137619983934627]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立台北紐西蘭幼兒園",
+				"Address": "116臺北市文山區萬興里37鄰政大1街19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58022003321918, 24.98565000248405]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立四維幼兒園",
+				"Address": "106臺北市大安區群賢里13鄰和平東路三段1巷25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5468599747619, 25.025660011463643]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立巨勝幼兒園",
+				"Address": "100臺北市中正區文北里4鄰金山南路一段67巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52833999205768, 25.0375600089494]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立巨登堡幼兒園",
+				"Address": "112臺北市北投區溫泉里5鄰公?路77號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5052719681099, 25.133978421851044]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立巧可麗幼兒園",
+				"Address": "116臺北市文山區景仁里10鄰景福街17、19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53868181832044, 24.999226228309716]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立巧可麗查理布朗幼兒園",
+				"Address": "114臺北市內湖區湖濱里30鄰成功路三段174巷10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59054000004687, 25.080990002062634]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立巧可麗國際幼兒園",
+				"Address": "106臺北市大安區龍坡里21鄰泰順街45號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53129997734504, 25.02266000258861]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立巧而園幼兒園",
+				"Address": "106臺北市大安區法治里7鄰樂利路45巷6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55194996928424, 25.026634072431662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立巧琪幼兒園",
+				"Address": "106臺北市大安區光信里29鄰信義路四段265巷31弄26號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5557799961212, 25.03413000844145]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼天才幼兒園",
+				"Address": "111臺北市士林區福中里3鄰福港街107巷16、18、20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51868013496184, 25.08826238640827]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼心幼兒園",
+				"Address": "111臺北市士林區福德里7鄰中正路335巷18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52289996925879, 25.093829988080003]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼安幼兒園",
+				"Address": "111臺北市士林區社園里6鄰社中街231巷27號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50749000790876, 25.090429994785424]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼佳幼兒園",
+				"Address": "108臺北市萬華區和平里23鄰雙園街18巷12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49429999361479, 25.0291600008631]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼兒館幼兒園",
+				"Address": "116臺北市文山區木新里2鄰木新路2段128號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5692699987298, 24.984330020371985]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼林幼兒園",
+				"Address": "116臺北市文山區景仁里9鄰景福街31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5377900011548, 24.99886998208187]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼欣幼兒園",
+				"Address": "114臺北市內湖區湖興里19鄰成功路二段312巷66、68號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58897500110042, 25.066754307339917]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼苗幼兒園",
+				"Address": "106臺北市大安區敦煌里13鄰安和路一段127巷13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55314003189704, 25.034709994231676]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼新幼兒園",
+				"Address": "114臺北市內湖區湖興里19鄰成功路二段312巷46、48號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58867095093163, 25.0670932184525]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼學館幼兒園",
+				"Address": "116臺北市文山區木新里2鄰木新路2段130號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56923001705167, 24.984430016476864]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立幼馨幼兒園",
+				"Address": "104臺北市中山區江寧里5鄰合江街180巷19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53828998167921, 25.061190018924506]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立弘人幼兒園",
+				"Address": "106臺北市大安區龍雲里17鄰四維路170巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54714998861175, 25.028309992062077]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立弘明幼兒園",
+				"Address": "111臺北市士林區天山里12鄰中山北路7段114巷11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53321926553417, 25.122092550211633]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立正大幼兒園",
+				"Address": "112臺北市北投區永明里7鄰義理街49巷2至4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51547997329175, 25.116999999208844]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立正光幼兒園",
+				"Address": "104臺北市中山區新生里2鄰松江路362巷13、15、17、19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53246003274455, 25.062039985816014]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立正欣幼兒園",
+				"Address": "105臺北市松山區介壽里11鄰光復北路165巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55607000997105, 25.057439997353327]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立正欣啟蒙幼兒園",
+				"Address": "105臺北市松山區介壽里11鄰光復北路165巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55607000997105, 25.057439997353327]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立正音幼兒園",
+				"Address": "111臺北市士林區東山里13鄰東山路135號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53985002149818, 25.112220009375463]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立民族幼兒園",
+				"Address": "105臺北市松山區介壽里3鄰新中街4巷6、8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56087094687516, 25.057607846911417]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立民祥幼兒園",
+				"Address": "114臺北市內湖區港都里13鄰麗山街338巷5、7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57332213453697, 25.082475024560402]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立民華幼兒園",
+				"Address": "111臺北市士林區福中里1鄰華齡街211號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51967997733487, 25.088320018299072]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立民權幼兒園",
+				"Address": "105臺北市松山區新益里5鄰富錦街562巷13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5675699811278, 25.06213000745612]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立甘霖幼兒園",
+				"Address": "115臺北市南港區東明里16鄰南港路二段30、32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60527362103231, 25.05415274214002]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立甲子園幼兒園",
+				"Address": "110臺北市信義區黎平里12鄰信安街161號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5549200128554, 25.02246998484361]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立石牌旭東幼兒園",
+				"Address": "112臺北市北投區吉慶里18鄰實踐街82巷14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51068996708409, 25.11473001219086]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立禾心蒙特梭利幼兒園",
+				"Address": "106臺北市大安區敦煌里11鄰安和路一段135巷16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55354999078139, 25.034169990119608]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立立揚幼兒園",
+				"Address": "116臺北市文山區景行里22鄰景興路258號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54274001789406, 24.990160011216147]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立立湖幼兒園",
+				"Address": "114臺北市內湖區金瑞里9鄰金龍路222巷1弄1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58630998879033, 25.08817999860652]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立立興幼兒園",
+				"Address": "104臺北市中山區行仁里10鄰龍江路342巷37號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53903001991057, 25.065640013229867]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立伊帝馬幼兒園",
+				"Address": "106臺北市大安區永康里6鄰金山南路二段13巷17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5283199593091, 25.03339001211961]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立光仁國民小學附設幼兒園",
+				"Address": "108臺北市萬華區興德里2鄰萬大路423巷28弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49964002030885, 25.021150002731545]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立光目華德福幼兒園",
+				"Address": "106臺北市大安區光信里15鄰延吉街241巷2弄11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5560400027577, 25.035629991924225]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立光華幼兒園",
+				"Address": "105臺北市松山區中正里16鄰慶城街16巷3、5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54590996985598, 25.05282999251635]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立全心幼兒園",
+				"Address": "110臺北市信義區四育里11鄰虎林街40巷30號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57501000984337, 25.04760999467578]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立全能幼兒園",
+				"Address": "116臺北市文山區樟新里18鄰樟新街26號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55522000117003, 24.978950011999785]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立吉太幼兒園",
+				"Address": "116臺北市文山區樟腳里13鄰木新路三段45巷7弄8、10、12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56482353548418, 24.982068510093555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立吉事達康博喜幼兒園",
+				"Address": "106臺北市大安區虎嘯里6鄰臥龍街43巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54730002467858, 25.022579997322794]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立名人幼兒園",
+				"Address": "108臺北市萬華區忠德里2鄰西園路2段227之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49393001640863, 25.026869981096524]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立多元智慧幼兒園",
+				"Address": "114臺北市內湖區瑞陽里27鄰文德路90巷39號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58282001576515, 25.077290020453418]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立多多種子幼兒園",
+				"Address": "111臺北市士林區葫蘆里8鄰延平北路五段245巷2.4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5094500321473, 25.084650001993708]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立好來幼兒園",
+				"Address": "111臺北市士林區天母里14鄰中山北路七段225之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53284995888026, 25.12755998183394]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立安和寶貝幼兒園",
+				"Address": "106臺北市大安區敦安里5鄰安和路一段78巷1、1之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55205837330533, 25.035048677191483]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立成美蒙特梭利幼兒園",
+				"Address": "112臺北市北投區裕民里19鄰裕民六路114巷36弄5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51875997964237, 25.11407999559961]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立旭東幼兒園",
+				"Address": "112臺北市北投區秀山里2鄰中和街446巷56號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49681003833973, 25.147050002192643]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立有緣蒙特梭利幼兒園",
+				"Address": "111臺北市士林區蘭興里7鄰忠誠路2段32巷11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52944003303043, 25.109330012979612]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立百家姓幼兒園",
+				"Address": "100臺北市中正區愛國里10鄰延平南路248巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50683001685275, 25.03316998716126]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立米蘿幼兒園",
+				"Address": "112臺北市北投區文化里3鄰文化三路12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49781997385332, 25.13758000225647]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立艾法貝納幼兒園",
+				"Address": "112臺北市北投區永欣里18鄰行義路10巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5264399822459, 25.124280017392834]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立艾達幼兒園",
+				"Address": "104臺北市中山區金泰里14鄰堤頂大道二段282、284、286號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56500207030851, 25.078295395383808]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁中華幼兒園",
+				"Address": "108臺北市萬華區騰雲里2鄰中華路二段666-12、666-13、668、670號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51136999088868, 25.024189993284736]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁文山幼兒園",
+				"Address": "116臺北市文山區景仁里6鄰羅斯福路六段130號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54031999480924, 24.99707001028446]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁北投幼兒園",
+				"Address": "112臺北市北投區豐年里15鄰中央北路二段335之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48894001799118, 25.13831999857831]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁幼兒園",
+				"Address": "111臺北市士林區葫蘆里7鄰延平北路五段231巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50942999939872, 25.084209993986505]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁延吉幼兒園",
+				"Address": "106臺北市大安區光信里27鄰延吉街250號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55606003550628, 25.034859988389]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁信安寶貝幼兒園",
+				"Address": "110臺北市信義區黎平里11鄰信安街200號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5548099584667, 25.02274000785441]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁南港幼兒園",
+				"Address": "115臺北市南港區東明里15鄰興華路18.20.22.24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60594996139685, 25.054769984006313]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁新湖幼兒園",
+				"Address": "114臺北市內湖區湖興里27鄰民權東路6段196號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59516002125815, 25.06833001741596]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁興隆幼兒園",
+				"Address": "116臺北市文山區興業里7鄰興隆路二段252號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55426002179934, 25.000680012163087]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立何嘉仁臨沂幼兒園",
+				"Address": "100臺北市中正區三愛里28鄰臨沂街65巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52862003144276, 25.036280008515476]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立佑保幼兒園",
+				"Address": "110臺北市信義區松光里1鄰忠孝東路五段490號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57812003119761, 25.04076998449898]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立吳興幼兒園",
+				"Address": "110臺北市信義區三犁里4鄰松仁路253巷3弄8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56949002368816, 25.02597999061736]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立君格幼兒園",
+				"Address": "110臺北市信義區敦厚里4鄰松隆路9巷21、23號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56708441544968, 25.044396474880187]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立快樂幼兒園",
+				"Address": "114臺北市內湖區南湖里4鄰民權東路6段280巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60548996255056, 25.071960010133665]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立快樂諾貝兒幼兒園",
+				"Address": "116臺北市文山區興業里6鄰興隆路二段222之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5527500219423, 25.001359994058205]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立求真幼兒園",
+				"Address": "111臺北市士林區福中里8鄰通河東街一段136巷24.26號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51625999320123, 25.087210002861553]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立沐恩蒙特梭利幼兒園",
+				"Address": "111臺北市士林區天山里3鄰天母東路69巷11之5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5338700364967, 25.11921998817438]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立育光幼兒園",
+				"Address": "108臺北市萬華區孝德里14鄰德昌街185巷68號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49440996418446, 25.02302997979477]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立育成幼兒園",
+				"Address": "111臺北市士林區明勝里10鄰承德路四段12巷10.12.14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52137999493692, 25.080000015478575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立育奇幼兒園",
+				"Address": "112臺北市北投區中庸里13鄰大同街200巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49944002809906, 25.137649991147995]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立育強幼兒園",
+				"Address": "111臺北市士林區社子里18鄰社正路45巷12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50969000603521, 25.089629984036847]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立育華幼兒園",
+				"Address": "105臺北市松山區敦化里16鄰八德路3段12巷51弄44之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55210000535106, 25.046069987605364]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立育樂幼兒園",
+				"Address": "106臺北市大安區黎孝里17鄰和平東路三段308巷40號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55537003723691, 25.019609995661128]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立育學幼兒園",
+				"Address": "103臺北市大同區揚雅里1鄰民族西路162巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5154600243622, 25.068209988562487]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立邦尼幼兒園",
+				"Address": "106臺北市大安區龍坡里11鄰和平東路一段248巷18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5324900399579, 25.02338000807137]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立乖乖幼兒園",
+				"Address": "100臺北市中正區永昌里18鄰南海路96之1及96之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50837532649273, 25.028544184735313]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立亞瑟王皇家幼兒園",
+				"Address": "106臺北市大安區錦華里1鄰潮州街108號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52596003447007, 25.028849996174145]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立享銘幼兒園",
+				"Address": "106臺北市大安區民炤里14鄰信義路三段31巷11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53479003418926, 25.035440016088742]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立佳人幼兒園",
+				"Address": "112臺北市北投區尊賢里19鄰實踐街49巷25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50925003993757, 25.116839988677228]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立佳安幼兒園",
+				"Address": "106臺北市大安區黎孝里7鄰樂業街131、133號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55290457006112, 25.020228509917544]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立佳嬰幼兒園",
+				"Address": "111臺北市士林區仁勇里12鄰大東路126號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52555996623147, 25.09167998800598]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立來來幼兒園",
+				"Address": "114臺北市內湖區葫洲里7鄰民權東路六段280巷50號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60757001564258, 25.070719991377885]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立和楓園幼兒園",
+				"Address": "116臺北市文山區興泰里5鄰辛亥路四段252巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55446001400912, 25.001439999324006]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立奇幻幼兒園",
+				"Address": "106臺北市大安區昌隆里8鄰忠孝東路三段217巷1弄7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53935004097377, 25.042250019052176]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立宗周幼兒園",
+				"Address": "110臺北市信義區永春里9鄰松山路393巷32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57911001778166, 25.042070017681496]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立宜家民權蒙特梭利幼兒園",
+				"Address": "105臺北市松山區民有里28鄰民權東路3段140巷4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54658001919586, 25.061590003344037]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立宜家蒙特梭利幼兒園",
+				"Address": "104臺北市中山區江山里20鄰龍江路271巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54126999971515, 25.059559990213984]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立宛的弗幼兒園",
+				"Address": "116臺北市文山區順興里15鄰忠順街二段26及26之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56352998761622, 24.984699997578147]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立忠義幼兒園",
+				"Address": "111臺北市士林區蘭雅里10鄰士東路54巷11、19、21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52821950119966, 25.11135124322161]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立怡寶幼兒園",
+				"Address": "111臺北市士林區名山里19鄰中山北路六段2巷33號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5275599721482, 25.10347001492208]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立怡寶資優幼兒園",
+				"Address": "111臺北市士林區名山里19鄰中山北路六段2巷39號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52780002985514, 25.103559994652656]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立明昶幼兒園",
+				"Address": "114臺北市內湖區明湖里3鄰康寧路3段99巷10弄6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61056000814335, 25.072290005661685]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立東美幼兒園",
+				"Address": "115臺北市南港區東新里8鄰興南街52巷29、29-1、31、31-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60447695347632, 25.05705243969031]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立東湖幼兒園",
+				"Address": "114臺北市內湖區樂康里5鄰康樂街85巷33、35、37號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61973187027004, 25.069570996003034]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立松江蒙特梭利幼兒園",
+				"Address": "104臺北市中山區中吉里1鄰松江路124巷21、23、25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53123335841462, 25.052649273254932]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立松迪幼兒園",
+				"Address": "105臺北市松山區新聚里17鄰東興路2巷10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56489003522552, 25.050820012134878]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立欣光幼兒園",
+				"Address": "111臺北市士林區百齡里14鄰福港街259巷4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51831003907989, 25.08389001483279]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立欣苗幼兒園",
+				"Address": "115臺北市南港區中研里24鄰研究院路2段12巷58弄9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61391000338546, 25.04690000556731]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立欣苗寶貝幼兒園",
+				"Address": "115臺北市南港區中研里22鄰研究院路二段34巷15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61430998780497, 25.047049999724635]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立河岸小百合蒙特梭利幼兒園",
+				"Address": "104臺北市中山區永安里32鄰明水路397巷19弄18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5489999584616, 25.078549988138747]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立采郁蒙特梭利幼兒園",
+				"Address": "112臺北市北投區一德里19鄰中央北路四段577巷27弄1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46763003499603, 25.126710014942432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立長青幼兒園",
+				"Address": "106臺北市大安區虎嘯里12鄰基隆路二段232號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55107003708883, 25.02328001196649]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立長青蒙特梭利幼兒園",
+				"Address": "106臺北市大安區虎嘯里12鄰基隆路二段232號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55107003708883, 25.02328001196649]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立阿布格小科學家幼兒園",
+				"Address": "116臺北市文山區順興里5鄰興隆路四段173及175號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56207002772112, 24.983819981563755]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立青年幼兒園",
+				"Address": "108臺北市萬華區新和里28鄰國興路90-7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50635995972266, 25.026730003313503]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立青林幼兒園",
+				"Address": "105臺北市松山區福成里3鄰敦化南路一段80巷20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5478900268431, 25.04657001003929]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立信宜幼兒園",
+				"Address": "106臺北市大安區敦安里9鄰安和路一段102巷17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55091002655723, 25.034360007864592]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立信望愛幼兒園",
+				"Address": "106臺北市大安區虎嘯里2鄰敦化南路二段172巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54793998298607, 25.024079980805553]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立信義蒙特梭利幼兒園",
+				"Address": "110臺北市信義區安康里6鄰忠孝東路五段236巷45弄9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57242997622694, 25.037669979519052]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立勁寶兒公館幼兒園",
+				"Address": "116臺北市文山區萬盛里1鄰萬盛街42號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53919003044217, 25.007260015703395]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立勁寶兒文德幼兒園",
+				"Address": "114臺北市內湖區港富里30鄰內湖路二段130號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58240997306183, 25.079519983883728]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立勁寶兒幼兒園",
+				"Address": "106臺北市大安區誠安里17鄰復興南路一段92之8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54359002669509, 25.043459988685072]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立勁寶兒民權幼兒園",
+				"Address": "105臺北市松山區民有里6鄰民權東路三段106巷21弄12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54551995990124, 25.05937998884329]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立南光幼兒園",
+				"Address": "115臺北市南港區中研里12鄰研究院路二段61巷2弄41號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61844000295662, 25.043379983419257]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立南門幼兒園",
+				"Address": "100臺北市中正區南福里15鄰重慶南路三段27巷4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51644003648147, 25.02878998174741]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立咪咪幼兒園",
+				"Address": "114臺北市內湖區瑞陽里10鄰文德路66巷69弄30號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58246001302382, 25.0766900019146]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立咪咪陳幼兒園",
+				"Address": "115臺北市南港區三重里22鄰重陽路551號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61407998838189, 25.063150001253533]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立哈寶寶幼兒園",
+				"Address": "105臺北市松山區東榮里26鄰民生東路五段69巷2弄13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55886998472681, 25.059399979682354]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立城市國際幼兒園",
+				"Address": "112臺北市北投區一德里14鄰學園路2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4680600266289, 25.131329994244183]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立奎山中學附設幼兒園",
+				"Address": "112臺北市北投區榮華里13鄰明德路200號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52206001874157, 25.112960005697303]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立娃娃果幼兒園",
+				"Address": "108臺北市萬華區雙園里3鄰艋舺大道184號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5002099897248, 25.03270998831499]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立娃娃家蒙特梭利幼兒園",
+				"Address": "106臺北市大安區仁慈里1鄰信義路四段61號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54537000765345, 25.033770005700077]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立孩子國幼兒園",
+				"Address": "111臺北市士林區義信里12鄰承德路四段185號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52242002148296, 25.087880010291883]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立建國幼兒園",
+				"Address": "104臺北市中山區中央里10鄰建國北路二段6巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53637002293783, 25.052590018628436]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立星莆幼兒園",
+				"Address": "111臺北市士林區社園里26鄰社中街289、291號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50589685491433, 25.09204554975848]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立柏克立幼兒園",
+				"Address": "114臺北市內湖區金湖里2鄰金湖路363巷45號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60093003958508, 25.073320015833403]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立柏克萊幼兒園",
+				"Address": "114臺北市內湖區金湖里3鄰金湖路363巷17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60173000842411, 25.073409995563978]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立皇家幼兒園",
+				"Address": "112臺北市北投區榮華里9鄰榮華二路9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52407997358779, 25.113199979585218]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立盈虹幼兒園",
+				"Address": "108臺北市萬華區忠德里2鄰西園路二段207號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49436000804155, 25.027229983837913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立科見幼兒園",
+				"Address": "104臺北市中山區興亞里16鄰松江路90巷9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5312800284155, 25.05062001992512]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立美敦幼兒園",
+				"Address": "114臺北市內湖區麗山里5鄰內湖路一段591巷11弄9、11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57361822745646, 25.0812957129052]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立英才幼兒園",
+				"Address": "108臺北市萬華區日善里13鄰萬大路200號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50030001136486, 25.027370003530464]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立英羽幼兒園",
+				"Address": "106臺北市大安區龍雲里5鄰復興南路二段111巷17弄7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5446899838488, 25.029479980016816]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立英格幼兒園",
+				"Address": "114臺北市內湖區寶湖里14鄰民權東路六段180巷23、25、29、31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59307996816614, 25.067929991086913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立郁欣幼兒園",
+				"Address": "105臺北市松山區復源里3鄰八德路三段106巷70號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55372128810613, 25.04812102481444]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立韋斯登幼兒園",
+				"Address": "104臺北市中山區江山里11鄰合江街73巷33號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54024003145298, 25.058850001105498]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立飛達幼兒園",
+				"Address": "111臺北市士林區永倫里1鄰延平北路六段210號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50489999982756, 25.089459999040443]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立家田幼兒園",
+				"Address": "114臺北市內湖區秀湖里7鄰大湖街158巷2之3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59947997033572, 25.08322000740246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立家家幼兒園",
+				"Address": "116臺北市文山區興家里3鄰興隆路三段二0七巷九弄9.11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55498002728211, 25.00056999968392]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立家森幼兒園",
+				"Address": "106臺北市大安區古莊里3鄰羅斯福路二段101巷19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52560003172869, 25.02479998628833]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立家緣蒙特梭利幼兒園",
+				"Address": "100臺北市中正區文祥里15鄰杭州南路1段131巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52591996897286, 25.03638997908513]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立師達幼兒園",
+				"Address": "111臺北市士林區天祿里3鄰士東路91巷26弄12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53007999133786, 25.112799995165688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立恩貝亞幼兒園",
+				"Address": "114臺北市內湖區紫雲里18鄰金湖路179號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5991900403049, 25.079289984460587]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立書宜幼兒園",
+				"Address": "116臺北市文山區景仁里1鄰羅斯福路六段150巷22號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5405299614838, 24.99566000653229]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立桔子蒙特梭利幼兒園",
+				"Address": "106臺北市大安區民輝里6鄰仁愛路三段51巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53584003520007, 25.039760007075856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立格林菲爾幼兒園",
+				"Address": "106臺北市大安區全安里16鄰安和路二段181巷2、4、6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55095998270014, 25.02722000937314]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立格登幼兒園",
+				"Address": "106臺北市大安區民炤里1鄰仁愛路三段26之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5357699624895, 25.0376400142152]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立格爾幼兒園",
+				"Address": "105臺北市松山區中崙里7鄰八德路二段402號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54667004083592, 25.048060019057274]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立格爾登幼兒園",
+				"Address": "103臺北市大同區蓬萊里5鄰承德路三段40號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5180999885863, 25.064690008323964]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立桃樂絲幼兒園",
+				"Address": "112臺北市北投區溫泉里5鄰民族街12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50447998265946, 25.132110014153696]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立泰安幼兒園",
+				"Address": "111臺北市士林區德行里4鄰中山北路五段八二九巷14.16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52509996738524, 25.101719999267587]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立海桔斯幼兒園",
+				"Address": "103臺北市大同區南芳里9鄰延平北路二段286、286之1、286之2、286之3、286之4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51100782412725, 25.062676987710226]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立海格斯大千幼兒園",
+				"Address": "115臺北市南港區百福里2鄰福德街310巷30、32及34號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58733763945237, 25.040343496467827]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立浩恩幼兒園",
+				"Address": "111臺北市士林區岩山里10鄰忠義街91巷17.19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53322999437023, 25.106249998838763]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立真心蒙特梭利幼兒園",
+				"Address": "106臺北市大安區敦安里11鄰安和路1段112巷20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55068002713409, 25.03382000375251]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立純青幼兒園",
+				"Address": "105臺北市松山區龍田里36鄰光復北路190巷35號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5543200362261, 25.054680004275724]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立耕心幼兒園",
+				"Address": "105臺北市松山區中華里13鄰南京東路四段53巷11弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5505999799588, 25.053239993310186]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立健寶兒幼兒園",
+				"Address": "105臺北市松山區民有里13鄰敦化北路222巷11之1、13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54826997851404, 25.059240011060254]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立國泰幼兒園",
+				"Address": "110臺北市信義區長春里5鄰永吉路278巷57弄16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57471999599352, 25.043279987314378]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立國際蒙特梭利大安森林幼兒園",
+				"Address": "106臺北市大安區民炤里5鄰新生南路1段143巷20、22號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5343353072825, 25.036188680897386]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立國際蒙特梭利內湖幼兒園",
+				"Address": "114臺北市內湖區秀湖里2鄰大湖街166巷18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60127998404266, 25.08356001930477]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立國際蒙特梭利北投幼兒園",
+				"Address": "112臺北市北投區長安里18鄰光明路226-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50553995813499, 25.135970006294528]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立國際蒙特梭利幼兒園",
+				"Address": "104臺北市中山區成功里14鄰樂群二路128號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55597998833096, 25.079852698139895]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立培爾幼兒園",
+				"Address": "112臺北市北投區中和里15鄰大屯路31巷15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50049002910987, 25.14340001863586]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立培諾米達信義幼兒園",
+				"Address": "110臺北市信義區安康里20鄰松德路161之4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57482996656319, 25.03638997908513]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立彩虹屋幼兒園",
+				"Address": "116臺北市文山區興泰里12鄰辛亥路四段130巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55656001603069, 25.004880016206243]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立捷森幼兒園",
+				"Address": "111臺北市士林區三玉里13鄰天玉街15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52672002163098, 25.119410005919363]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立晨星蒙特梭利幼兒園",
+				"Address": "104臺北市中山區復華里12鄰龍江路114巷6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54005998817274, 25.05305999193949]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立梓園幼兒園",
+				"Address": "106臺北市大安區福住里4鄰信義路二段228巷9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5318800050448, 25.032919996899054]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立梅爾森幼兒園",
+				"Address": "116臺北市文山區木新里30鄰木新路二段79巷12弄16、18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57107105934374, 24.9844573703019]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立清心幼兒園",
+				"Address": "110臺北市信義區中坡里1鄰福德街137巷4.5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58281004130038, 25.0371300173165]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立清華幼兒園",
+				"Address": "116臺北市文山區興得里11鄰興隆路三段36巷9弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55528999006157, 24.99989999225359]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立涵鈺新天地幼兒園",
+				"Address": "100臺北市中正區幸福里3鄰林森南路12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52344001528036, 25.044340004699464]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立甜甜屋幼兒園",
+				"Address": "103臺北市大同區老師里8鄰重慶北路三段296巷4弄4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51330000791387, 25.073479984455503]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立笙愛幼兒園",
+				"Address": "104臺北市中山區興亞里14鄰松江路78巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53218996782425, 25.049729987536438]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立莒光幼兒園",
+				"Address": "115臺北市南港區舊莊里10鄰舊莊街一段145巷6弄31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.62201999762192, 25.039560014866083]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立雪拉比幼兒園",
+				"Address": "108臺北市萬華區華江里11鄰環河南路二段250巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49114999058241, 25.03344998463683]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立麻雀素食幼兒園",
+				"Address": "114臺北市內湖區內溝里12鄰康樂街141之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61984003224404, 25.074219980777343]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立荳荳幼兒園",
+				"Address": "116臺北市文山區試院里25鄰木柵路一段59巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54691998918861, 24.98811998171179]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立荳荳園幼兒園",
+				"Address": "104臺北市中山區力行里5鄰龍江路31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54051998701902, 25.04862998847321]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立傑生幼兒園",
+				"Address": "110臺北市信義區富台里7鄰忠孝東路五段295巷6弄21.23.25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57354091367381, 25.04187744345603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立傑生寶華國際幼兒園",
+				"Address": "115臺北市南港區成福里36鄰成福路207巷7、9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58924107480321, 25.04034899232828]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立傑瑞富幼兒園",
+				"Address": "100臺北市中正區梅花里6鄰忠孝東路一段9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5236700147035, 25.04493000686398]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立傑聲幼兒園",
+				"Address": "104臺北市中山區永安里30鄰明水路397巷2弄10、12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54707951654431, 25.07800691800419]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立凱思幼兒園",
+				"Address": "105臺北市松山區復勢里19鄰光復北路100巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55693996770162, 25.050629994389894]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立凱思寶幼兒園",
+				"Address": "105臺北市松山區復勢里19鄰光復北路100巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55693996770162, 25.050629994389894]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立凱斯幼兒園",
+				"Address": "111臺北市士林區義信里12鄰承德路四段179巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52331001196211, 25.087889984756657]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立凱菲林幼兒園",
+				"Address": "114臺北市內湖區葫洲里12鄰康寧路三段54之5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60917003713973, 25.071650005444724]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立凱薩琳幼兒園",
+				"Address": "112臺北市北投區奇岩里24鄰公館路279巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50733997184193, 25.12479001429155]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立博仁幼兒園",
+				"Address": "111臺北市士林區天壽里9鄰中山北路六段405巷29、31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52583151413165, 25.113865367995636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立博如日本幼兒園",
+				"Address": "111臺北市士林區蘭興里13鄰克強路10巷9弄29及31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52302997257704, 25.10936002019298]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立博登幼兒園",
+				"Address": "103臺北市大同區至聖里16鄰承德路三段208巷29號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51713003475083, 25.070580013594864]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立博愛幼兒園",
+				"Address": "108臺北市萬華區華中里11鄰武成街28巷9弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4952499985207, 25.019030009870903]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立喜樂幼兒園",
+				"Address": "105臺北市松山區安平里9鄰健康路290之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56529001964503, 25.05407001127213]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立喬可幼兒園",
+				"Address": "104臺北市中山區永安里34鄰北安路554巷19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5490100167454, 25.08017000047498]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立喬幼一江幼兒園",
+				"Address": "104臺北市中山區中吉里2鄰一江街21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53161002394353, 25.052679998359025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立喬幼國際幼兒園",
+				"Address": "104臺北市中山區下埤里2鄰民權東路三段63、65、67號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54329187645065, 25.06249306828632]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立喬伊幼兒園",
+				"Address": "110臺北市信義區松光里12鄰忠孝東路五段524巷3弄27號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58012003711428, 25.040879996978163]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立喬治亞幼兒園",
+				"Address": "114臺北市內湖區湖濱里9鄰內湖路二段334之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58889999687153, 25.08153998063949]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立惠生幼兒園",
+				"Address": "116臺北市文山區興家里12鄰興隆路三段207巷10弄1、3、9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56105482492181, 24.994839903116493]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立惠真幼兒園",
+				"Address": "106臺北市大安區臨江里14鄰通化街143巷31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55581997779933, 25.028470002593693]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立惠登幼兒園",
+				"Address": "114臺北市內湖區明湖里17鄰康寧路三段189巷52號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61301003844153, 25.07140001518252]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立惠群幼兒園",
+				"Address": "115臺北市南港區舊莊里24鄰合順街8巷5弄5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61929998622242, 25.042040010468128]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立敦品幼兒園",
+				"Address": "111臺北市士林區聖山里9鄰忠誠路一段173巷13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53136996623658, 25.108180015863937]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立敦歆幼兒園",
+				"Address": "106臺北市大安區昌隆里1鄰忠孝東路三段217巷2弄8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54018001702622, 25.042229986303596]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立晴晴幼兒園",
+				"Address": "112臺北市北投區石牌里8鄰致遠一路一段104巷19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51586000878171, 25.10995999682227]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立智寶園幼兒園",
+				"Address": "100臺北市中正區南福里2鄰羅斯福路2段50號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52158996161148, 25.02784999321581]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立森林學館幼兒園",
+				"Address": "114臺北市內湖區紫陽里12鄰陽光街65號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58646999932193, 25.076060018071928]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立湖畔小百合蒙特梭利幼兒園",
+				"Address": "114臺北市內湖區大湖里1鄰大湖山莊街85號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60206000395215, 25.085910011588552]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立發現蒙特梭利幼兒園",
+				"Address": "112臺北市北投區建民里6鄰文林北路80巷90弄41號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52033996839094, 25.106319987730274]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立童年空間幼兒園",
+				"Address": "106臺北市大安區敦煌里4鄰信義路四段265巷20弄18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54386998226113, 25.03314999632218]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立童欣幼兒園",
+				"Address": "105臺北市松山區東榮里13鄰富錦街396號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5598800040595, 25.060520011494177]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立童馨幼兒園",
+				"Address": "106臺北市大安區黎元里1鄰樂業街182號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55403999684103, 25.019089982388124]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立菁英幼兒園",
+				"Address": "106臺北市大安區民輝里3鄰新生南路一段119巷15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53450999480418, 25.039330015442957]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立菁英種子幼兒園",
+				"Address": "106臺北市大安區民輝里10鄰濟南路3段11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53385997821289, 25.040259987600265]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立華民幼兒園",
+				"Address": "112臺北市北投區永欣里11鄰石牌路二段358號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52531999234355, 25.123269998060195]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立華泰大湖幼兒園",
+				"Address": "114臺北市內湖區大湖里1鄰大湖山莊街21巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60242998115831, 25.08453001504975]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立華泰幼兒園",
+				"Address": "114臺北市內湖區大湖里1鄰大湖山莊街21巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60242998115831, 25.08453001504975]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立華泰種子幼兒園",
+				"Address": "114臺北市內湖區大湖里1鄰大湖山莊街97號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60202002227402, 25.084769988937666]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立華康幼兒園",
+				"Address": "106臺北市大安區永康里1鄰金華街223之5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5292899969636, 25.029839982758205]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立華盛頓幼兒園",
+				"Address": "114臺北市內湖區港墘里18鄰瑞光路271號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57681002355031, 25.07534998705394]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立華菂幼兒園",
+				"Address": "106臺北市大安區全安里8鄰安和路二段217巷30、32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.551180730755, 25.025967575883442]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立賀瑞幼兒園",
+				"Address": "105臺北市松山區中華里14鄰南京東路四段53巷11弄1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55074004156086, 25.053439985519944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立超級寶貝幼兒園",
+				"Address": "112臺北市北投區建民里8鄰文林北路80巷38弄10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51928996738013, 25.105419980876803]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立逸仙幼兒園",
+				"Address": "110臺北市信義區興隆里13鄰逸仙路42巷6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56270998602861, 25.040259987600265]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立陽光小屋幼兒園",
+				"Address": "106臺北市大安區龍陣里1鄰瑞安街208巷14弄24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53927971680616, 25.02843002091555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立陽光森林麗湖幼兒園",
+				"Address": "114臺北市內湖區湖濱里1鄰內湖路二段103巷48號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.580699980995, 25.081999979485758]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立陽光寶貝幼兒園",
+				"Address": "106臺北市大安區民炤里2鄰新生南路1段133巷9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53381002206999, 25.037469987309294]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立圓圓幼兒園",
+				"Address": "105臺北市松山區中正里27鄰慶城街20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54557997432795, 25.053380013002723]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立塞凡提幼兒園",
+				"Address": "114臺北市內湖區葫洲里10鄰民權東路六段296巷31弄4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60628004074391, 25.071739985175313]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立塞凡提甜心幼兒園",
+				"Address": "114臺北市內湖區明湖里17鄰康寧路3段189巷42號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61335000843434, 25.070949990801026]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立塞凡提凱旋幼兒園",
+				"Address": "114臺北市內湖區葫洲里10鄰民權東路六段296巷61號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60747001953769, 25.071170015759378]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立奧斯福爾幼兒園",
+				"Address": "114臺北市內湖區葫洲里23鄰康寧路三段16巷53號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60839999169502, 25.071320009916704]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立奧爾仕幼兒園",
+				"Address": "111臺北市士林區臨溪里1鄰至善路二段1之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54311289495796, 25.09728222962981]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立微笑幼兒園",
+				"Address": "110臺北市信義區黎平里23鄰和平東路3段341巷12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55729997044301, 25.02128998051458]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立微笑音符幼兒園",
+				"Address": "111臺北市士林區岩山里8鄰至誠路1段148號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53411001038461, 25.10150001621875]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立慈愛幼兒園",
+				"Address": "108臺北市萬華區孝德里4鄰寶興街140巷23號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49386002751714, 25.023959993861595]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立愛英幼兒園",
+				"Address": "106臺北市大安區錦安里2鄰金山南路二段159巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52676997777388, 25.029209998915533]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立愛迪兒幼兒園",
+				"Address": "104臺北市中山區中吉里16鄰松江路170巷17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53132001009368, 25.056109998866972]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立愛德恩幼兒園",
+				"Address": "112臺北市北投區永欣里13鄰石牌路二段303號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5228100314377, 25.121440019049416]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立新天地幼兒園",
+				"Address": "112臺北市北投區一德里2鄰中央北路4段32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.47797003457231, 25.13508001581536]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立新生幼兒園",
+				"Address": "104臺北市中山區中庄里4鄰新生北路2段125號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52794998210294, 25.05968999353223]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立新生寶貝幼兒園",
+				"Address": "106臺北市大安區福住里4鄰信義路2段230號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53188997950957, 25.033429993797753]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立新成功幼兒園",
+				"Address": "112臺北市北投區吉慶里9鄰實踐街54號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50939999218537, 25.115160003823775]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立新自立幼兒園",
+				"Address": "104臺北市中山區新喜里11鄰吉林路407巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53109001067054, 25.066159984593355]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立新自立全人幼兒園",
+				"Address": "104臺北市中山區新喜里11鄰德惠街150號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53093000013888, 25.066460014817523]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立新茗幼兒園",
+				"Address": "112臺北市北投區東華里17鄰立農街二段257之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51725900800697, 25.118974090575648]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立新莒光幼兒園",
+				"Address": "115臺北市南港區中研里3鄰研究院路2段35巷13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61598997265844, 25.04632999424186]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立瑞比特幼兒園",
+				"Address": "111臺北市士林區社新里21鄰社子街63巷8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50683001685275, 25.087789988651778]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立經貿夢想幼兒園",
+				"Address": "115臺北市南港區三重里25鄰重陽路386號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61010000929707, 25.059179996633517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立經緯幼兒園",
+				"Address": "106臺北市大安區龍陣里11鄰復興南路二段160巷16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54232000072597, 25.02779002069859]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聖幼幼兒園",
+				"Address": "110臺北市信義區安康里18鄰虎林街232巷54號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57606998531895, 25.036000011039903]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聖如幼兒園",
+				"Address": "105臺北市松山區民有里10鄰復興北路361巷26號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54618003477628, 25.06032001928442]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聖安幼兒園",
+				"Address": "114臺北市內湖區葫洲里11鄰民權東路六段296巷69號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60767001174747, 25.070990014388684]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聖育幼兒園",
+				"Address": "114臺北市內湖區碧山里12鄰內湖路三段60巷9、11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59229908272293, 25.08704423875858]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聖保羅幼兒園",
+				"Address": "108臺北市萬華區新起里22鄰長沙街2段52號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50589996087638, 25.040569992289207]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聖喬治幼兒園",
+				"Address": "114臺北市內湖區葫洲里15鄰民權東路六段296巷40、42、42-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60732520577007, 25.071427852937582]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聖德幼兒園",
+				"Address": "112臺北市北投區洲美里10鄰洲美街271號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49870996433248, 25.109180018822286]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聖儒幼兒園",
+				"Address": "105臺北市松山區民有里10鄰復興北路361巷24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54606998038759, 25.06032001928442]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立資幼幼兒園",
+				"Address": "105臺北市松山區東榮里13鄰富錦街372號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55869002526566, 25.06042998985407]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立資優兒童幼兒園",
+				"Address": "112臺北市北投區大同里5鄰中央北路一段179巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4978400066019, 25.13546000939583]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立道生幼兒園",
+				"Address": "112臺北市北投區桃源里12鄰中央北路三段188號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48143000038408, 25.136849980399404]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立道生南港幼兒園",
+				"Address": "115臺北市南港區重陽里3鄰重陽路187巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59891997538455, 25.057190007091123]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立道明幼兒園",
+				"Address": "104臺北市中山區新福里11鄰吉林路378號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53021996912094, 25.064479999739902]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立道思幼兒園",
+				"Address": "111臺北市士林區天玉里20鄰天母北路61號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52683996666542, 25.12118001241292]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立達芬奇多元智能幼兒園",
+				"Address": "115臺北市南港區東明里15鄰興華路32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6058300163624, 25.05525001560116]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立達德幼兒園",
+				"Address": "110臺北市信義區三張里9鄰莊敬路423巷2弄4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56683002671542, 25.027480016009633]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立頌恩幼兒園",
+				"Address": "116臺北市文山區萬芳里12鄰萬安街91號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57192999570253, 25.000429979991367]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立嘉勝幼兒園",
+				"Address": "105臺北市松山區東光里22鄰三民路9-17、9-18、9-19、9-20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56372997982601, 25.053630003264928]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立嘉維幼兒園",
+				"Address": "105臺北市松山區東光里22鄰三民路9-21、9-22、9-23、9-24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56372997982601, 25.05356998883819]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立嘉霖幼兒園",
+				"Address": "104臺北市中山區新福里5鄰民權東路2段107號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53279002827259, 25.062690002407265]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立嘉霙幼兒園",
+				"Address": "114臺北市內湖區紫陽里18鄰陽光街116號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.584149972342, 25.075080005952657]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立嘟嘟幼兒園",
+				"Address": "106臺北市大安區華聲里1鄰光復南路96巷2之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5570100404122, 25.044049990849587]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立夢想幼兒園",
+				"Address": "114臺北市內湖區紫陽里19鄰文德路210巷8之3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5839400056675, 25.07829999787654]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立寧馨苑幼兒園",
+				"Address": "108臺北市萬華區和德里1鄰西藏路239號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49426001193666, 25.028539991485204]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立滿兒圓幼兒園",
+				"Address": "106臺北市大安區敦煌里19鄰仁愛路四段300巷20弄15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55350003463843, 25.03633000656791]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立滬江高級中學附設幼兒園",
+				"Address": "116臺北市文山區景美里1鄰羅斯福路六段336號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53916999769359, 24.98978001763568]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立熊寶貝幼兒園",
+				"Address": "111臺北市士林區蘭雅里18鄰士東路46巷26號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52747003432711, 25.110649995091677]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立爾雅幼兒園",
+				"Address": "106臺北市大安區龍雲里14鄰大安路二段160巷20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54534000044004, 25.028710018391124]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立種籽幼兒園",
+				"Address": "111臺北市士林區蘭雅里14鄰中山北路六段290巷11弄3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52689998109213, 25.109979987661347]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立精采童年幼兒園",
+				"Address": "111臺北市士林區天玉里18鄰天母北路42之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5264399822459, 25.120410008877712]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立維多利亞幼兒園",
+				"Address": "105臺北市松山區民有里20鄰民權東路3段160巷19弄17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54826997851404, 25.06003000543454]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立維格幼兒園",
+				"Address": "100臺北市中正區南門里3鄰廣州街8巷13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50814002450005, 25.034440013130407]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立蒙特梭利快樂園幼兒園",
+				"Address": "104臺北市中山區金泰里3鄰樂群二路188、190號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55864353751574, 25.07984272367512]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立蒙特梭利花園幼兒園",
+				"Address": "104臺北市中山區永安里28鄰明水路397巷7弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54790997577265, 25.07793002067038]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立蒙特梭利童圓幼兒園",
+				"Address": "100臺北市中正區幸市里8鄰濟南路二段54-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53148002062528, 25.040200015083045]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立蒙特梭利愛兒園幼兒園",
+				"Address": "106臺北市大安區民炤里9鄰新生南路一段161巷4之9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53342998658002, 25.034540009235286]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立廣教幼兒園",
+				"Address": "114臺北市內湖區紫星里21鄰成功路三段187巷35弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59168999716252, 25.079380006100692]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立德行幼兒園",
+				"Address": "111臺北市士林區蘭雅里24鄰中山北路6段290巷48.50號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52731999826028, 25.108669980014056]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立德昌幼兒園",
+				"Address": "108臺北市萬華區忠德里13鄰德昌街166號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4957700117937, 25.024029982753106]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立德明幼兒園",
+				"Address": "108臺北市萬華區興德里5鄰萬大路449巷28弄3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49928001756746, 25.020189981451352]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立德美蒙特梭利幼兒園",
+				"Address": "112臺北市北投區永明里12鄰東華街二段92之2及92之3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51352003287224, 25.117930013275668]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立德馨幼兒園",
+				"Address": "105臺北市松山區敦化里7鄰八德路三段12巷20弄18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54983001833307, 25.04657001003929]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立慧光幼兒園",
+				"Address": "110臺北市信義區安康里18鄰虎林街232巷66弄1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57567000089944, 25.035709997190025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立樂家幼兒園",
+				"Address": "112臺北市北投區吉慶里1鄰實踐街6巷3弄11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50831000949643, 25.114659981389835]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立潭美幼兒園",
+				"Address": "114臺北市內湖區五分里10鄰東湖路160巷10弄20、22、24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61652003802715, 25.067588359454184]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立潘蜜拉幼兒園",
+				"Address": "112臺北市北投區中和里12鄰大屯路21巷21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49978997255664, 25.14378001221631]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立熱帶魚幼兒園",
+				"Address": "106臺北市大安區建倫里3鄰忠孝東路四段170巷24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55065999438551, 25.039549998491793]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立磊心信義幼兒園",
+				"Address": "106臺北市大安區德安里4鄰四維路76巷17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54641003419943, 25.03441000591704]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立磊心蒙特梭利幼兒園",
+				"Address": "106臺北市大安區德安里4鄰信義路四段99巷30.32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54717027281743, 25.03373936984397]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立蔚思幼兒園",
+				"Address": "106臺北市大安區全安里8鄰安和路二段217巷22、24、26號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55102994540353, 25.025924975175084]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立橘子蒙特梭利幼兒園",
+				"Address": "112臺北市北投區關渡里6鄰知行路292巷6、8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46832263453094, 25.12174446800027]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立橘子樹幼兒園",
+				"Address": "106臺北市大安區新龍里1鄰瑞安街208巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54044002366271, 25.028049985425568]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立樹人幼兒園",
+				"Address": "116臺北市文山區興福里14鄰景華街121巷17弄9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54573001039483, 24.996860001700398]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立樹屋幼兒園",
+				"Address": "106臺北市大安區通安里18鄰樂利路11巷19號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.028550007859508]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立樹德幼兒園",
+				"Address": "115臺北市南港區成福里3鄰東新街80巷11弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58742997869263, 25.04555999070665]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立翰諾幼兒園",
+				"Address": "111臺北市士林區蘭雅里20鄰德行東路61巷4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52646001499448, 25.107599988164196]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立融恩幼兒園",
+				"Address": "114臺北市內湖區清白里19鄰金湖路16之11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59592998288383, 25.083400008773154]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立親子坊幼兒園",
+				"Address": "105臺北市松山區鵬程里9鄰健康路325巷16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56732003277506, 25.055849992230463]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立親兒園蒙特梭利幼兒園",
+				"Address": "103臺北市大同區光能里9鄰承德路2段47號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51839997690098, 25.055120012282913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立親親幼兒園",
+				"Address": "106臺北市大安區華聲里15鄰延吉街109號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55417000015927, 25.04309001147891]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立諾貝兒幼兒園",
+				"Address": "116臺北市文山區興邦里16鄰興隆路二段203巷112及114號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54728996639477, 25.003320018296748]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立諾貝爾內湖幼兒園",
+				"Address": "114臺北市內湖區葫洲里10鄰金湖路417號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60468999371153, 25.07329998308481]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立諾貝爾幼兒園",
+				"Address": "114臺北市內湖區金湖里10鄰金湖路415號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60465001203335, 25.07329998308481]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立諾貝爾金湖幼兒園",
+				"Address": "114臺北市內湖區葫洲里10鄰金湖路419號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6047800153516, 25.07329998308481]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立貓熊幼兒園",
+				"Address": "106臺北市大安區龍圖里6鄰建國南路二段79巷33號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53920000490695, 25.03093000735666]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立龍江幼兒園",
+				"Address": "104臺北市中山區下埤里9鄰龍江路397巷12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54167995859945, 25.065460011859173]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立龍華幼兒園",
+				"Address": "115臺北市南港區鴻福里12鄰玉成街247號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58613002932918, 25.042949991786358]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立優幼園幼兒園",
+				"Address": "114臺北市內湖區內湖里15鄰成功路四段30巷11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5916100338062, 25.082070010286785]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立優格幼兒園",
+				"Address": "112臺北市北投區永欣里14鄰石牌路二段315巷10弄10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52295000922072, 25.12277999200056]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立優格快樂幼兒園",
+				"Address": "112臺北市北投區永欣里14鄰石牌路二段315巷10弄10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52295000922072, 25.12277999200056]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立優寶幼兒園",
+				"Address": "105臺北市松山區東勢里5鄰南京東路四段133巷6弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55493996178495, 25.05276000362484]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立聯華幼兒園",
+				"Address": "100臺北市中正區永昌里18鄰南海路110之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50811999175147, 25.02792999848161]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立薇閣國民小學附設幼兒園",
+				"Address": "112臺北市北投區中心里11鄰珠海路50號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50456002983475, 25.13994998537933]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立藍天幼兒園",
+				"Address": "112臺北市北投區中和里8鄰中和街392號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49832003819677, 25.143249982569017]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立豐年幼兒園",
+				"Address": "112臺北市北投區豐年里16鄰中央北路二段95巷1弄40號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49564998294022, 25.13618001487859]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立豐村幼兒園",
+				"Address": "105臺北市松山區復盛里17鄰八德路四段106巷2弄4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56031997015714, 25.047809986885554]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立寶仁幼兒園",
+				"Address": "105臺北市松山區龍田里32鄰光復北路230巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55456001011402, 25.05632000745102]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立寶血幼兒園",
+				"Address": "106臺北市大安區古風里9鄰泰順街60巷18弄8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52994001355484, 25.021909989892464]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立寶貝幼兒園",
+				"Address": "100臺北市中正區永昌里6鄰寧波西街181巷44號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5096299916085, 25.026389991411193]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立寶兒寶幼兒園",
+				"Address": "110臺北市信義區正和里14鄰光復南路419巷17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.558060041423, 25.036579996830127]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立寶興幼兒園",
+				"Address": "108臺北市萬華區銘德里3鄰寶興街228號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49580999347188, 25.022050009585016]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立寶馨幼兒園",
+				"Address": "116臺北市文山區景慶里19鄰溪口街85巷7弄6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53850003217275, 24.994770016053124]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立蘊品幼兒園",
+				"Address": "104臺北市中山區金泰里13鄰基湖路147號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56381002700135, 25.07805998207911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立馨兒園幼兒園",
+				"Address": "105臺北市松山區敦化里10鄰八德路三段12巷60號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5505699727454, 25.045850004556513]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立櫻之圓蒙特梭利幼兒園",
+				"Address": "114臺北市內湖區西康里24鄰環山路1段24巷10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56516001632679, 25.084450009783936]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市私立歡樂童年幼兒園",
+				"Address": "108臺北市萬華區新和里25鄰中華路二段428之4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50620003301009, 25.027469999635343]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市辛亥非營利幼兒園（委託社團法人中華婦幼發展協會辦理）",
+				"Address": "106臺北市大安區臥龍里5鄰辛亥路三段11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54405002554137, 25.02157001989967]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市協祐非營利幼兒園（委託社團法人臺北市幼托協會辦理）",
+				"Address": "110臺北市信義區大道里8鄰忠孝東路5段790巷27號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58348000682122, 25.042619996258352]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市和平實驗國民小學附設幼兒園",
+				"Address": "106臺北市大安區臥龍里1鄰敦南街76巷28號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54679996033514, 25.020709994724356]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市明倫非營利幼兒園（委託社團法人中華兆陽文教發展協會辦理）",
+				"Address": "103臺北市大同區保安里18鄰承德路3段285-7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51941997069838, 25.07311000724934]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市東中非營利幼兒園（委託社團法人台北市幼兒園協會辦理）",
+				"Address": "114臺北市內湖區樂康里16鄰康樂街131號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61943168848589, 25.072462467865005]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市松山區三民國民小學附設幼兒園",
+				"Address": "105臺北市松山區莊敬里12鄰民權東路五段1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56428000031241, 25.06326998819749]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市松山區民族國民小學附設幼兒園",
+				"Address": "105臺北市松山區精忠里4鄰民生東路四段97巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55214996149397, 25.058700006948172]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市松山區民權國民小學附設幼兒園",
+				"Address": "105臺北市松山區三民里32鄰民權東路四段200號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56230002714426, 25.06249998466228]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市松山區西松國民小學附設幼兒園",
+				"Address": "105臺北市松山區東光里22鄰三民路5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5636800236831, 25.060240014018603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市松山區松山國民小學附設幼兒園",
+				"Address": "105臺北市松山區慈祐里20鄰八德路四段746號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57894003278528, 25.05113001682382]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市松山區健康國民小學附設幼兒園",
+				"Address": "105臺北市松山區自強里3鄰延壽街168號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56293001098697, 25.056609979391382]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市松山區敦化國民小學附設幼兒園",
+				"Address": "105臺北市松山區中正里10鄰敦化北路2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54856996682872, 25.050319989700952]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信中非營利幼兒園（委託財團法人福智文教基金會辦理）",
+				"Address": "110臺北市信義區三張里13鄰松仁路158巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56833680820104, 25.0272100139536]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區三興國民小學附設幼兒園",
+				"Address": "110臺北市信義區景聯里8鄰基隆路二段99號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5580300342096, 25.029709979439957]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區永吉國民小學附設幼兒園",
+				"Address": "110臺北市信義區永春里15鄰松山路287巷5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5799399938341, 25.042999989838805]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區永春國民小學附設幼兒園",
+				"Address": "110臺北市信義區永春里22鄰松山路225巷48號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5783699795503, 25.044709981905626]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區光復國民小學附設幼兒園",
+				"Address": "110臺北市信義區興隆里9鄰光復南路271號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55781998371606, 25.0402399967612]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區吳興國民小學附設幼兒園",
+				"Address": "110臺北市信義區三張里1鄰松仁路226號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5685899749252, 25.026009997830727]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區信義國民小學附設幼兒園",
+				"Address": "110臺北市信義區景新里17鄰松勤街60號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56322002483682, 25.031830014210115]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區博愛國民小學附設幼兒園",
+				"Address": "110臺北市信義區安康里23鄰松仁路95巷20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5711300268635, 25.03644001904709]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區福德國民小學附設幼兒園",
+				"Address": "110臺北市信義區中行里18鄰褔德街253號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58627108736641, 25.0359062466068]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市信義區興雅國民小學附設幼兒園",
+				"Address": "110臺北市信義區雅祥里5鄰基隆路一段83巷9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57006996756888, 25.046759985874758]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市南港區玉成國民小學附設幼兒園",
+				"Address": "115臺北市南港區西新里1鄰向陽路31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59476003683858, 25.053610012425864]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市南港區成德國民小學附設幼兒園",
+				"Address": "115臺北市南港區聯成里12鄰東新街65號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58942489571724, 25.04663728020264]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市南港區東新國民小學附設幼兒園",
+				"Address": "115臺北市南港區東新里7鄰興南街62號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60205002948737, 25.056190004132773]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市南港區南港國民小學附設幼兒園",
+				"Address": "115臺北市南港區三重里25鄰惠民街67號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61035004146879, 25.057060003772875]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市南港區修德國民小學附設幼兒園",
+				"Address": "115臺北市南港區成福里7鄰東新街118巷86號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58964003510289, 25.04553999986757]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市南港區舊莊國民小學附設幼兒園",
+				"Address": "115臺北市南港區舊莊里3鄰舊莊街1段100號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61956996732374, 25.040259987600265]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市星雲非營利幼兒園（委託社團法人臺北市幼托協會辦理）",
+				"Address": "114臺北市內湖區清白里4鄰星雲街161巷3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5960999678802, 25.08115001259425]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市星雲非營利幼兒園（委託社團法人臺北市幼托協會辦理）潭美分班",
+				"Address": "114臺北市內湖區週美里21鄰行善路179號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58122996873277, 25.059129998581085]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市泉源實驗國民小學附設幼兒園",
+				"Address": "112臺北市北投區泉源里12鄰東昇路34號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52420000244126, 25.149180011427575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市胡適非營利幼兒園（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+				"Address": "115臺北市南港區中研里10鄰舊莊街一段1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61720995866563, 25.04238999683521]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市泰北非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+				"Address": "111臺北市士林區福林里3鄰福林路240號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53394002538823, 25.097320003014673]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市國防部大直非營利幼兒園（委託財團法人實踐大學辦理）",
+				"Address": "104臺北市中山區大直里35鄰崇實路127號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54478997995369, 25.083159992975723]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市國興非營利幼兒園（委託財團法人海棠文教基金會辦理）",
+				"Address": "108臺北市萬華區凌霄里10鄰國興路46號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50743996794682, 25.025259985134596]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市康寧非營利幼兒園（委託財團法人幼兒教育基金會辦理）",
+				"Address": "114臺北市內湖區康寧里18鄰康寧路三段189巷93弄18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61135997698238, 25.073160005301773]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市族中非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
+				"Address": "106臺北市大安區學府里1鄰羅斯福路4段113巷13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53883002770078, 25.011179980361447]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市博嘉實驗國民小學附設幼兒園",
+				"Address": "116臺北市文山區博嘉里6鄰木柵路4段159巷14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57540001979817, 25.000689986627876]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市景美非營利幼兒園（委託財團法人台北基督教女青年會辦理）",
+				"Address": "116臺北市文山區興業里1鄰興隆路二段160-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55147999597318, 25.00160998432041]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市景新非營利幼兒園（委託社團法人台北市兒童托育協會辦理）",
+				"Address": "116臺北市文山區景行里22鄰景後街151號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54182002020156, 24.98988001374056]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市港福非營利幼兒園（委託中華學校財團法人辦理）",
+				"Address": "115臺北市南港區仁福里6鄰福德街373巷43號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59204002543913, 25.038949979952974]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市湖田實驗國民小學附設幼兒園",
+				"Address": "112臺北市北投區湖田里8鄰竹子湖路17之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54005998817274, 25.168320003509677]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市湖美非營利幼兒園（委託社團法人台灣社會發展推動協會辦理）",
+				"Address": "114臺北市內湖區湖元里18鄰行善路268號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58154998979603, 25.06016000875279]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市黃鸝鳥非營利幼兒園（委託耕莘健康管理專科學校辦理）",
+				"Address": "106臺北市大安區學府里17鄰羅斯福路四段21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53522002582218, 25.014229987288928]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市新三玉非營利幼兒園（委託財團法人毛毛蟲兒童哲學基金會辦理）",
+				"Address": "111臺北市士林區三玉里1鄰天母東路116號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53732002784375, 25.11798998579289]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市新安非營利幼兒園（委託社團法人台灣幼兒早期教育協會辦理）",
+				"Address": "106臺北市大安區芳和里8鄰臥龍街129號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54964997505289, 25.019499983181944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市新東湖非營利幼兒園（委託社團法人台北市幼兒園協會辦理）",
+				"Address": "114臺北市內湖區東湖里10鄰康樂街110巷16弄22號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61827001796024, 25.070320006958354]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區大理國民小學附設幼兒園",
+				"Address": "108臺北市萬華區綠堤里8鄰艋舺大道389號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49381996201993, 25.031179997618864]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區老松國民小學附設幼兒園",
+				"Address": "108臺北市萬華區福音里12鄰桂林路64號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50276001612787, 25.03805998947381]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區西門國民小學附設幼兒園",
+				"Address": "108臺北市萬華區西門里6鄰成都路98號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50361999939366, 25.04319000758379]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區西園國民小學附設幼兒園",
+				"Address": "108臺北市萬華區日善里4鄰東園街73巷65號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49886000039936, 25.026610016369546]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區東園國民小學附設幼兒園",
+				"Address": "108臺北市萬華區全德里1鄰東園街195號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49786003935048, 25.02313999227394]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區華江國民小學附設幼兒園",
+				"Address": "108臺北市萬華區華江里17鄰環河南路2段250巷42弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49124001222253, 25.034349991490302]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區新和國民小學附設幼兒園",
+				"Address": "108臺北市萬華區新安里13鄰西藏路125巷31號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50332998554376, 25.025999981456437]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區萬大國民小學附設幼兒園",
+				"Address": "108臺北市萬華區全德里4鄰萬大路346號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49934003199422, 25.02297000727755]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區福星國民小學附設幼兒園",
+				"Address": "108臺北市萬華區福星里6鄰中華路一段66號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50890998612573, 25.04634001061615]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區龍山國民小學附設幼兒園",
+				"Address": "108臺北市萬華區青山里20鄰和平西路3段235號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49584997515001, 25.035629991924225]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市萬華區雙園國民小學附設幼兒園",
+				"Address": "108臺北市萬華區雙園里16鄰莒光路315號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49817997659471, 25.030939981821433]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市經國三民非營利幼兒園（委託財團法人經國管理暨健康學院辦理）",
+				"Address": "105臺北市松山區三民里18鄰民生東路5段163-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56280000766867, 25.05914998942015]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市葫蘆非營利幼兒園（委託社團法人台灣公共托育協會辦理）",
+				"Address": "111臺北市士林區福順里15鄰延平北路5段136巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51087001036427, 25.082189997230742]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市實永非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+				"Address": "116臺北市文山區樟林里14鄰辛亥路七段67號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55298999583022, 24.986860014026448]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市實永非營利幼兒園試院分班（委託財團法人彭婉如文教基金會辦理）",
+				"Address": "116臺北市文山區華興里11鄰試院路2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55006001775621, 24.987580019509224]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市實踐非營利幼兒園（委託社團法人台北市兒童托育協會辦理）",
+				"Address": "116臺北市文山區樟文里4鄰忠順街一段4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55755997707956, 24.983660012941655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市臺北捷運職場互助教保服務中心(委託財團法人彭婉如文教基金會辦理)",
+				"Address": "104臺北市中山區民安里15鄰中山北路2段48巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52245908115174, 25.05579257619371]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市樟新非營利幼兒園（委託社團法人台北市兒童托育協會辦理）",
+				"Address": "116臺北市文山區樟新里9鄰一壽街22號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55627000218084, 24.979699982786414]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市興福非營利幼兒園（委託財團法人三之三生命教育基金會辦理）",
+				"Address": "116臺北市文山區興旺里14鄰福興路80號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54973999669295, 25.004889990671018]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市螢橋非營利幼兒園（委託耕莘健康管理專科學校辦理）",
+				"Address": "100臺北市中正區林興里8鄰汀洲路三段4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52646998945926, 25.01906001708427]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市濱江非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
+				"Address": "104臺北市中山區金泰里14鄰樂群二路262號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56083000896535, 25.079549991097096]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市雙中非營利幼兒園（委託財團法人台北市中華基督教青年會辦理）",
+				"Address": "108臺北市萬華區和德里21鄰興義街2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49232999491147, 25.027070015215813]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市懷中非營利幼兒園（委託財團法人海棠文教基金會辦理）",
+				"Address": "106臺北市大安區義村里11鄰忠孝東路3段248巷30號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54120001082367, 25.04035998370516]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市璽典職場互助教保服務中心",
+				"Address": "114臺北市內湖區石潭里11鄰石潭路65號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58723996094767, 25.062820005725513]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北市蘭州非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+				"Address": "103臺北市大同區至聖里10鄰大龍街187巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5162200115231, 25.06910002095117]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺北榮民總醫院附設臺北市私立榮光幼兒園",
+				"Address": "112臺北市北投區永欣里3鄰石牌路二段201號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52141000215028, 25.11985998839134]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺灣士林地方檢察署職場互助教保服務中心（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+				"Address": "111臺北市士林區忠義街92號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53211000446794, 25.10644999104852]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺灣高等法院附設臺北市私立員工子女幼兒園",
+				"Address": "100臺北市中正區建國里4鄰重慶南路一段136巷4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51179998252161, 25.036260017676398]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "臺灣銀行桃源大樓職場互助教保服務中心（委託社團法人台灣公共托育協會辦理）",
+				"Address": "100臺北市中正區寶慶路35號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51030004094832, 25.041480015516967]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"class": "幼兒園",
+				"Name": "靜心學校財團法人臺北市私立靜心高級中等學校附設幼兒園",
+				"Address": "116臺北市文山區興福里17鄰興隆路二段46號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54667004083592, 24.998949987347686]
+			}
+		}
+	]
+}

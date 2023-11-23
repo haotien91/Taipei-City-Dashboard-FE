@@ -1,0 +1,7003 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市松山區健康服務中心",
+				"Address": "臺北市松山區八德路4段692號",
+				"Call": "02-27671757轉6062",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5771700262917, 25.049850016389897]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "內政部營建署",
+				"Address": "臺北市松山區八德路2段342號",
+				"Call": "02-87712437",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5444299772123, 25.04757001299764]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部運輸研究所",
+				"Address": "臺北市松山區敦化北路240號",
+				"Call": "02-23496734轉6733",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54948996452123, 25.060069987112684]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部公路總局臺北市區監理所",
+				"Address": "臺北市松山區八德路4段21號",
+				"Call": "02-27630155",
+				"Opening": "週一至週五08:30~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55902002079364, 25.048449987102515]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北自來水事業處東區營業分處",
+				"Address": "臺北市松山區光復北路266號",
+				"Call": "02-87703362",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55469998789704, 25.059179996633517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "三軍總醫院松山分院附設民眾診療服務處",
+				"Address": "臺北市松山區健康路131號",
+				"Call": "02-27642151轉671212",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55770003868162, 25.053940007953884]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "長庚醫療財團法人臺北長庚紀念醫院",
+				"Address": "臺北市松山區敦化北路199號",
+				"Call": "02-27135211轉3811",
+				"Opening": "週一至週五08:00~17:00或門診開放時段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54961996783948, 25.05550000586338]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "基督復臨安息日會醫療財團法人臺安醫院",
+				"Address": "臺北市松山區八德路2段424號",
+				"Call": "02-27718151轉2211",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54727999193, 25.048050002682984]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "博仁綜合醫院",
+				"Address": "臺北市松山區光復北路66號",
+				"Call": "02-25786677",
+				"Opening": "週一至週六08:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55768998039781, 25.049900014442343]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司（臺北小巨蛋）",
+				"Address": "臺北市松山區南京東路4段2號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日09:30~21:30；如為活動日，則配合活動時間彈性開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54957001169657, 25.05134999987267]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "微風廣場實業股份有限公司",
+				"Address": "臺北市松山區復興南路1段39號",
+				"Call": "02-66008888轉3528",
+				"Opening": "週日至週三11:00~21:30；週四至週六11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54412001443285, 25.046119985657796]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "家福股份有限公司三民分公司",
+				"Address": "臺北市松山區三民路160號",
+				"Call": "02-27670702轉850",
+				"Opening": "週日至週四08:00~23:00；週五、週六08:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56332002094172, 25.06155999613067]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北偶戲館",
+				"Address": "臺北市松山區市民大道5段99號",
+				"Call": "02-25289553轉202",
+				"Opening": "週二至週日10:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56149000002142, 25.04788001768658]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府體育局（臺北體育館）",
+				"Address": "臺北市松山區南京東路4段10號",
+				"Call": "02-25702330",
+				"Opening": "週一至週日06:00~22:00；依據場館開放時間調整"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55194996928424, 25.0513199926593]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "食祿軒餐廳股份有限公司慶城分公司",
+				"Address": "臺北市松山區復興北路99號",
+				"Call": "02-77071678轉118",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54428002496451, 25.05284000889064]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館三民分館",
+				"Address": "臺北市松山區民生東路5段163之1號",
+				"Call": "02-27600408",
+				"Opening": "週二至週六08:30~21:00；週日、週一09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56257998271036, 25.05906000968956]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市東區單親家庭服務中心",
+				"Address": "臺北市松山區南京東路5段251巷46弄5號",
+				"Call": "02-27685256轉13",
+				"Opening": "週二至週六09:00~18:00；週三09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56483002079875, 25.053339989415065]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館啟明分館",
+				"Address": "臺北市松山區敦化北路155巷76號",
+				"Call": "02-25148443",
+				"Opening": "週一至週日08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55213884399052, 25.054289107741987]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦化北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.061820002767178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦化北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.061820002767178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦化北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.061820002767178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦話北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57729000000006, 25.05003000000005]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦化北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.061820002767178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦化北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.061820002767178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦化北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.061820002767178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦化北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.061820002767178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際航空站",
+				"Address": "臺北市松山區敦化北路340之9號",
+				"Call": "02-87703423",
+				"Opening": "週一至週日05:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519900347814, 25.061820002767178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "空軍松山基地指揮部",
+				"Address": "臺北市松山區民權東路4段121號",
+				"Call": "02-27198499",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55583003608314, 25.062149998295197]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局松山分局",
+				"Address": "臺北市松山區南京東路4段12號",
+				"Call": "02-25790692",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55260996034025, 25.05143997960326]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市榮民服務處",
+				"Address": "臺北市松山區光復北路1號",
+				"Call": "02-27699098轉511",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55798996871243, 25.048440012637727]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府社會局發展遲緩兒童早期療育通報及轉介中心",
+				"Address": "臺北市松山區民生東路5段163之1號",
+				"Call": "02-27568852轉106",
+				"Opening": "週一至週五09:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56257998271036, 25.05906000968956]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市松山區戶政事務所",
+				"Address": "臺北市松山區八德路4段692號",
+				"Call": "02-27533043轉517",
+				"Opening": "週一至週五08:30~17:30，例假日不開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5771700262917, 25.049850016389897]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府民政局民生社區中心",
+				"Address": "臺北市松山區民生東路5段163之1號",
+				"Call": "02-27666959",
+				"Opening": "週一至週日08:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56257998271036, 25.05906000968956]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館民生分館",
+				"Address": "臺北市松山區敦化北路199巷5號",
+				"Call": "02-27138083",
+				"Opening": "週二至週六08:30~21:00；週日、週一09:00~17:00；每月第一個星期四及國定假日休館"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55153003593512, 25.05699001488135]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府體育局（臺北田徑場）",
+				"Address": "臺北市松山區敦化北路3號",
+				"Call": "02-25702330轉6531",
+				"Opening": "週一至週日08:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54933003780866, 25.049590009753402]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館松山分館",
+				"Address": "臺北市松山區八德路4段688號",
+				"Call": "02-27531875",
+				"Opening": "週二至週六08:30~21:00；週日、週一 09:00~17:00；國定假日及休館日(依官網公告)不對外開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57688001244185, 25.049850016389897]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "微風置地股份有限公司南京分公司",
+				"Address": "臺北市松山區南京東路3段337號",
+				"Call": "02-66000999轉3528",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.547990022948, 25.051950018411475]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市松山區公所",
+				"Address": "臺北市松山區八德路4段692號",
+				"Call": "02-87878787",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5771700262917, 25.049850016389897]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市松山運動中心",
+				"Address": "臺北市松山區敦化北路1號",
+				"Call": "02-66176789轉215",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55235003752279, 25.061930015246347]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館中崙分館",
+				"Address": "臺北市松山區長安東路2段229號",
+				"Call": "02-87736858",
+				"Opening": "週二至週六08:30~21:00；週日、週一09:00~17:00；每月第一個週四及國定假日不開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5458399809645, 25.0483699818367]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司松山機場站",
+				"Address": "臺北市松山區敦化北路338號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55194996928424, 25.063160017627837]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司南京復興站",
+				"Address": "臺北市松山區南京東路3段253號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:47"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5440900072195, 25.052039998142064]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市松山親子館",
+				"Address": "臺北市松山區民生東路5段163之1號",
+				"Call": "02-27661266轉103",
+				"Opening": "週二至週五09:30~12:00、14:00~17:00；週六、週日09:30~11:00、13:00~14:30、15:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56257998271036, 25.05906000968956]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "兄弟大飯店",
+				"Address": "臺北市松山區南京東路3段255號",
+				"Call": "02-27123456",
+				"Opening": "週一至週日09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54461999495732, 25.052029981767774]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "合尊酒店股份有限公司",
+				"Address": "臺北市松山區敦化北路150號",
+				"Call": "02-27120234轉2308",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54858002511253, 25.054680004275724]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "CITYLINK松山貳號店（潤泰百益股份有限公司）",
+				"Address": "臺北市松山區市民大道6段131號",
+				"Call": "02-25281115",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57881352926395, 25.049562276152955]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局保安警察大隊",
+				"Address": "臺北市松山區延壽街339號",
+				"Call": "02-27629228",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55964003017158, 25.05666999381812]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府 （第一哺集乳室）",
+				"Address": "臺北市信義區市府路1號",
+				"Call": "02-27208889轉6159",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56441997809543, 25.037519985361726]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府 （第二哺集乳室）",
+				"Address": "臺北市信義區市府路1號",
+				"Call": "02-27208889轉6159",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56441997809543, 25.037519985361726]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市議會",
+				"Address": "臺北市信義區仁愛路4段507號",
+				"Call": "02-27297708",
+				"Opening": "週一至週五09:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56200003882964, 25.03803999863473]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市信義區公所",
+				"Address": "臺北市信義區福德街86號",
+				"Call": "02-27239777轉706",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58134999758624, 25.03721999704709]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市信義區戶政事務所",
+				"Address": "臺北市信義區福德街86號",
+				"Call": "02-27233977轉303",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58134999758624, 25.03721999704709]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市松山地政事務所",
+				"Address": "臺北市信義區莊敬路391巷11弄2號",
+				"Call": "02-27230711轉405、406",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5658200073828, 25.028730009230188]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市動物保護處",
+				"Address": "臺北市信義區吳興街600巷109號",
+				"Call": "02-87897158轉7155",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57261001950718, 25.01860001823799]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局婦幼警察隊",
+				"Address": "臺北市信義區信義路5段180號",
+				"Call": "02-27592398轉1607",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57429997882542, 25.03306999105638]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市信義運動中心",
+				"Address": "臺北市信義區松勤街100號",
+				"Call": "02-87861911轉238",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5666799906486, 25.031869995888258]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "行政院公共工程委員會",
+				"Address": "臺北市信義區松仁路3號",
+				"Call": "02-87897771",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56877001820538, 25.040309985652712]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國軍退除役官兵輔導委員會",
+				"Address": "臺北市信義區忠孝東路5段222號",
+				"Call": "02-27571373轉785",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57131996078942, 25.040819982551426]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "內政部警政署刑事警察局",
+				"Address": "臺北市信義區忠孝東路4段553巷5號",
+				"Call": "02-23219011轉7254574\n02-27678020",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56247998660547, 25.04242000404858]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院松德院區",
+				"Address": "臺北市信義區松德路309號",
+				"Call": "02-27263141轉1139",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5748899809899, 25.030470008510378]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財團法人私立臺北醫學大學附設醫院",
+				"Address": "臺北市信義區吳興街250號",
+				"Call": "02-27372181轉8171、8253",
+				"Opening": "週一至週五08:00~21:00；週六08:30~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56266002988565, 25.026580009156177]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部臺灣鐵路管理局松山車站",
+				"Address": "臺北市信義區松山路11號",
+				"Call": "02-27666323轉8303；02-27673819",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57823997623206, 25.04921001617295]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部臺灣鐵路管理局松山車站",
+				"Address": "臺北市信義區松山路11號",
+				"Call": "02-27666323轉8303；02-27673819",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57823997623206, 25.04921001617295]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司信義二館-A8",
+				"Address": "臺北市信義區松高路12號",
+				"Call": "02-87809966轉6409、6410",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56739999613137, 25.03895999632728]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司信義分公司A11館",
+				"Address": "臺北市信義區松壽路11號",
+				"Call": "02-87801000轉2309",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56746001055814, 25.035970003826534]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "誠品生活股份有限公司信義店",
+				"Address": "臺北市信義區松高路11號",
+				"Call": "02-87893388轉2000、2781",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56585998906098, 25.03935998074681]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局信義分局",
+				"Address": "臺北市信義區信義路5段17號",
+				"Call": "02-27234887",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56769998444605, 25.03316998716126]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "統一開發股份有限公司",
+				"Address": "臺北市信義區忠孝東路5段6號",
+				"Call": "02-87806252",
+				"Opening": "週一至週日06:00~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5651399835782, 25.04091000419153]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司市政府站",
+				"Address": "臺北市信義區忠孝東路5段2號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56480998805017, 25.040949985869673]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司臺北信義分公司三館A9",
+				"Address": "臺北市信義區松壽路9號",
+				"Call": "02-87801000轉7309",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5665799945437, 25.036020001878967]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "BELLAVITA寶麗廣場",
+				"Address": "臺北市信義區松仁路28號",
+				"Call": "02-87292802",
+				"Opening": "週一至週五10:30~22:00；週六、週日10:30~22:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56818001604091, 25.039239993802852]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "統一百華股份有限公司臺北分公司",
+				"Address": "臺北市信義區忠孝東路5段8號",
+				"Call": "02-27299699轉2331",
+				"Opening": "週日至週四11:00~21:30；週五、週六11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5653999902147, 25.040849989764794]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "遠百企業股份有限公司 （忠孝分公司）",
+				"Address": "臺北市信義區忠孝東路5段297號",
+				"Call": "02-25289388轉107或187",
+				"Opening": "週一至週日09:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57314998170972, 25.04112001277558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "松山文創園區",
+				"Address": "臺北市信義區光復南路133號",
+				"Call": "02-27651388轉112",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55794001256953, 25.04391998753134]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館永春分館",
+				"Address": "臺北市信義區松山路294號",
+				"Call": "02-27609730",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57764997406753, 25.043010006213095]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館三興分館",
+				"Address": "臺北市信義區吳興街156巷6號",
+				"Call": "02-87321063",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00；每月第一個週四及國定假日不開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56116997895816, 25.029060004758207]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北世界貿易中心展覽大樓（世貿一館）",
+				"Address": "臺北市信義區信義路5段5號",
+				"Call": "02-27255200轉2268",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56085004171393, 25.03318000353555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "威秀影城股份有限公司",
+				"Address": "臺北市信義區松壽路20號",
+				"Call": "02-87805566轉323",
+				"Opening": "週一至週日10:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56710000781675, 25.035640008298515]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北世界貿易中心展覽大樓（世貿一館）",
+				"Address": "臺北市信義區信義路5段5號",
+				"Call": "02-27255200轉2268",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56085004171393, 25.03318000353555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北世界貿易中心展覽大樓（世貿一館）",
+				"Address": "臺北市信義區信義路5段5號",
+				"Call": "02-27255200轉2268",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56085004171393, 25.03318000353555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "誠品生活股份有限公司松菸店",
+				"Address": "臺北市信義區菸廠路88號",
+				"Call": "02-66365888轉2781",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56110996453145, 25.044739989118995]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司臺北101世貿站",
+				"Address": "臺北市信義區信義路5段20號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56371003089646, 25.032700013850217]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "微風置地股份有限公司松高分公司",
+				"Address": "臺北市信義區松高路16號",
+				"Call": "02-66369959轉3528",
+				"Opening": "週日至週三11:00~21:30；週四至週六11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56703001892521, 25.038849983848095]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市信義親子館",
+				"Address": "臺北市信義區松勤街50號",
+				"Call": "02-27202555轉109",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56214999107743, 25.03168002005279]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "微風置地股份有限公司信義分公司",
+				"Address": "臺北市信義區忠孝東路5段68號",
+				"Call": "02-66366699轉3528",
+				"Opening": "週日至週三11:00~21:30；週四至週六11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56661000175711, 25.040639981180732]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北金融大樓股份有限公司",
+				"Address": "臺北市信義區市府路45號",
+				"Call": "02-81019060",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5636800236831, 25.033529989902647]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北金融大樓股份有限公司",
+				"Address": "臺北市信義區市府路45號",
+				"Call": "02-81018800",
+				"Opening": "週日至週四11:00~21:30；週五、週六11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5636800236831, 25.033529989902647]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "時代國際飯店股份有限公司",
+				"Address": "臺北市信義區忠孝東路5段10號",
+				"Call": "02-77038901（專線） ",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5655600007463, 25.040840015300006]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立國父紀念館",
+				"Address": "臺北市信義區仁愛路4段505號",
+				"Call": "02-27588008轉561",
+				"Opening": "週一至週日09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56023003233605, 25.037809999211603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司臺北信義分公司四館A4",
+				"Address": "臺北市信義區松高路19號",
+				"Call": "02-87801000轉8510、8509",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00\n"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56703001892521, 25.039330015442957]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰百益股份有限公司（Citylink松山店）",
+				"Address": "臺北市信義區松山路11號",
+				"Call": "02-27471000轉305",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57823997623206, 25.04921001617295]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北醫學大學",
+				"Address": "臺北市信義區吳興街250號",
+				"Call": "02-27361661轉2087、2250",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56266002988565, 25.026580009156177]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中華民國對外貿易發展協會臺北世貿中心展會營運處（臺北國際會議中心）",
+				"Address": "臺北市信義區信義路5段1號",
+				"Call": "02-27255200轉3543",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5607000056471, 25.033249992427073]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "微風置地股份有限公司南山分公司",
+				"Address": "臺北市信義區松智路17號",
+				"Call": "02-66389999轉3528",
+				"Opening": "週日至週三11:00~21:30；週四至週六11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56576996742086, 25.034440013130407]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "吸引力生活事業股份有限公司（ATT 4 FUN 信義店）",
+				"Address": "臺北市信義區松壽路12號",
+				"Call": "02-87808111轉5207",
+				"Opening": "週日至週四11:00~22:00、週五、週六及例假日前一日11:00~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.565999966844, 25.035699980815735]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "吸引力生活事業股份有限公司（ATT 4 FUN 信義店）",
+				"Address": "臺北市信義區松壽路12號",
+				"Call": "02-87808111轉5207",
+				"Opening": "週日至週四11:00~22:00、週五、週六及例假日前一日11:00~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.565999966844, 25.035699980815735]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "豐隆大飯店股份有限公司（臺北君悅酒店）",
+				"Address": "臺北市信義區松壽路2號",
+				"Call": "02-27201200轉3050               ",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56261996438849, 25.035640008298515]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "寒舍國際酒店股份有限公司（寒舍艾麗酒店）",
+				"Address": "臺北市信義區松高路18號",
+				"Call": "02-66318000轉5803",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56746001055814, 25.038619984424955]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "寒舍餐旅管理顧問股份有限公司信義分公司（臺北寒舍艾美酒店）",
+				"Address": "臺北市信義區松仁路38號",
+				"Call": "02-66225768",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5681500088275, 25.03853000469438]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "遠東百貨股份有限公司",
+				"Address": "臺北市信義區松仁路58號",
+				"Call": "02-77500888轉8332",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56824003046762, 25.03675999820082]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館總館",
+				"Address": "臺北市大安區建國南路2段125號",
+				"Call": "02-27552823轉2130（週二至週六18:00後，改撥分機2104、2105）",
+				"Opening": "週日、週一09:00~17:00；週二至週六09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53818998557432, 25.029140010024022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市客家文化會館",
+				"Address": "臺北市大安區信義路3段157巷11號",
+				"Call": "02-27026141轉320",
+				"Opening": "週一至週五08:30~21:30；週六、週日08:00~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54306003895732, 25.034529992860982]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "公務人力發展中心",
+				"Address": "臺北市大安區新生南路3段30號",
+				"Call": "02-77121212轉2323",
+				"Opening": "週一至週日08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53430002812962, 25.02315998311302]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "經濟部智慧財產局",
+				"Address": "臺北市大安區辛亥路2段185號",
+				"Call": "02-23767623",
+				"Opening": "週一至週五08:30~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5414999991383, 25.0216999813084]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "經濟部工業局",
+				"Address": "臺北市大安區信義路3段41之3號",
+				"Call": "02-27541255轉3115",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53490000475892, 25.033750014861]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院仁愛院區",
+				"Address": "臺北市大安區仁愛路四段10號",
+				"Call": "02-27093600轉3233",
+				"Opening": "週一至週五08:00~17:30；週六08:30~12:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54562003982517, 25.037660005054278]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中山醫療社團法人中山醫院",
+				"Address": "臺北市大安區仁愛路4段112巷11號",
+				"Call": "02-27081166轉1399",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5497099894796, 25.03654998961676]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司忠孝復興站",
+				"Address": "臺北市大安區忠孝東路4段47號",
+				"Call": "02-21812345",
+				"Opening": "週一至週五06:45~23:45；週六、週日07:30~23:45"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54497999769865, 25.04176998745733]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "太平洋崇光百貨股份有限公司忠孝館",
+				"Address": "臺北市大安區忠孝東路4段45號",
+				"Call": "02-27765555轉1652、1653",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54488000159381, 25.041899990775576]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市大安運動中心",
+				"Address": "臺北市大安區辛亥路3段55號",
+				"Call": "02-23770300",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54563998875471, 25.020779983615867]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "明曜百貨股份有限公司",
+				"Address": "臺北市大安區忠孝東路4段200號",
+				"Call": "02-27771266轉318",
+				"Opening": "週日至週四11:00~21:30；週五、週六11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55210997981584, 25.041229983345247]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "台灣電力股份有限公司臺北市區營業處",
+				"Address": "臺北市大安區基隆路4段75號",
+				"Call": "02-23788111轉5831",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53956000764833, 25.012430015491518]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市大安區公所",
+				"Address": "臺北市大安區新生南路2段86號",
+				"Call": "02-23511711轉9208",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53460999090908, 25.026649998047688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市殯葬管理處第二殯儀館",
+				"Address": "臺北市大安區辛亥路3段330號",
+				"Call": "02-87329751",
+				"Opening": "週一至週日08:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5530100285788, 25.013749997603597]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市大安區健康服務中心",
+				"Address": "臺北市大安區辛亥路3段15號",
+				"Call": "02-27335831轉6253",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5442699666807, 25.021579994364444]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部觀光局",
+				"Address": "臺北市大安區忠孝東路4段290號",
+				"Call": "02-23491500轉8671",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55587001776132, 25.041159994453736]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局大安分局",
+				"Address": "臺北市大安區仁愛路3段2號",
+				"Call": "02-23255821",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53316000547875, 25.03784000642497]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣銀行信義分行",
+				"Address": "臺北市大安區信義路2段88號",
+				"Call": "02-23515486轉255",
+				"Opening": "週一至週五09:00~15:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52688003216258, 25.033959981535546]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司忠孝新生站",
+				"Address": "臺北市大安區新生南路1段67號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53315003101397, 25.04202001962905]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "太平洋崇光百貨股份有限公司復興館",
+				"Address": "臺北市大安區忠孝東路3段300號",
+				"Call": "02-27765555轉3327",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54327000563183, 25.041469999142677]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "遠企購物中心（亞東百貨股份有限公司）",
+				"Address": "臺北市大安區敦化南路2段203號",
+				"Call": "02-23786666轉6666",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54967998226624, 25.026300011680604]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市大安地政事務所",
+				"Address": "臺北市大安區信義路4段335巷6號",
+				"Call": "02-27548900轉411",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5563799727505, 25.033850010965878]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣銀行信安分行",
+				"Address": "臺北市大安區信義路3段132號",
+				"Call": "02-27057905轉302",
+				"Opening": "週一至週五09:00~15:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53933998268997, 25.033240017962285]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財政部臺北市國稅局大安分局",
+				"Address": "臺北市大安區新生南路2段86號",
+				"Call": "02-23587979轉311",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53460999090908, 25.026649998047688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館龍安民眾閱覽室",
+				"Address": "臺北市大安區永康街60號",
+				"Call": "02-23945485",
+				"Opening": "週一至週日09:00~18:00（每月第一個週四不開放）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52938999306849, 25.02848999343277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館道藩分館",
+				"Address": "臺北市大安區辛亥路3段11號",
+				"Call": "02-27334031",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54405002554137, 25.02157001989967]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國家教育研究院",
+				"Address": "臺北市大安區和平東路1段179號",
+				"Call": "02-77407628",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53276999552395, 25.026439989463626]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "土地銀行和平分行",
+				"Address": "臺北市大安區和平東路3段15號",
+				"Call": "02-27057505轉303",
+				"Opening": "週一至週五09:00~15:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54746003521024, 25.02482001903691]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "太平洋崇光百貨股份有限公司敦化館",
+				"Address": "臺北市敦化南路1段246號",
+				"Call": "02-27765555轉2863~2867",
+				"Opening": "週日至週四11:00~21:30；週五、週六、國定假日前一天、特殊檔期11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54843996351048, 25.040140000656308]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "建南區民活動中心",
+				"Address": "臺北市大安區信義路3段134巷82號",
+				"Call": "02-23511711轉8212",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5392300121203, 25.029379983911937]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市大安森林公園",
+				"Address": "臺北市大安區新生南路2段1號",
+				"Call": "02-27003830",
+				"Opening": "週一至週日08:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53547014805254, 25.03093660670518]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司東門站",
+				"Address": "臺北市大安區信義路2段166號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52944003303043, 25.033690000434262]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司大安站",
+				"Address": "臺北市大安區信義路3段180號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5423599824041, 25.033190019909853]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司大安森林公園站",
+				"Address": "臺北市大安區信義路3段100號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53447998759077, 25.033349988531953]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "鼎鼎大飯店股份有限公司臺北遠東國際大飯店",
+				"Address": "臺北市大安區敦化南路2段201號",
+				"Call": "02-77003262",
+				"Opening": "週一至週日09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54917002727706, 25.026610016369546]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北福華大飯店",
+				"Address": "臺北市大安區仁愛路3段160號",
+				"Call": "02-27002323轉2025",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54308996235164, 25.037690012267646]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北和平籃球館",
+				"Address": "臺北市大安區敦南街76巷28號",
+				"Call": "02-66170101轉1600",
+				"Opening": "活動期間或覽館租借期間"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54679996033514, 25.020709994724356]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北和平籃球館",
+				"Address": "臺北市大安區敦南街76巷28號",
+				"Call": "02-66170101轉1600",
+				"Opening": "活動期間或覽館租借期間"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54679996033514, 25.020709994724356]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國聯飯店",
+				"Address": "臺北市大安區光復南路200號",
+				"Call": "02-27331515轉103",
+				"Opening": "週一至週日07:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55748998818802, 25.04214998103778]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "福容大飯店股份有限公司臺北分公司",
+				"Address": "臺北市大安區建國南路1段266號",
+				"Call": "02-27019266",
+				"Opening": "週一至週日09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5371900245255, 25.03664998572164]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "公有南門市場",
+				"Address": "臺北市大安區杭州南路2段55號",
+				"Call": "02-23218069；02-23279857",
+				"Opening": "週二至週日08:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52266996983565, 25.032459998052786]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市中山區健康服務中心",
+				"Address": "臺北市中山區松江路367號",
+				"Call": "02-25014616轉6355",
+				"Opening": "週一至週五08:30~11:30、13:30~16:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5334999754715, 25.064390020009313]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市中山地政事務所",
+				"Address": "臺北市中山區松江路357巷1號",
+				"Call": "02-25022881轉403",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53417002481137, 25.063529994834]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立美術館",
+				"Address": "臺北市中山北路3段181號",
+				"Call": "02-25957656轉515",
+				"Opening": "週二至週日09:30~15:30；週六09:30~20:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52463996853896, 25.072429983444707]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局中山分局",
+				"Address": "臺北市中山區中山北路2段1號",
+				"Call": "02-25362459",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52278999868912, 25.05248998061404]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院林森中醫昆明院區",
+				"Address": "臺北市中山區林森北路530號",
+				"Call": "02-25916681轉1112",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52552995901812, 25.06344001510341]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "協和婦女醫院",
+				"Address": "臺北市中山區松江路85巷5號",
+				"Call": "02-25072222轉103",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53394002538823, 25.050269991648506]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "台灣基督長老教會馬偕醫療財團法人馬偕紀念醫院",
+				"Address": "臺北市中山區中山北路2段92號",
+				"Call": "02-25433535",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52255999926598, 25.058880008318866]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司臺北南西分公司",
+				"Address": "臺北市中山區南京西路12號",
+				"Call": "02-25682868轉3617、3508",
+				"Opening": "週日至週四11:00~21:30；週五、週六及例假日前一天11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5212400171539, 25.052319995617637]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "美麗華城市發展股份有限公司",
+				"Address": "臺北市中山區敬業三路20號",
+				"Call": "02-21753456轉2231",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55643823232056, 25.082868767911098]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財團法人台灣敦睦聯誼會所屬作業組織圓山大飯店",
+				"Address": "臺北市中山區中山北路4段1巷1號",
+				"Call": "02-28861818轉1610",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52619003389322, 25.0784199848205]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "教育部體育署",
+				"Address": "臺北市中山區朱崙街20號",
+				"Call": "02-87711904",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53946001154344, 25.049889998068053]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市中山運動中心",
+				"Address": "臺北市中山區中山北路2段44巷2號",
+				"Call": "02-25811060轉221",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52177000489166, 25.05494001091222]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市殯葬管理處第一殯儀館",
+				"Address": "臺北市中山區民權東路2段145號",
+				"Call": "02-25131055轉1055",
+				"Opening": "週一至週日08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5363799974026, 25.062590006302386]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北自來水事業處北區營業分處",
+				"Address": "臺北市中山區長安西路3號",
+				"Call": "02-21004100",
+				"Opening": "週一至週五09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52118997719197, 25.050159979169337]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰創新國際股份有限公司中崙分公司",
+				"Address": "臺北市中山區八德路2段306號",
+				"Call": "02-27790006轉501、555 ",
+				"Opening": "週一至週日08:30~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54249996018711, 25.047099997777067]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "家樂福大直店",
+				"Address": "臺北市中山區樂群三路218號",
+				"Call": "02-85095577轉870",
+				"Opening": "週一至週四09:00~23:00；週五至週日09:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55816003752784, 25.08245000386725]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館大直分館",
+				"Address": "臺北市中山區大直街25號",
+				"Call": "02-25336535",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54661002640921, 25.081849985328432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館恆安民眾閱覽室",
+				"Address": "臺北市中山區民權東路1段71巷19號",
+				"Call": "02-25935482",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52719996940681, 25.06374000341806]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館中山分館",
+				"Address": "臺北市中山區松江路367號",
+				"Call": "02-25026442",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5334999754715, 25.064390020009313]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "桑斯伯國際有限公司榮星公園營業站（臺北市政府勞動局委外）",
+				"Address": "臺北市中山區建國北路3段39號",
+				"Call": "02-25172371",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53742002394864, 25.064069998946067]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中山老人住宅暨服務中心",
+				"Address": "臺北市中山區新生北路2段101巷2號",
+				"Call": "02-25420006轉338",
+				"Opening": "週一至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52846002091115, 25.057259995982633]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "花博公園天使生活館",
+				"Address": "臺北市中山區濱江街6號",
+				"Call": "02-25857228轉105",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52909997921859, 25.07086998553521]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "桑斯博國際有限公司新生公園營業站（臺北市政府工務局公園路燈管理處新生公園游泳池委外）",
+				"Address": "臺北市中山區新生北路3段105號",
+				"Call": "02-25956489、02-25956590",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52877995815538, 25.070209994479185]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府民政局林安泰古厝民俗文物館",
+				"Address": "臺北市中山區濱江街5號",
+				"Call": "02-25996026",
+				"Opening": "週二至週日09:00~17:00 "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53036003072299, 25.071739985175313]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財政部臺北國稅局松山分局",
+				"Address": "臺北市中山區南京東路3段131號",
+				"Call": "02-27183606轉107",
+				"Opening": "週一至週日08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54071000476398, 25.05210998703359]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館長安分館",
+				"Address": "臺北市中山區長安西路3號",
+				"Call": "02-25625540",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52118997719197, 25.050159979169337]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中山公民會館",
+				"Address": "臺北市中山區中山北路2段128號",
+				"Call": "02-25314169",
+				"Opening": "週二至週六09:00~12:00、14:00~21:00；週日 09:00~12:00、14:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52261003922791, 25.061650017770774]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司臺北南西分公司三館",
+				"Address": "臺北市中山區南京西路15號",
+				"Call": "02-25682868轉3075",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52095997776883, 25.052669981984735]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北漁產運銷股份有限公司",
+				"Address": "臺北市中山區民族東路410巷2弄20號",
+				"Call": "02-25099490 ",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53673002567922, 25.06666998149207]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北農產運銷股份有限公司",
+				"Address": "臺北市中山區民族東路336號",
+				"Call": "02-25162519轉5816",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53723000620363, 25.06800999635273]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司松江南京站",
+				"Address": "臺北市中山區松江路126號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53277996998878, 25.052439982561594]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財政部臺北國稅局中北稽徵所",
+				"Address": "臺北市中山區松江路219號",
+				"Call": "02-25024181轉5103、02-25063050轉5222",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53332999047512, 25.057530018993432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府消防局第三救災救護大隊中山中隊松江分隊",
+				"Address": "臺北市中山區松江路25巷9號",
+				"Call": "02-25178353",
+				"Opening": "週一至週五09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53402996320932, 25.04744000967939]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "誠品生活股份有限公司南西分公司",
+				"Address": "臺北市中山區南京西路14號",
+				"Call": "02-25813358",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52065998945415, 25.05243000809682]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "老爺大酒店",
+				"Address": "臺北市中山區中山北路2段37之1號",
+				"Call": "02-25423299轉359",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52282998036725, 25.053439985519944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "晶華酒店",
+				"Address": "臺北市中山區中山北路2段39巷3號",
+				"Call": "02-2521500轉3328",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52505998570706, 25.05407001127213]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "美麗信花園酒店",
+				"Address": "臺北市中山區市民大道3段83號",
+				"Call": "02-77025136",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53704996292345, 25.044969988542135]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北亞都麗緻大飯店",
+				"Address": "臺北市中山區民權東路2段41號",
+				"Call": "02-77352353",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5299899696978, 25.06277000767308]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "欣欣百貨",
+				"Address": "臺北市中山區林森北路247號",
+				"Call": "02-25212211轉188、190",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52577001672506, 25.053979989632026]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "歐華酒店",
+				"Address": "臺北市中山區林森北路646號",
+				"Call": "02-25853258",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52563003894204, 25.06810001799282]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國王大飯店",
+				"Address": "臺北市中山區南京東路1段118號",
+				"Call": "02-25811111轉2208",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52662002552609, 25.051900020359042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "第一大飯店",
+				"Address": "臺北市中山區南京東路2段63號",
+				"Call": "02-25418234轉110",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53024997633429, 25.052250006726126]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北美福大飯店",
+				"Address": "臺北市中山區樂群二路55號",
+				"Call": "02-77325599轉1663",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55380002295311, 25.080319994632305]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "義華酒店",
+				"Address": "臺北市中山區樂群二路197號",
+				"Call": "02-21757999轉1701",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55893997361835, 25.080690013747983]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北萬豪酒店",
+				"Address": "臺北市中山區樂群二路199號",
+				"Call": "02-21757999轉1701",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55893997361835, 25.080489979628695]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "花博公園圓山園區─臺北市休閒農業旅遊服務中心（財團法人臺北市會展產業發展基金會委外）",
+				"Address": "臺北市中山區玉門街1號",
+				"Call": "02-25969214",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52049000445777, 25.070350014171723]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "立法院",
+				"Address": "臺北市中正區中山南路1號",
+				"Call": "02-23585732",
+				"Opening": "週一至週五08:30~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51957998122998, 25.043960011118997]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "內政部",
+				"Address": "臺北市中正區徐州路5號",
+				"Call": "02-23565143",
+				"Opening": "週一至週五08:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51947998512514, 25.04202001962905]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部",
+				"Address": "臺北市中正區仁愛路1段50號",
+				"Call": "02-23492527",
+				"Opening": "週一至週五08:30~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52475002292766, 25.037760001159157]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "內政部移民署臺北市服務站",
+				"Address": "臺北市中正區廣州街15號",
+				"Call": "02-23889393轉3104",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50812996621625, 25.035809993294905]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣高等法院民事庭",
+				"Address": "臺北市中正區貴陽街1段233號",
+				"Call": "02-23713261轉8579",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50985999103165, 25.039250010177142]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣高等法院刑事庭",
+				"Address": "臺北市中正區博愛路127號",
+				"Call": "02-23713261轉8579",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51123998757043, 25.038020007795666]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "衛生福利部中央健康保險署臺北業務組",
+				"Address": "臺北市中正區公園路15之1號",
+				"Call": "02-21912006",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51730999421204, 25.045190013500488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國家圖書館",
+				"Address": "臺北市中正區中山南路20號",
+				"Call": "02-23619132轉158",
+				"Opening": "週日、週一08:00~17:00；週二至週六08:00~22:00；每月第一個週一及國定假日不開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51671001758274, 25.037310018687194]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立中正紀念堂管理處",
+				"Address": "臺北市中正區中山南路21號",
+				"Call": "02-23431100轉1072",
+				"Opening": "週一至週日09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52193001542332, 25.034729985070754]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局",
+				"Address": "臺北市中正區延平南路96號",
+				"Call": "02-23818002",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50982000935346, 25.043880005853197]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局中正第一分局",
+				"Address": "臺北市中正區公園路15號",
+				"Call": "02-23143644",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51730999421204, 25.045190013500488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局中正第二分局",
+				"Address": "臺北市中正區南海路35號",
+				"Call": "02-23751981",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51402998786142, 25.031989982832215]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市中正區公所",
+				"Address": "臺北市中正區忠孝東路1段108號",
+				"Call": "02-23416721轉308",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52476997185721, 25.04424998305936]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市交通事件裁決所",
+				"Address": "臺北市中正區羅斯福路4段92號",
+				"Call": "02-23658270轉613",
+				"Opening": "週一至週日08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53500997532859, 25.013749997603597]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市稅捐稽徵處",
+				"Address": "臺北市中正區北平東路7之2號",
+				"Call": "02-23949211轉426",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52232999984284, 25.046850007514863]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市中正區健康服務中心",
+				"Address": "臺北市中正區牯嶺街24號",
+				"Call": "02-23215158",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51595003042183, 25.030489999349456]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院和平婦幼院區（和平院區）",
+				"Address": "臺北市中正區中華路2段33號",
+				"Call": "02-23889595轉2214",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5067000135345, 25.035579993871778]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院和平婦幼院區（婦幼院區）",
+				"Address": "臺北市中正區福州街12號",
+				"Call": "02-23916471轉1222",
+				"Opening": "週一至週五08:30~21:00；週六08:30~13:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.519249985702, 25.029099986436364]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院和平婦幼院區（婦幼院區）",
+				"Address": "臺北市中正區福州街12號",
+				"Call": "02-23916471轉1222",
+				"Opening": "週一至週六08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.519249985702, 25.029099986436364]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立台灣大學醫學院附設醫院",
+				"Address": "臺北市中正區中山南路8號",
+				"Call": "02-23123456轉70302",
+				"Opening": "週一至週五08:00~17:00；週六08:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51819001022642, 25.041949988828023]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "三軍總醫院附設民眾診療服務處汀州院區",
+				"Address": "臺北市中正區汀州路3段40號",
+				"Call": "02-23659055轉88605",
+				"Opening": "週一至週日07:30~17:00；其他時段至門診護理站詢問"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5293500113903, 25.016999996740836]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣銀行股份有限公司",
+				"Address": "臺北市中正區重慶南路1段120號",
+				"Call": "02-23493796",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51290999795913, 25.041459982768387]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部臺灣鐵路管理局臺北運務段臺北站",
+				"Address": "臺北市中正區北平西路3號",
+				"Call": "02-23815226轉2812",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51570742398565, 25.04752190810375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部臺灣鐵路管理局臺北運務段臺北站",
+				"Address": "臺北市中正區北平西路3號",
+				"Call": "02-23815226轉2812",
+				"Opening": "週一至週日08:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51570742398565, 25.04752190810375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "台灣高速鐵路股份有限公司臺北車站",
+				"Address": "臺北市中正區北平西路3號",
+				"Call": "02-40663000",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51570742398565, 25.04752190810375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司臺北車站",
+				"Address": "臺北市中正區忠孝西路1段49號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51616997156111, 25.046770002249062]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司臺北站前分公司",
+				"Address": "臺北市中正區忠孝西路1段66號",
+				"Call": "02-23885552轉5810",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51530001383054, 25.04621998176269]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "遠東百貨股份有限公司臺北分司",
+				"Address": "臺北市中正區寶慶路32號",
+				"Call": "02-23816088轉349",
+				"Opening": "週日至週四11:00~21:30；例假日前一天11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50910997833552, 25.041689982191514]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北天成大飯店",
+				"Address": "臺北市中正區忠孝西路1段43號",
+				"Call": "02-23617856轉3017",
+				"Opening": "週一至週日07:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51816997747784, 25.04621998176269]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "台灣電力股份有限公司",
+				"Address": "臺北市中正區羅斯福路3段242號",
+				"Call": "02-23666393     ",
+				"Opening": "週一至週五08:00~17:20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53106000345713, 25.017600015279655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "台灣電力股份有限公司",
+				"Address": "臺北市中正區羅斯福路3段242號",
+				"Call": "02-23666393     ",
+				"Opening": "週一至週五09:00~17:20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53106000345713, 25.017600015279655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣銀行館前分行",
+				"Address": "臺北市中正區館前路49號",
+				"Call": "02-23812949轉211",
+				"Opening": "週一至週五09:00~15:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51511997055036, 25.044949997703057]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "華山1914文創園區",
+				"Address": "臺北市中正區八德路1段1號",
+				"Call": "02-23581914轉581、200",
+				"Opening": "週一至週日09:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52901004139756, 25.043630015590992]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "華山1914文創園區",
+				"Address": "臺北市中正區八德路1段1號",
+				"Call": "02-23581914轉581、200",
+				"Opening": "週一至週日09:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52901004139756, 25.043630015590992]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司西門站",
+				"Address": "臺北市中正區寶慶路32之1號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50910997833552, 25.041689982191514]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "微風場站開發股份有限公司",
+				"Address": "臺北市中正區北平西路3號",
+				"Call": "02-66328999轉5500",
+				"Opening": "週一至週日10:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51570742398565, 25.04752190810375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立台灣大學醫學院附設醫院",
+				"Address": "臺北市中正區中山南路7號",
+				"Call": "02-23123456轉262805",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51855998743258, 25.04078000087327]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "喜來登飯店",
+				"Address": "臺北市中正區忠孝東路1段12號",
+				"Call": "02-23215858轉8106、02-66338066",
+				"Opening": "週一至週日10:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52206001874157, 25.044910016024915]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館王貫英紀念館",
+				"Address": "臺北市中正區汀州路2段265號",
+				"Call": "02-23678734",
+				"Opening": "週二至週六08:30~21:00；週日、週一09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52377001080839, 25.022620020910452]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市客家文化主題公園",
+				"Address": "臺北市中正區汀州路3段2號",
+				"Call": "02-23691198轉334",
+				"Opening": "週二至週日09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52544002119703, 25.020189981451352]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣土地銀行營業部",
+				"Address": "臺北市中正區館前路46號",
+				"Call": "02-23483618",
+				"Opening": "週一至週五09:00~15:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51487002219767, 25.0441299961154]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中華郵政股份有限公司臺北北門郵局",
+				"Address": "臺北市中正區博愛路1號",
+				"Call": "02-23114331轉7200",
+				"Opening": "週一至週五08:30~21:00；週六09:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5116099647766, 25.04621998176269]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司中正紀念堂站",
+				"Address": "臺北市中正區羅斯福路1段8之1號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51819001022642, 25.032470014427076]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司古亭站",
+				"Address": "臺北市中正區羅斯福路2段164之1號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日07:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52331001196211, 25.025489984557723]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北自來水事業處臺北自來水園區",
+				"Address": "臺北市中正區思源街1號",
+				"Call": "02-83695091轉5217；02-83695217",
+				"Opening": "夏日週二至週日09:00~18:00；非夏日週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53059003014613, 25.013580012607193]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北自來水事業處臺北自來水園區",
+				"Address": "臺北市中正區思源街1號",
+				"Call": "02-83695091轉5217；02-83695217",
+				"Opening": "夏日週二至週日09:00~18:00；非夏日週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53059003014613, 25.013580012607193]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市中正運動中心",
+				"Address": "臺北市中正區信義路1段1號",
+				"Call": "02-23963358轉659",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51930002566394, 25.03820000916636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館城中分館",
+				"Address": "臺北市中正區濟南路2段46號",
+				"Call": "02-23938274轉9",
+				"Opening": "週二至週六08:30~21:00；週日、週一09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53089999292553, 25.04033999286608]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣臺北地方法院",
+				"Address": "臺北市中正區博愛路131號",
+				"Call": "02-23146817轉6616",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51110000978741, 25.036820012627558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣臺北地方法院檢察署",
+				"Address": "臺北市中正區博愛路131號",
+				"Call": "02-23146817轉6616",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51110000978741, 25.036820012627558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中華郵政股份有限公司郵政博物館",
+				"Address": "臺北市中正區重慶南路2段45號",
+				"Call": "02-23945185轉815",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51475996780897, 25.031570007573606]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市中山堂管理所",
+				"Address": "臺北市中正區延平南路98號",
+				"Call": "02-23813137轉228",
+				"Opening": "週一至週日09:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51016611751558, 25.043835295403685]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府文化局所屬臺北二二八紀念館",
+				"Address": "臺北市中正區凱達格蘭大道3號",
+				"Call": "02-23897228轉25",
+				"Opening": "週二至週日10:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51557996939664, 25.04027000397457]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市站前地下街場地利用合作社",
+				"Address": "臺北市中正區忠孝西路1段50之1號",
+				"Call": "02-23751567轉20",
+				"Opening": "週一至週五09:30~18:30、週六至週日11:00~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51582002710359, 25.04629998702849]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市臺北地下街場地利用合作社1",
+				"Address": "臺北市中正區市民大道1段100號",
+				"Call": "02-25594566轉504",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51848999854104, 25.048319983784253]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市臺北地下街場地利用合作社2",
+				"Address": "臺北市中正區市民大道1段100號",
+				"Call": "02-25594566轉504",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51848999854104, 25.048319983784253]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "立法院中興大樓（研究會館）",
+				"Address": "臺北市中正區濟南路1段3之1號",
+				"Call": "02-23585732",
+				"Opening": "週一至週五08:30~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52170999046496, 25.042960008160662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國家表演藝術中心國家兩院廳（國家音樂廳）",
+				"Address": "臺北市中正區中山南路21之1號",
+				"Call": "02-33939842",
+				"Opening": "週一至週日12:00~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52193001542332, 25.034729985070754]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國家表演藝術中心國家兩院廳（國家戲劇院）",
+				"Address": "臺北市中正區中山南路21之1號",
+				"Call": "02-33939842",
+				"Opening": "週一至週日12:00~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52193001542332, 25.034729985070754]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北國際藝術村",
+				"Address": "臺北市中正區北平東路7號",
+				"Call": "02-33937377轉108",
+				"Opening": "週二至週日11:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52232999984284, 25.046850007514863]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "水源劇場",
+				"Address": "臺北市中正區羅斯福路4段92號",
+				"Call": "02-23625221轉112",
+				"Opening": "演出時才開放觀眾使用"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53500997532859, 25.013749997603597]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市福安兒童服務中心（委託靖娟兒童安全文教基金會）",
+				"Address": "臺北市中正區汀州路1段123號",
+				"Call": "02-23391305轉316",
+				"Opening": "週三、週五、週六09:30~12:00；14:00~16:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5094500321473, 25.028179988743815]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "光華商場發展協會",
+				"Address": "臺北市中正區市民大道3段8號",
+				"Call": "02-23917105",
+				"Opening": "週一至週日10:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53191001225815, 25.04506001018224]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "經濟部礦務局",
+				"Address": "臺北市中正區中華路1段53號",
+				"Call": "02-23113001轉481",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50900998223062, 25.043300020062972]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立台灣博物館南門園區",
+				"Address": "臺北市中正區南昌路1段1號",
+				"Call": "02-23822699轉5350",
+				"Opening": "週二至週日09:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51602001931332, 25.03306999105638]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北花園大酒店",
+				"Address": "臺北市中正區中華路2段1號",
+				"Call": "02-23143300轉3212",
+				"Opening": "週一至週六11:00~21:30；週日及例假日10:30~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50693998742241, 25.03679000541419]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局交通警察大隊",
+				"Address": "臺北市中正區愛國西路26號",
+				"Call": "02-23752100轉1707",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51103999536065, 25.035180009452247]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北青年職涯發展中心",
+				"Address": "臺北市中正區仁愛路1段17號",
+				"Call": "02-23958567",
+				"Opening": "週二至週日10:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52217996377601, 25.038899981900542]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財團法人張榮發基金會",
+				"Address": "臺北市中正區中山南路11號",
+				"Call": "02-23516699轉6024",
+				"Opening": "週一至週日09:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51868001628605, 25.03871000606506]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財團法人新匯流文化基金會委託經營辦理臺北市中正親子館",
+				"Address": "臺北市中正區仁愛路1段17號",
+				"Call": "02-23516730轉9",
+				"Opening": "週二至週日09:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52217996377601, 25.038899981900542]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "三創數位生活園區",
+				"Address": "臺北市中正區市民大道3段2號",
+				"Call": "0809-093300轉9",
+				"Opening": "週日至週四11:00~21:30；週五、週六11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5310099634952, 25.04565998681153]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "行政院農業委員會林務局農林航空測量所",
+				"Address": "臺北市中正區和平西路2段100號",
+				"Call": "02-23332601",
+				"Opening": "週一至週五06:30~18:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51005998324138, 25.029860015506785]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "信誼小太陽親子館",
+				"Address": "臺北市中正區重慶南路2段51號",
+				"Call": "02-23951345轉1582",
+				"Opening": "週二至週日10:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51493003662438, 25.031210004832232]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "勞動部",
+				"Address": "臺北市中正區館前路77號",
+				"Call": "02-85902962",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51513002883416, 25.043700004482503]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣銀行仁愛分行",
+				"Address": "臺北市中正區仁愛路2段99號",
+				"Call": "02-23795936轉603",
+				"Opening": "週一至週五09:00~15:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53234997835585, 25.038400001376118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "衛生福利部中央健康保險署臺北業務組",
+				"Address": "臺北市中正區公園路15之1號",
+				"Call": "02-21912006",
+				"Opening": "依門診時間開放；週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51730999421204, 25.045190013500488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北凱撒大飯店",
+				"Address": "臺北市中正區忠孝西路1段38號",
+				"Call": "02-23115151轉2331",
+				"Opening": "週一至週日10:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51641002926806, 25.04622999813698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "桃園大眾捷運股份有限公司臺北車站",
+				"Address": "臺北市中正區鄭州路8號",
+				"Call": "03-2838888轉80140",
+				"Opening": "週一至週日05:50~24:20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51516003604752, 25.04877998263052]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司公館站",
+				"Address": "臺北市中正區羅斯福路4段64之1號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53417999927615, 25.014569999191238]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市家庭暴力暨性侵害防治中心委託財團法人現代婦女基金會經營管理同心園臺北親子會面中心",
+				"Address": "臺北市中正區新生南路1段54巷5弄2號",
+				"Call": "02-23615295轉3006",
+				"Opening": "週一、週三至週日09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53221025202993, 25.041388778500902]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立台灣博物館本館",
+				"Address": "臺北市中正區襄陽路2號",
+				"Call": "02-23822699轉5419",
+				"Opening": "週二至週日09:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51504000719405, 25.043279987314378]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立台灣博物館古生物館",
+				"Address": "臺北市中正區襄陽路25號",
+				"Call": "02-23822699轉5419",
+				"Opening": "週二至週日09:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51415999117967, 25.043570001164255]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國家攝影文化中心（大阪商船株式會社臺北支店舊址）",
+				"Address": "臺北市中正區忠孝西路1段70號",
+				"Call": "02-89787040轉307",
+				"Opening": "週二至週日10:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51477002609278, 25.046650015305104]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "二二八國家紀念館",
+				"Address": "臺北市中正區南海路54號",
+				"Call": "02-23326228轉129",
+				"Opening": "週一至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5137900139735, 25.031609989251763]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市青少年發展暨家庭教育中心",
+				"Address": "臺北市中正區仁愛路1段17號",
+				"Call": "02-23514078轉1709",
+				"Opening": "週一至週日09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52217996377601, 25.038899981900542]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中央健康保險署臺北業務組",
+				"Address": "臺北市中正區公園路15之1號",
+				"Call": "02-21912006",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51730999421204, 25.045190013500488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中央健康保險署臺北業務組",
+				"Address": "臺北市中正區公園路15之1號",
+				"Call": "02-21912006",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51730999421204, 25.045190013500488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市大同區健康服務中心",
+				"Address": "臺北市大同區昌吉街52號",
+				"Call": "02-25853227轉6639",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51634004037658, 25.065809998226257]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院中興院區/門診",
+				"Address": "臺北市大同區鄭州路145號",
+				"Call": "02-25523234轉6238、6228",
+				"Opening": "週一至週五08:00~17:00；週六08:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50889003719618, 25.05069000881663]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局大同分局",
+				"Address": "臺北市大同區錦西街200號",
+				"Call": "02-25538943",
+				"Opening": "週一至週五00:00~24:00 "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51503003272927, 25.05932001632607]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府工務局衛生下水道工程處",
+				"Address": "臺北市大同區酒泉街235號",
+				"Call": "02-25973183轉228",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51028000819974, 25.072270014822607]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市大同區公所",
+				"Address": "臺北市大同區昌吉街57號",
+				"Call": "02-25975323轉106",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51514000329894, 25.06600999043603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財政部關務署",
+				"Address": "臺北市大同區塔城街13號",
+				"Call": "02-25505500轉1130",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510600029263, 25.05120998018012]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市孔廟管理委員會",
+				"Address": "臺北市大同區大龍街275號",
+				"Call": "02-25923934轉18",
+				"Opening": "週二至週日08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51595003042183, 25.071860014028786]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "家福股份有限公司重慶分公司",
+				"Address": "臺北市大同區重慶北路2段171號",
+				"Call": "0920-817881",
+				"Opening": "週一至週日09:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51382002118686, 25.05911998220678]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "萬達通實業股份有限公司臺北轉運站",
+				"Address": "臺北市大同區市民大道1段209號",
+				"Call": "02-77335888轉3234",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51835002075802, 25.048889995109704]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "京站實業股份有限公司",
+				"Address": "臺北市大同區承德路1段1號",
+				"Call": "02-21828888轉9213",
+				"Opening": "週日至週四及例假日11:00~21:20；週五、週六11:00~21:50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168199881524, 25.049340019491197]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "京站實業股份有限公司",
+				"Address": "臺北市大同區承德路1段1號",
+				"Call": "02-21828888轉9213",
+				"Opening": "週日至週四及例假日11:00~21:20；週五、週六 11:00~21:50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168199881524, 25.049340019491197]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "京站實業股份有限公司",
+				"Address": "臺北市大同區承德路1段1號",
+				"Call": "02-21828888轉9213",
+				"Opening": "週日至週四及例假日11:00~21:20；週五、週六 11:00~21:50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168199881524, 25.049340019491197]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市藝文推廣處（大稻埕戲苑）",
+				"Address": "臺北市大同區迪化街1段21號",
+				"Call": "02-25569101轉281",
+				"Opening": "週二至週日08:30~18:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5103299643427, 25.05456999179654]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市西區單親家庭服務中心",
+				"Address": "臺北市大同區迪化街1段21號",
+				"Call": "02-25580170轉124",
+				"Opening": "週二、週三、週五、週六09:00~18:00；週四13:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5103299643427, 25.05456999179654]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣銀行延平分行",
+				"Address": "臺北市大同區南京西路406號",
+				"Call": "02-25522859轉313",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50985001656687, 25.05318999525774]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣銀行民權分行",
+				"Address": "臺北市大同區承德路2段239號",
+				"Call": "02-25530121轉213",
+				"Opening": "週一至週五09:00~15:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51851003128968, 25.062490010197507]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北當代藝術館",
+				"Address": "臺北市大同區長安西路39號",
+				"Call": "02-25523721轉233",
+				"Opening": "週二至週日10:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196700028701, 25.0503699877534]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司民權西路站",
+				"Address": "臺北市大同區民權西路72號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51024280563547, 25.06329445042311]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館蘭州民眾閱覽室",
+				"Address": "臺北市大同區昌吉街57號",
+				"Call": "02-25981387",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51514000329894, 25.06600999043603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館延平分館",
+				"Address": "臺北市大同區保安街47號",
+				"Call": "02-25528534",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00（除國定假日及每個月第一個禮拜四休館日）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51215001079822, 25.059249985525042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館大同分館",
+				"Address": "臺北市大同區重慶北路3段318號",
+				"Call": "02-25943236",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00；每月第一個週四及國定假日不開放（除國定假日及每個月第一個禮拜四休館日）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51356001455036, 25.074270020739306]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館建成分館",
+				"Address": "臺北市大同區民生西路198之20號",
+				"Call": "02-25582320",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00（除國定假日及每個月第一個禮拜四休館日）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51684999536576, 25.057040012933797]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司大橋頭站",
+				"Address": "臺北市大同區民權西路223號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:30~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51310999016886, 25.0631800084669]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府消防局第四大隊大同中隊大同分隊",
+				"Address": "臺北市大同區重慶北路2段223號",
+				"Call": "02-25577233",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51373997401157, 25.06147001640008]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院中興院區兒童發展評估療育中心",
+				"Address": "臺北市大同區鄭州路145號",
+				"Call": "02-25553000轉2879",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50889003719618, 25.05069000881663]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "衛生福利部國民健康署",
+				"Address": "臺北市大同區塔城街36號",
+				"Call": "02-25220888轉808",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51034999709128, 25.051560008456732]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司中山站",
+				"Address": "臺北市大同區南京西路55號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51941997069838, 25.05300001942227]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市大同運動中心",
+				"Address": "臺北市大同區大龍街51號",
+				"Call": "02-25920055轉701",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51609998266963, 25.064790004428843]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北君品大酒店",
+				"Address": "臺北市大同區承德路1段3號",
+				"Call": "02-21819950轉3012",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51687002811434, 25.049460006435154]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "三德觀光大飯店股份有限公司",
+				"Address": "臺北市大同區承德路3段49號",
+				"Call": "02-25963111轉3308",
+				"Opening": "週一至週五09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51854003850303, 25.064859993320354]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局刑事警察大隊",
+				"Address": "臺北市大同區重慶北路2段219號",
+				"Call": "02-23817292",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51372999954674, 25.0615299889173]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立臺灣博物館鐵道部園區",
+				"Address": "臺北市大同區延平北路1段2號",
+				"Call": "02-23822669轉5344",
+				"Opening": "週一至週日08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51133000921055, 25.04867998652564]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立臺灣博物館鐵道部園區（北門）",
+				"Address": "臺北市大同區延平北路1段2號",
+				"Call": "02-23822669轉5344",
+				"Opening": "週一至週日08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51133000921055, 25.04867998652564]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立臺灣博物館鐵道部園區",
+				"Address": "臺北市大同區延平北路1段2號",
+				"Call": "02-23822669轉5344",
+				"Opening": "週一至週日08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51133000921055, 25.04867998652564]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市萬華區公所",
+				"Address": "臺北市萬華區和平西路3段120號",
+				"Call": "02-23064468轉304",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49988996866153, 25.035000008081553]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市萬華區戶政事務所",
+				"Address": "臺北市萬華區和平西路3段120號",
+				"Call": "02-23062706轉5306",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49988996866153, 25.035000008081553]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財政部臺北市國稅局萬華稽徵所",
+				"Address": "臺北市萬華區萬大路90巷1號",
+				"Call": "02-23042270轉509",
+				"Opening": "週一至週五08:30~12:30、13:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4999300341587, 25.030190011034804]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財政部臺北國稅局",
+				"Address": "臺北市萬華區中華路1段2號",
+				"Call": "02-23113711轉2736",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5091900255108, 25.047839994098922]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館萬華分館",
+				"Address": "臺北市萬華區東園街19號",
+				"Call": "02-23391056",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49567001568886, 25.027910007642546]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部臺灣鐵路局運務處臺北運務段萬華站",
+				"Address": "臺北市萬華區康定路382號",
+				"Call": "02-23020481",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50031996029446, 25.03337999574532]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立臺灣大學醫學院附設醫院北護分院",
+				"Address": "臺北市萬華區內江街87號",
+				"Call": "02-23717101轉8107、8331、8340、8341",
+				"Opening": "週一至週五08:00~17:30、18:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50355001050212, 25.04173998024396]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院林森中醫昆明院區",
+				"Address": "臺北市萬華區昆明街100號",
+				"Call": "02-23887088轉3915",
+				"Opening": "週一至週五09:00~17:00；週六09:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50499002146768, 25.044110005276323]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "西園醫療社團法人西園醫院",
+				"Address": "臺北市萬華區西園路2段270號",
+				"Call": "02-23076968轉1609",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49442999693304, 25.027699999058484]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "同仁院醫療財團法人萬華醫院",
+				"Address": "臺北市萬華區中華路2段606巷6號",
+				"Call": "02-23059292轉202",
+				"Opening": "週一至週五08:30~21:30；週六08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50979000214011, 25.023970010235885]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北仁濟院附設仁濟醫院",
+				"Address": "臺北市萬華區廣州街243號",
+				"Call": "02-23021133轉2721",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49800001713356, 25.0368599943057]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府民政局新移民會館（萬華區）",
+				"Address": "臺北市萬華區長沙街2段171號",
+				"Call": "02-23701046轉65",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50168998236848, 25.040649997555022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "家福股份有限公司臺北桂林分公司",
+				"Address": "臺北市萬華區桂林路1號",
+				"Call": "02-23889887轉850",
+				"Opening": "週一至週日08:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50631000357976, 25.037669979519052]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館東園分館",
+				"Address": "臺北市萬華區東園街199號",
+				"Call": "02-23070460",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49813002045181, 25.022599988161872]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館西園分館",
+				"Address": "臺北市萬華區興寧街6號",
+				"Call": "02-23069046轉9",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50171998958183, 25.032219982255356]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中華郵政股份有限公司莒光郵局",
+				"Address": "臺北市萬華區莒光路210號",
+				"Call": "02-23024649",
+				"Opening": "週一至週五08:30~17:30；週六09:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50109998020395, 25.031349982615254]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市萬華運動中心",
+				"Address": "臺北市萬華區西寧南路6之1號",
+				"Call": "02-23759900轉618",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50706001627589, 25.047049999724635]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院附設萬華門診部",
+				"Address": "臺北市萬華區東園街152號",
+				"Call": "02-23395383",
+				"Opening": "週一至週五09:00~12:00；14:00~16:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49761000717876, 25.02316999948731]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "西園29服飾創作基地",
+				"Address": "臺北市萬華區西園路2段9號",
+				"Call": "02-23367599轉10",
+				"Opening": "週一至週五13:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49789465401287, 25.032766116310622]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財團法人臺北市文化基金會西門紅樓",
+				"Address": "臺北市萬華區成都路10號",
+				"Call": "02-23119380轉37",
+				"Opening": "週二至週四、週日11:00~21:30；週五、週六11:00~22:00；週一休館"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50517668478601, 25.042894587992432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館柳鄉民眾閱覽室",
+				"Address": "臺北市萬華區環河南路2段102號",
+				"Call": "02-23080586",
+				"Opening": "週一至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49547002347907, 25.0369399995715]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館龍山分館",
+				"Address": "臺北市萬華區桂林路65巷6號",
+				"Call": "02-23311497",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50247997674273, 25.038569986372522]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館龍山分館",
+				"Address": "臺北市萬華區桂林路65巷6號",
+				"Call": "02-23311497",
+				"Opening": "週二至週六08:30~21:30；週日、週一09:00~17:00                                                               "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50247997674273, 25.038569986372522]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市建成地政事務所",
+				"Address": "臺北市萬華區和平西路3段120號",
+				"Call": "02-23062122轉407",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49988996866153, 25.035000008081553]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "龍山寺地下街商場",
+				"Address": "臺北市萬華區西園路1段145號",
+				"Call": "02-23065988轉26",
+				"Opening": "週一至週日11:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49958000588214, 25.036920008732437]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "龍山文創基地",
+				"Address": "臺北市萬華區西園路1段145號",
+				"Call": "02-23065988轉26",
+				"Opening": "週二至週日11:00~19:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49958000588214, 25.036920008732437]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市畜產運銷股份有限公司",
+				"Address": "臺北市萬華區環河南路2段338號",
+				"Call": "02-23055115轉19",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4896300162606, 25.030420010457945]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府社會局龍山老人服務中心",
+				"Address": "臺北市萬華區梧州街36號",
+				"Call": "02-23361881",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49748000386052, 25.037369991204415]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財團法人臺北市文化基金會剝皮寮歷史街區",
+				"Address": "臺北市萬華區廣州街151號",
+				"Call": "02-23023199轉31",
+				"Opening": "週二至週日09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50190003286207, 25.036670018470232]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "龍山商場",
+				"Address": "臺北市萬華區和平西路3段120號",
+				"Call": "02-23415241轉2107",
+				"Opening": "週一至週五11:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49988996866153, 25.035000008081553]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市萬華親子館",
+				"Address": "臺北市萬華區水源路199號",
+				"Call": "02-23047468",
+				"Opening": "週二至週日09:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50696999463577, 25.02207000042408]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立文獻館",
+				"Address": "臺北市萬華區中華路1段174之1號",
+				"Call": "02-23115355轉13",
+				"Opening": "週一至週五10:00~17:00；週六、週日13:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50687997299565, 25.040150017030612]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市萬華婦女暨家庭服務中心 （臺北市政府社會局委託財團法人臺北基督教女青年會辦理）",
+				"Address": "臺北市萬華區東園街19號",
+				"Call": "02-23030105",
+				"Opening": "週二、週四、週五、週六09:00~18:00；週三12:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49567001568886, 25.027910007642546]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "糖業文化展示館",
+				"Address": "臺北市萬華區大理街132之10號",
+				"Call": "02-27208889轉3523",
+				"Opening": "週二至週日10:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49643997731454, 25.034019995962282]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市青年公園高爾夫球練習場",
+				"Address": "臺北市萬華區國興路5號",
+				"Call": "02-23014409",
+				"Opening": "週一至週日06:00~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5081599734296, 25.02410998801892]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局萬華分局",
+				"Address": "臺北市萬華區桂林路135號",
+				"Call": "02-23317410",
+				"Opening": "週一至週日08:30~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49958998034691, 25.038569986372522]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市文山區健康服務中心",
+				"Address": "臺北市文山區木柵路3段220號",
+				"Call": "02-22343501轉6878",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57008002585269, 24.989589999890697]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "銓敘部",
+				"Address": "臺北市文山區試院路1之2號",
+				"Call": "02-82366772",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5493000305953, 24.98747000703004]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市文山區公所",
+				"Address": "臺北市文山區木柵路3段220號",
+				"Call": "02-29365522轉324",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57008002585269, 24.989589999890697]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市文山區戶政事務所",
+				"Address": "臺北市文山區木柵路3段220號",
+				"Call": "02-29395885轉1305",
+				"Opening": "週一至週五08:30~20:30；每月最後一個上班日08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57008002585269, 24.989589999890697]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市古亭地政事務所",
+				"Address": "臺北市文山區萬隆街47之12號",
+				"Call": "02-29355369轉402",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53703001399384, 25.000669995788797]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局文山第一分局",
+				"Address": "臺北市文山區木柵路2段202號",
+				"Call": "02-29390534",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56371003089646, 24.988739991089673]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局文山第二分局",
+				"Address": "臺北市文山區景中街2號",
+				"Call": "02-29348641",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54104000029201, 24.992809991814568]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府環境保護局木柵垃圾焚化廠",
+				"Address": "臺北市文山區木柵路5段53號",
+				"Call": "02-22300800轉103",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58649003207057, 25.005160013681817]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府公務人員訓練處",
+				"Address": "臺北市文山區萬美街2段21巷20號",
+				"Call": "02-29320212轉360",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56079002728723, 25.003420014401627]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "公務人員保障暨培訓委員會",
+				"Address": "臺北市文山區試院路1之3號",
+				"Call": "02-82366923",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5493000305953, 24.98747000703004]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院政大門診部",
+				"Address": "臺北市文山區指南路2段117號",
+				"Call": "02-82377444",
+				"Opening": "週一、週三、週五、週六09:00~11:30、14:00~16:30；週二、週四14:00~16:30、18:00~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57652998416523, 24.987609984813076]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立動物園",
+				"Address": "臺北市文山區新光路2段30號",
+				"Call": "02-29382300轉613",
+				"Opening": "週一至週日09:00~17:00（全年無休，除夕除外）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58114114453979, 24.99915299463618]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立動物園",
+				"Address": "臺北市文山區新光路2段30號",
+				"Call": "02-29382300轉613",
+				"Opening": "週一至週日09:00~17:00（全年無休，除夕除外）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58114114453979, 24.99915299463618]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立動物園",
+				"Address": "臺北市文山區新光路2段30號",
+				"Call": "02-29382300轉613",
+				"Opening": "週一至週日09:00~17:00（全年無休，除夕除外）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58114114453979, 24.99915299463618]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立動物園",
+				"Address": "臺北市文山區新光路2段30號",
+				"Call": "02-29382300轉613",
+				"Opening": "週一至週日09:00~17:00（全年無休，除夕除外）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58114114453979, 24.99915299463618]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立動物園",
+				"Address": "臺北市文山區新光路2段30號",
+				"Call": "02-29382300轉613",
+				"Opening": "週一至週日09:00~17:00（全年無休，除夕除外）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58114114453979, 24.99915299463618]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立萬芳醫院-委託財團法人臺北醫學大學辦理 ",
+				"Address": "臺北市文山區興隆路3段111號",
+				"Call": "02-29307930轉8653",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5576700314682, 24.999630011152306]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司動物園站",
+				"Address": "臺北市文山區新光路2段32號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日07:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57914567066702, 24.997927694805558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "博嘉運動公園",
+				"Address": "臺北市文山區木柵路4段159巷16號",
+				"Call": "02-22395494轉30",
+				"Opening": "週二至週日08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57559003754312, 25.00101998215588]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立政治大學",
+				"Address": "臺北市文山區指南路2段64號",
+				"Call": "02-29393091轉63312",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57651003523569, 24.987409992603304]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立臺灣師範大學公館校區",
+				"Address": "臺北市文山區汀州路4段88號",
+				"Call": "02-77496447",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5371799662417, 25.00782998511933]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "世新大學",
+				"Address": "臺北市文山區木柵路1段17巷1號",
+				"Call": "02-22368225轉82078",
+				"Opening": "週一至週五08:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5440900072195, 24.988620004145716]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市文山運動中心",
+				"Address": "臺北市文山區興隆路3段222號",
+				"Call": "02-22308268轉221",
+				"Opening": "週一至週日06:00~22:00 （除夕、初一除外）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55967003738493, 24.997020012232014]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市文山婦女暨家庭服務中心",
+				"Address": "臺北市文山區景後街151號",
+				"Call": "02-29359595",
+				"Opening": "週二、週四、週五、週六09:00~18:00；週三09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54182002020156, 24.98988001374056]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "考選部",
+				"Address": "臺北市文山區試院路1之1號",
+				"Call": "02-22369188轉3190",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5493000305953, 24.98747000703004]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "考選部國家考場",
+				"Address": "臺北市文山區木柵路1段72號",
+				"Call": "02-22369188轉3190",
+				"Opening": "週一至週五 08:30~17:30；考試期間：考試開始至結束全程開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54933003780866, 24.987190009554467]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財政部臺北國稅局文山稽徵所",
+				"Address": "臺北市文山區木柵路3段220號",
+				"Call": "02-22343833轉109",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57008002585269, 24.989589999890697]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市藝文推廣處（文山劇場）",
+				"Address": "臺北市文山區景文街32號",
+				"Call": "02-29332199轉509",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54121995975322, 24.992000006601216]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館文山分館",
+				"Address": "臺北市文山區興隆路2段160號",
+				"Call": "02-29315339轉9",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55140003261687, 25.001559986267964]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市兆如老人安養護中心",
+				"Address": "臺北市文山區政大二街129號",
+				"Call": "02-86616365轉3113",
+				"Opening": "週一至週日08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58432004115747, 24.98919998993594]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館永建分館",
+				"Address": "臺北市文山區木柵路1段177號",
+				"Call": "02-22367448",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55098998991355, 24.987760020879918]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府社會局文山社會福利服務中心",
+				"Address": "臺北市文山區興隆路2段160號",
+				"Call": "02-29323587",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55140003261687, 25.001559986267964]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館萬興分館",
+				"Address": "臺北市文山區萬壽路27號",
+				"Call": "02-22345501轉9",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57658002412717, 24.988630020520006]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "財團法人優人文化藝術基金會永安藝文館",
+				"Address": "臺北市文山區木新路2段156之1號",
+				"Call": "02-29393088轉138",
+				"Opening": "週二至週六09:00~21:00；週日09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56900001762853, 24.984289996784312]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司貓空纜車",
+				"Address": "臺北市文山區新光路2段28號",
+				"Call": "0961-138751",
+				"Opening": "週二至週五09:00~21:00；週六、週日08:30~21:00       "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57715925342706, 24.99672684759462]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司貓空纜車",
+				"Address": "臺北市文山區新光路2段28號",
+				"Call": "0961-138751",
+				"Opening": "週二至週五09:00~21:00；週六、週日08:30~21:00       "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57715925342706, 24.99672684759462]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司貓空纜車",
+				"Address": "臺北市文山區新光路2段28號",
+				"Call": "0961-138751",
+				"Opening": "週二至週五09:00~21:00；週六、週日08:30~21:00       "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57715925342706, 24.99672684759462]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館力行分館",
+				"Address": "臺北市文山區一壽街22號",
+				"Call": "02-86612196轉9",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55627000218084, 24.979699982786414]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館景美分館",
+				"Address": "臺北市文山區羅斯福路5段176巷50號",
+				"Call": "02-29328457",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53656004068279, 25.003889987712668]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館木柵分館",
+				"Address": "臺北市文山區保儀路13巷3號",
+				"Call": "02-29397520轉9",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56919003537354, 24.98849000082747]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館萬芳民眾閱覽室",
+				"Address": "臺北市文山區萬美街1段25號",
+				"Call": "02-22305287",
+				"Opening": "週日、週一09:00~16:30；週二至週六08:30~20:30       "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5692699987298, 25.002240010072583]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館景新分館",
+				"Address": "臺北市文山區景後街151號",
+				"Call": "02-29331244",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54182002020156, 24.98988001374056]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府社會局老人自費安養中心",
+				"Address": "臺北市文山區興隆路4段109巷30弄6號",
+				"Call": "02-29393146轉3143",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56217999829079, 24.986600007389953]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府社會局委託財團法人獎卿護理展望基金會經營管理臺北市文山老人養護中心",
+				"Address": "臺北市文山區興隆路2段95巷8號",
+				"Call": "02-89313190轉28",
+				"Opening": "週一至週五 09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54688998197526, 25.000019979197546]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市文山老人服務中心",
+				"Address": "臺北市文山區萬壽路27號",
+				"Call": "02-22344893轉104",
+				"Opening": "週一至週五08:30~11:30、13:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57658002412717, 24.988630020520006]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市文山親子館",
+				"Address": "臺北市文山區木柵路1段177號",
+				"Call": "02-22365186",
+				"Opening": "週六及週日09:30~11:00、13:00~14:30、15:30~17:00；週二至週五09:30~12:00、14:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55098998991355, 24.987760020879918]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市公有興隆市場?",
+				"Address": "臺北市文山區興隆路2段97號",
+				"Call": "02-29349714",
+				"Opening": "週二至週日08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54744997692643, 24.999730007257185]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立政治大學",
+				"Address": "臺北市文山區指南路2段64號",
+				"Call": "02-29393091轉69326",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57651003523569, 24.987409992603304]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國家文官學院",
+				"Address": "臺北市南港區忠孝東路7段576號",
+				"Call": "02-26531670\n02-26531662",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61361001507083, 25.05269001473333]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局南港分局",
+				"Address": "臺北市南港區向陽路150號",
+				"Call": "02-27837921",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59464998244988, 25.05507001423048]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中央研究院",
+				"Address": "臺北市南港區研究院路2段128號",
+				"Call": "02-27899437",
+				"Opening": "週一至週日09:00~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61666999646309, 25.04201000325476]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中央研究院",
+				"Address": "臺北市研究院路2段128號",
+				"Call": "02-26525256轉5255",
+				"Opening": "週一至週日08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61666999646309, 25.04201000325476]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市南港運動中心",
+				"Address": "臺北市南港區玉成街69號",
+				"Call": "02-26532279轉223",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58168996757905, 25.04900998205366]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部臺灣鐵路管理局臺北運務段南港站",
+				"Address": "臺北市南港區南港路1段313號",
+				"Call": "02-23815226轉8378",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60733004175466, 25.05356998883819]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部臺灣鐵路管理局臺北運務段南港站",
+				"Address": "臺北市南港區南港路1段313號",
+				"Call": "02-27838645",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60733004175466, 25.05356998883819]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北巿立聯合醫院附設南港門診部",
+				"Address": "臺北市南港區南港路1段360號",
+				"Call": "02-27868756",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60675998851974, 25.0545300101184]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院忠孝院區",
+				"Address": "臺北市南港區同德路87號",
+				"Call": "02-27861288轉1833",
+				"Opening": "週一至週五09:00~17:00；週六09:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58616003654254, 25.046499979238263]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "南港軟體工業園區管理委員會",
+				"Address": "臺北市南港區三重路19之10號",
+				"Call": "02-26553093轉117",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61387002170733, 25.056029993601157]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司南港展覽館站",
+				"Address": "臺北市南港區研究院路1段1號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61683000699469, 25.054860005646418]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司南港站",
+				"Address": "臺北市南港區忠孝東路7段380號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60603998303696, 25.051809998718937]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市南港區公所",
+				"Address": "臺北市南港區南港路1段360號",
+				"Call": "02-27831343轉618",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60675998851974, 25.0545300101184]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館舊莊分館",
+				"Address": "臺北市南港區舊莊街1段91巷11號",
+				"Call": "02-27837212",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6194500222893, 25.04133999582443]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "南港國際展覽中心",
+				"Address": "臺北市南港區經貿二路1號",
+				"Call": "02-27255200轉5513",
+				"Opening": "週一至週日09:00~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61689999588623, 25.056899993241245]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市南港區戶政事務所",
+				"Address": "臺北市南港區南港路1段360號",
+				"Call": "02-27825196轉121",
+				"Opening": "週一至週五08:30~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60675998851974, 25.0545300101184]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府環境保護局山豬窟游泳池",
+				"Address": "臺北市南港區舊莊街1段290巷32號",
+				"Call": "02-26511418轉126、02-26511434轉111",
+				"Opening": "週二至週日08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.62484000512626, 25.033989988748914]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府原住民族事務委員會北原會館",
+				"Address": "臺北市南港區向陽路49號",
+				"Call": "02-27828740",
+				"Opening": "週一至週五09:00~21:00；週六、週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59448997191828, 25.054020013219684]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館龍華民眾閱覽室",
+				"Address": "臺北市南港區東新街63巷8號",
+				"Call": "02-27851740",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58699998705976, 25.04757001299764]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "衛生福利部",
+				"Address": "臺北市南港區忠孝東路6段488號",
+				"Call": "02-85907845",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5952541963098, 25.05060042038515]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰旭展股份有限公司CITY LINK南港店",
+				"Address": "臺北市南港區忠孝東路7段369號",
+				"Call": "02-26529116",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00\n"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60722996183074, 25.052679998359025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰旭展股份有限公司CITY LINK南港店",
+				"Address": "臺北市南港區忠孝東路7段369號",
+				"Call": "02-26529116",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00\n"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60722996183074, 25.052679998359025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰旭展股份有限公司CITY LINK南港店",
+				"Address": "臺北市南港區忠孝東路7段369號",
+				"Call": "02-26529116",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00\n"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60722996183074, 25.052679998359025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰旭展股份有限公司CITY LINK南港店",
+				"Address": "臺北市南港區忠孝東路7段369號",
+				"Call": "02-26529116",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00\n"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60722996183074, 25.052679998359025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰旭展股份有限公司CITY LINK南港店",
+				"Address": "臺北市南港區忠孝東路7段369號",
+				"Call": "02-26529116",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00\n"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60722996183074, 25.052679998359025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰旭展股份有限公司CITY LINK南港店",
+				"Address": "臺北市南港區忠孝東路7段369號",
+				"Call": "02-26529116",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00\n"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60722996183074, 25.052679998359025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰旭展股份有限公司CITY LINK南港店",
+				"Address": "臺北市南港區忠孝東路7段369號",
+				"Call": "02-26529116",
+				"Opening": "週一至週五11:00~21:30；週六、週日11:00~22:00\n"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60722996183074, 25.052679998359025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中國信託金融園區",
+				"Address": "臺北市南港區經貿二路186之1號",
+				"Call": "02-33277777轉5199、2349",
+				"Opening": "週一至週五09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61529997438907, 25.059229994685964]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "台灣高速鐵路股份有限公司南港站",
+				"Address": "臺北市南港區南港路1段313號",
+				"Call": "02-66161000轉22037",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60733004175466, 25.05356998883819]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Global Mall南港車站",
+				"Address": "臺北市南港區忠孝東路7段371號",
+				"Call": "02-27893289轉7010、7011",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6075000267511, 25.052569985879856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Global Mall南港車站",
+				"Address": "臺北市南港區忠孝東路7段371號",
+				"Call": "02-27893289轉7010、7011",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6075000267511, 25.052569985879856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北六福萬怡酒店",
+				"Address": "臺北市南港區忠孝東路7段359號",
+				"Call": "02-66156565轉2150",
+				"Opening": "週一至週日07:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60606001578554, 25.052510013362635]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館南港分館",
+				"Address": "臺北市南港區南港路1段350號",
+				"Call": "02-27825232",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60708882292398, 25.054487906635213]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北流行音樂中心",
+				"Address": "臺北市南港區市民大道99號",
+				"Call": "02-27886620轉8315",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60681000000011, 25.054370000000063]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市內湖區健康服務中心",
+				"Address": "臺北市內湖區民權東路6段99號",
+				"Call": "02-27911162轉7036",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58893000408494, 25.069220007895126]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "三軍總醫院附設民眾診療服務處（內湖院區）",
+				"Address": "臺北市內湖區成功路2段325號",
+				"Call": "02-87923311轉88087",
+				"Opening": "週一至週五09:00~22:00；週六09:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59054997451165, 25.070190003640107]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "三軍總醫院附設民眾診療服務處（內湖院區）",
+				"Address": "臺北市內湖區成功路2段325號",
+				"Call": "02-87923311轉88087",
+				"Opening": "週一至週五09:00~22:00；週六09:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59054997451165, 25.070190003640107]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "康寧醫療財團法人康寧醫院",
+				"Address": "臺北市內湖區成功路5段420巷26號",
+				"Call": "02-26345500轉2066",
+				"Opening": "週一至週五08:00~21:30；週六、週日08:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6084200244436, 25.075030007900224]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中國醫藥大學附設醫院臺北分院",
+				"Address": "臺北市內湖區內湖路2段360號",
+				"Call": "02-27919696轉1613",
+				"Opening": "週一至週五08:00~21:00；週六08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59060001447358, 25.08212000833923]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市環保局內湖垃圾焚化廠",
+				"Address": "臺北市內湖區安康路290號",
+				"Call": "02-27961833轉352",
+				"Opening": "週二至週日05:30~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.60688999183799, 25.064299998369208]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "大潤發流通事業股份有限公司南湖分公司",
+				"Address": "臺北市內湖區舊宗路1段188號",
+				"Call": "02-27905050",
+				"Opening": "週一至週日07:30~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57592003307116, 25.062930018204696]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府消防局防災科學教育館",
+				"Address": "臺北市內湖區成功路2段376號",
+				"Call": "02-27297668轉8312",
+				"Opening": "週二至週日09:00~12:00；14:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59037001505044, 25.069320004000005]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣士林地方法院（內湖民事大樓）",
+				"Address": "臺北市內湖區民權東路6段91號",
+				"Call": "02-27911521轉2756",
+				"Opening": "週一至週五08:00~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58817001692398, 25.069270005947573]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局內湖分局",
+				"Address": "臺北市內湖區民權東路6段101號",
+				"Call": "02-27909716",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58955001346283, 25.069179984307468]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局內湖分局文德派出所",
+				"Address": "臺北市內湖區民權東路6段26號",
+				"Call": "02-27944946",
+				"Opening": "週一至週日07:30~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57871141270945, 25.066657606200216]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館內湖分館",
+				"Address": "臺北市內湖區民權東路6段99號",
+				"Call": "02-27918772",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58893000408494, 25.069220007895126]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館東湖分館",
+				"Address": "臺北市內湖區五分街6號",
+				"Call": "02-26323378",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61259002127338, 25.06756001388075]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館西湖分館",
+				"Address": "臺北市內湖區內湖路1段594號",
+				"Call": "02-27973183",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57725996411278, 25.078800020310467]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市內湖運動中心",
+				"Address": "臺北市內湖區洲子街12號",
+				"Call": "02-26562869轉223",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57514998762645, 25.078230008985017]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "哈拉影城有限公司",
+				"Address": "臺北市內湖區康寧路3段72號",
+				"Call": "02-26322693轉377",
+				"Opening": "週一至週日10:30~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.61141999140915, 25.07012998921337]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "中欣實業股份有限公司-特力屋內湖店",
+				"Address": "臺北市內湖區新湖三路23號",
+				"Call": "02-87915197、02-87915168轉5177",
+				"Opening": "週一至週日10:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57409998661564, 25.06246000298414]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府社會局-內湖老人服務中心",
+				"Address": "臺北市內湖區康樂街110巷16弄20號",
+				"Call": "02-26325560轉13",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6183000251736, 25.070379979475575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北花卉產銷股份有限公司",
+				"Address": "臺北市內湖區新湖三路28號",
+				"Call": "02-27909729轉802",
+				"Opening": "週一至週六04:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57419998272053, 25.06285998740367]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北花卉產銷股份有限公司",
+				"Address": "臺北市內湖區新湖三路36號",
+				"Call": "02-27909729轉802",
+				"Opening": "週一至週六04:00~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5751799948398, 25.063150001253533]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市內湖親子館暨托嬰中心",
+				"Address": "臺北市內湖區內湖路1段659號",
+				"Call": "02-77097990",
+				"Opening": "週二至週日09:00~12:00、14:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5753400053714, 25.080300003793226]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "潤泰旭展股份有限公司（Citylink內湖店）",
+				"Address": "臺北市內湖區成功路4段188號",
+				"Call": "02-77096100轉106",
+				"Opening": "週一至週日11:00~21:30；例假日前1天11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59454998634504, 25.084079990668258]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市網球中心",
+				"Address": "臺北市內湖區民權東路6段208號",
+				"Call": "02-27951166轉815",
+				"Opening": "週一至週日06:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59550465177352, 25.068325776857904]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館西中分館",
+				"Address": "臺北市內湖區內湖路1段285巷66號",
+				"Call": "02-87515497",
+				"Opening": "週二至週六08:30~21:00；週日至週一09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56667001618382, 25.084819986990098]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市士林區健康服務中心",
+				"Address": "臺北市士林區中正路439號",
+				"Call": "02-28813039轉7141",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51969003561868, 25.092840001495944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立故宮博物院",
+				"Address": "臺北市士林區至善路2段221號",
+				"Call": "02-28812021轉68874、2267",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54957998616135, 25.100229990249602]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立故宮博物院",
+				"Address": "臺北市士林區至善路2段221號",
+				"Call": "02-28812021轉68874、2267",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54957998616135, 25.100229990249602]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立故宮博物院",
+				"Address": "臺北市士林區至善路2段221號",
+				"Call": "02-28812021轉68874、2267",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54957998616135, 25.100229990249602]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣士林地方法院",
+				"Address": "臺北市士林區士東路190號",
+				"Call": "02-28312321轉565",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53290997330703, 25.111740019690117]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市士林區戶政事務所",
+				"Address": "臺北市士林區中正路439號",
+				"Call": "02-28803252轉304",
+				"Opening": "週一至週五08:30~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51969003561868, 25.092840001495944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立陽明教養院",
+				"Address": "臺北市士林區凱旋路61巷4弄9號",
+				"Call": "02-28611380轉156",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54120001082367, 25.13516999554595]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立天文科學教育館",
+				"Address": "臺北市士林區基河路363號",
+				"Call": "02-28314551轉508",
+				"Opening": "週二至週五、週日09:00~17:00；週六09:00~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51833996247422, 25.095779995944255]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市職能發展學院",
+				"Address": "臺北市士林區士東路301號",
+				"Call": "02-28721940轉246",
+				"Opening": "週一至週五08:30~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53772001226326, 25.11471999581657]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立臺灣科學教育館",
+				"Address": "臺北市士林區士商路189號",
+				"Call": "02-66101234轉1716",
+				"Opening": "週二至週五08:00~18:00；週六、週日08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51596997935138, 25.095979988154014]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院陽明院區",
+				"Address": "臺北市士林區雨聲街105號",
+				"Call": "02-28353456轉6280",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53156995844637, 25.105189981453677]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光醫療財團法人新光吳火獅紀念醫院",
+				"Address": "臺北市士林區文昌路95號",
+				"Call": "02-28332211轉2601",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52032001946134, 25.09628001837818]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "大葉高島屋百貨股份有限公司",
+				"Address": "臺北市士林區忠誠路2段55號",
+				"Call": "02-28312345轉4414、2381",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53144003894715, 25.111810008581642]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "大葉高島屋百貨股份有限公司",
+				"Address": "臺北市士林區忠誠路2段55號",
+				"Call": "02-28312345轉4414、2381",
+				"Opening": "週一至週日11:00~22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53144003894715, 25.111810008581642]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "家樂福股份有限公司天母分公司",
+				"Address": "臺北市士林區德行西路47號",
+				"Call": "02-28338042",
+				"Opening": "週一至週日08:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52255999926598, 25.105549984195065]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司臺北天母店A館",
+				"Address": "臺北市士林區天母東路68號",
+				"Call": "02-28756000轉3608",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53391999263965, 25.117950004114746]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "新光三越百貨股份有限公司臺北天母店B館",
+				"Address": "臺北市士林區忠誠路2段200號",
+				"Call": "02-287560000轉3608",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53412995931421, 25.117030006422212]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "太平洋崇光百貨股份有限公司天母店",
+				"Address": "臺北市士林區中山北路6段77號",
+				"Call": "02-28345000轉5328  ",
+				"Opening": "週一至週日11:00~21:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52452002350452, 25.104690000929253]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "台灣電力公司臺北北區營業處",
+				"Address": "臺北市士林區中山北路5段380號",
+				"Call": "02-28881678轉668",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52768997546644, 25.090739999474366]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館天母分館",
+				"Address": "臺北市士林區中山北路7段154巷6號",
+				"Call": "02-28736203",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53293998052038, 25.1234399830566]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣士林地方法院檢察署",
+				"Address": "臺北市士林區士東路190號",
+				"Call": "02-28331911轉5803",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53290997330703, 25.111740019690117]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "交通部公路總局臺北市區監理所士林監理站",
+				"Address": "臺北市士林區承德路5段80號",
+				"Call": "02-27630155轉705",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5142299800712, 25.09462999882858]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北數位藝術中心",
+				"Address": "臺北市士林區福華路180號",
+				"Call": "0937-019003",
+				"Opening": "週二至週六11:00~16:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5221657746381, 25.10542700560582]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市士林運動中心",
+				"Address": "臺北市士林區士商路1號",
+				"Call": "02-28806066",
+				"Opening": "週一至週日09:00~19:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52141000215028, 25.089670007624505]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "特力屋股份有限公司士林分公司",
+				"Address": "臺北市士林區基河路258號",
+				"Call": "02-28891000轉687",
+				"Opening": "週一至週日09:30~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5205299861359, 25.092440017076413]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北自來水事業處陽明營業分處",
+				"Address": "臺北市士林區中山北路5段82號",
+				"Call": "02-28882108",
+				"Opening": "週一至週五08:00~16:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52561916961946, 25.084007141356924]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司劍潭站",
+				"Address": "臺北市士林區中山北路5段65號",
+				"Call": "02-21812345",
+				"Opening": "週一至週日06:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52519996349008, 25.08292001908781]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局士林分局",
+				"Address": "臺北市士林區文林路235號",
+				"Call": "02-28822625",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52678003605769, 25.090690001421933]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館葫蘆堵分館",
+				"Address": "臺北市士林區延平北路5段136巷1號",
+				"Call": "02-28126513",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51087001036427, 25.082189997230742]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府體育局（天母棒球場）",
+				"Address": "臺北市士林區忠誠路2段77號",
+				"Call": "02-28736548轉2101",
+				"Opening": "比賽舉行才會開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53280997720213, 25.113550007861832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市士林區公所公民會館",
+				"Address": "臺北市士林區大東路75號",
+				"Call": "02-88611753",
+				"Opening": "週一至週日09:00~12:00、14:00~17:00、18:00~21:00 "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5254499956618, 25.090460001998792]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市公有士林市場",
+				"Address": "臺北市士林區基河路101號",
+				"Call": "02-28815557",
+				"Opening": "週一至週日15:00~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5243699874377, 25.087420011445616]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市士林地政事務所",
+				"Address": "臺北市士林區中正路439號",
+				"Call": "02-28812483轉404",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51969003561868, 25.092840001495944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺灣士林地方法院（士林簡易庭）",
+				"Address": "臺北市士林區重慶北路4段2號",
+				"Call": "02-28312321轉565",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51339579617704, 25.0809142762576]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立陽明教養院委託天主教耕莘醫療財團法人永和耕莘醫院經營管理臺北市永福之家",
+				"Address": "臺北市士林區莊頂路2號",
+				"Call": "02-28611381轉2036",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54947999005645, 25.110769982035634]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市士林親子館",
+				"Address": "臺北市士林區基河路130號",
+				"Call": "02-28830262轉105",
+				"Opening": "週二至週日09:30~12:00、14:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52292000200737, 25.089049998246622]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館李科永紀念圖書館",
+				"Address": "臺北市士林區中正路15號",
+				"Call": "02-28833453",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5306000046109, 25.095860001210056]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北高等行政法院",
+				"Address": "臺北市士林區福國路101號",
+				"Call": "02-28333822轉311",
+				"Opening": "週一至週日08:00~24:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51852998021923, 25.101409994578646]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市公有士東市場",
+				"Address": "臺北市士林區士東路100號",
+				"Call": "02-28345308",
+				"Opening": "週二至週日08:00~16:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52928002249882, 25.111919979151295]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立兒童新樂園",
+				"Address": "臺北市士林區士東路100號",
+				"Call": "02-28833823轉625",
+				"Opening": "週一至週五09:00~17:00；週六09:00~20:00；週日09:00~18:00（依館方開園時間為主）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52928002249882, 25.111919979151295]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國立傳統藝術中心（台灣戲曲中心）",
+				"Address": "臺北市士林區文林路751號",
+				"Call": "02-88669614",
+				"Opening": "週二至週日10:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51944000344696, 25.102789991117447]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "陽明山國家公園管理處（冷水坑遊客服務站）",
+				"Address": "臺北市士林區菁山路101巷170號",
+				"Call": "02-28610036",
+				"Opening": "週一至週日09:00~16:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5639299720358, 25.165590017645428]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "陽明山國家公園管理處（擎天崗遊客服務站）",
+				"Address": "臺北市士林區菁山路101巷246號",
+				"Call": "02-28615404",
+				"Opening": "週一至週日09:00~16:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57400996497552, 25.167179980858776]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市士林區公所",
+				"Address": "臺北市士林區中正路439號",
+				"Call": "02-28826200轉8703",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51969003561868, 25.092840001495944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府工務局公園路燈工程管理處",
+				"Address": "臺北市士林區福林路60號",
+				"Call": "02-28812512轉19",
+				"Opening": "週一至週日08:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52999164565632, 25.094943311451946]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北表演藝術中心",
+				"Address": "臺北市士林區劍潭路1號",
+				"Call": "02-77563888轉1731",
+				"Opening": "週二至週日12:00~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52049000445777, 25.082730001342824]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府消防局第四救災救護大隊士林中隊劍潭分隊",
+				"Address": "臺北市士林區中北路5段376號",
+				"Call": "02-28813019",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51976000000002, 25.09313000000003]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市北投區健康服務中心",
+				"Address": "臺北市北投區石牌路2段111號",
+				"Call": "02-28261026轉7269",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51727998699869, 25.118099998272072]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北北投區戶政事務所",
+				"Address": "臺北市北投區新市街30號",
+				"Call": "02-28924170轉671",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50257997284763, 25.13268999994392]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館石牌分館",
+				"Address": "臺北市北投區明德路208巷5號",
+				"Call": "02-28239634",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52265999537087, 25.113179988746154]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市教師研習中心",
+				"Address": "臺北市北投區建國街20號",
+				"Call": "02-28616942轉221",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54903048590909, 25.151228587794904]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "陽明山國家公園管理處（遊客中心）",
+				"Address": "臺北市北投區竹子湖路1之20號",
+				"Call": "02-228613601轉802",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54028998759588, 25.169409986198602]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "北投婦女暨家庭服務中心",
+				"Address": "臺北市北投區中央北路1段12號",
+				"Call": "02-28961918轉17",
+				"Opening": "週二至週六09:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50099998409905, 25.133909985951107]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立聯合醫院附設北投門診部",
+				"Address": "臺北市北投區新市街30號",
+				"Call": "02-28912670",
+				"Opening": "週一至週五09:00~18:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50257997284763, 25.13268999994392]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北榮民總醫院",
+				"Address": "臺北市北投區石牌路2段201號",
+				"Call": "02-28757568、02-28757379",
+				"Opening": "週一至週五09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52141000215028, 25.11985998839134]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北榮民總醫院",
+				"Address": "臺北市北投區石牌路2段201號",
+				"Call": "02-28712121轉6081",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52141000215028, 25.11985998839134]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北榮民總醫院",
+				"Address": "臺北市北投區石牌路2段201號",
+				"Call": "02-55688495",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52141000215028, 25.11985998839134]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北榮民總醫院",
+				"Address": "臺北市北投區石牌路2段201號",
+				"Call": "0938-597512",
+				"Opening": "週一至週五08:00~17:30；週六08:00~14:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52141000215028, 25.11985998839134]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北榮民總醫院",
+				"Address": "臺北市北投區石牌路2段322號",
+				"Call": "02-28712121轉3364",
+				"Opening": "週一至週六08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5229599836855, 25.120800018832455]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北榮民總醫院（第三門診）",
+				"Address": "臺北市北投區石牌路2段322號",
+				"Call": "02-28757414",
+				"Opening": "週一至週六08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5229599836855, 25.120800018832455]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立關渡醫院",
+				"Address": "臺北市北投區知行路225巷12號",
+				"Call": "02-28587000轉2091",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46635003456208, 25.12018000945457]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "振興醫療財團法人振興醫院",
+				"Address": "臺北市北投區振興街45號",
+				"Call": "02-28264400轉2427",
+				"Opening": "週一至週五08:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52239998873432, 25.117540003320926]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "醫療財團法人辜公亮基金會和信治癌中心醫院",
+				"Address": "臺北市北投區立德路125號",
+				"Call": "02-28970011轉3750、3752",
+				"Opening": "週一至週五08:30~17:00；週六08:30~12:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.47200999850037, 25.12832998536915]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國防醫學院三軍總醫院北投分院",
+				"Address": "臺北市北投區新民路60號",
+				"Call": "02-28959808轉603150",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50971003878385, 25.139849989274452]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市北投運動中心",
+				"Address": "臺北市北投區石牌路1段39巷100號",
+				"Call": "02-28202880轉12",
+				"Opening": "週一至週日08:00~20:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50976996939153, 25.11647001147105]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "春天酒店股份有限公司",
+				"Address": "臺北市北投區幽雅路18號",
+				"Call": "02-28924546轉120",
+				"Opening": "週一至週五08:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5136300034419, 25.13759999309555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府環境保護局北投垃圾焚化廠",
+				"Address": "臺北市北投區洲美街271號",
+				"Call": "02-28360050轉107",
+				"Opening": "週一至週五08:30~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49870996433248, 25.109180018822286]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府警察局北投分局",
+				"Address": "臺北市北投區中央北路1段1號",
+				"Call": "02-28923241",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50132997962709, 25.13339001458762]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館北投分館",
+				"Address": "臺北市北投區光明路251號",
+				"Call": "02-28977682",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50627002190157, 25.136339983500704]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館清江分館",
+				"Address": "臺北市北投區公館路198號",
+				"Call": "02-28960315",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50719999405891, 25.127749999578924]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館吉利分館",
+				"Address": "臺北市北投區立農街1段366號",
+				"Call": "02-28201633",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00；每月第一個週四及國定假日不開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50838997285274, 25.119330000653548]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館秀山民眾閱覽室",
+				"Address": "臺北市北投區中和街534號",
+				"Call": "02-28921475",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49331998149552, 25.14552998596129]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市立圖書館永明民眾閱覽室",
+				"Address": "臺北市北投區石牌路2段115號",
+				"Call": "02-28234141",
+				"Opening": "週日、週一09:00~17:00；週二至週六08:30~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51757997531331, 25.118269983268462]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "日勝生加賀屋國際溫泉飯店股份有限公司",
+				"Address": "臺北市北投區光明路236號",
+				"Call": "02-28911238轉6301",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50706001627589, 25.13607000239942]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府原住民族事務委員會凱達格蘭文化館",
+				"Address": "臺北市北投區中山路3之1號",
+				"Call": "0938-436511",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50543996203015, 25.137159985088346]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司北投站",
+				"Address": "臺北市北投區光明路1號",
+				"Call": "02-21812345",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49952563405289, 25.13272434154397]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "北投溫泉博物館",
+				"Address": "臺北市北投區中山路2號",
+				"Call": "02-28939981",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5071200307026, 25.136690011777304]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "國防部福利處臺北市北投區福利供應站",
+				"Address": "臺北市北投區中央北路2段338號",
+				"Call": "02-28913431",
+				"Opening": "週一至週日09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48855000803644, 25.138530007162373]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府社會局北投社會福利服務中心",
+				"Address": "臺北市北投區新市街30號",
+				"Call": "02-28942640",
+				"Opening": "週一至週五08:30~17:30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50257997284763, 25.13268999994392]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "社團法人臺北市野鳥學會關渡自然公園管理處",
+				"Address": "臺北市北投區關渡路55號",
+				"Call": "02-28587417轉234",
+				"Opening": "週二至週日09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46924003095796, 25.119410005919363]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市北投親子館暨托嬰中心",
+				"Address": "臺北市北投區光明路22號",
+				"Call": "02-28983217轉217",
+				"Opening": "週一至週五09:30~12:00；14:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49919997039211, 25.132490007734148]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北大眾捷運股份有限公司（北投會館）",
+				"Address": "臺北市北投區大業路527巷88號",
+				"Call": "02-28930102轉8339",
+				"Opening": "週一至週日09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48395999403857, 25.13492997974852]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "好市多股份有限公司北投分公司",
+				"Address": "臺北市北投區立德路117號",
+				"Call": "02-289861050轉207",
+				"Opening": "週一至週日10:00~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.47165997022375, 25.126780003833943]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府消防局第四大隊陽明山分隊",
+				"Address": "臺北市北投區勝利路1號",
+				"Call": "02-28616119",
+				"Opening": "每日24小時開放"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50253000000009, 25.13289000000003]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "臺北市政府環境保護局北投垃圾焚化廠",
+				"Address": "臺北市北投區洲美街271號",
+				"Call": "02-28360050",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49870996433248, 25.109180018822286]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "陽明山國家公園管理處陽明書屋",
+				"Address": "臺北市北投區中興路12號",
+				"Call": "02-28611444",
+				"Opening": "週一至週五09:00~17:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53941139829493, 25.16162818548129]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "家樂福北投店",
+				"Address": "臺北市北投區中和街366號",
+				"Call": "0963-079728",
+				"Opening": "週一至週日08:00~23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49945000256383, 25.14168998465952]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "北投老爺酒店",
+				"Address": "臺北市北投區中和街2號",
+				"Call": "02-28969777轉8878",
+				"Opening": "週一至週日09:00~21:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50369996274992, 25.13758000225647]
+			}
+		}
+	]
+}
